@@ -19,7 +19,7 @@ import requests
 
 ROOT = Path(__file__).resolve().parent.parent
 API = 'https://api.github.com'
-MAX_ASSET = 2_000_000_000
+MAX_ASSET = 2_140_000_000
 NON_KERNEL = re.compile(r'(full[-_ ]?(?:nethunter|installer)|installer|rootfs|helpers?[-_ ]?source|source[-_ ]?zip)', re.I)
 
 
@@ -173,12 +173,16 @@ def main():
     downloader.headers.update({'User-Agent': 'nethunter-all-kernel/1.0'})
 
     previous = {}
+    previous_releases = []
     if Path(args.out).exists():
         try:
-            for rel in json.load(open(args.out, encoding='utf-8')).get('releases', []):
+            payload = json.load(open(args.out, encoding='utf-8'))
+            previous_releases = payload.get('releases', [])
+            for rel in previous_releases:
                 previous[rel.get('tag')] = rel.get('asset_map') or {}
         except Exception:
             previous = {}
+            previous_releases = []
 
     releases = []
     failures = []
@@ -272,12 +276,18 @@ def main():
             'assets': [{'source_url': src, 'url': mirror} for src, mirror in asset_map.items()],
         })
 
+    merged = {rel.get('tag'): rel for rel in previous_releases if rel.get('tag')}
+    for rel in releases:
+        merged[rel['tag']] = rel
+    releases = list(merged.values())
+    total_assets = sum(len(rel.get('assets') or []) for rel in releases)
+
     out = {
         'generated': datetime.now(timezone.utc).isoformat(timespec='seconds'),
         'repo': args.repo,
         'releases': releases,
         'failures': failures,
-        'uploaded_assets': uploaded,
+        'uploaded_assets': total_assets,
     }
     Path(args.out).write_text(json.dumps(out, indent=2) + '\n', encoding='utf-8')
     print(f"wrote {args.out}: {len(releases)} releases, {uploaded} uploaded, {len(failures)} failures")

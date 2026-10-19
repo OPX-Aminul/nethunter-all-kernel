@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-19T20:31:46+00:00",
+  "generated": "2026-10-19T20:56:03+00:00",
   "repo": "OPX-Aminul/nethunter-all-kernel",
   "releases": [
     {
@@ -1739,8 +1739,15 @@
       "developer": "howfan31",
       "kernel": "kali nethunter 2026.2 pdx201 los thirteen full repaired",
       "upstream_tag": "v1.0",
-      "asset_map": {},
-      "assets": []
+      "asset_map": {
+        "https://github.com/howfan31/kali-nethunter-2026.2-pdx201-los-thirteen-full-repaired/releases/download/v1.0/kali-nethunter-2026.2-pdx201-los-thirteen-full-repaired.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-pdx201-kali-nethunter-2026-2-pdx201-los-thi-v1-0/kali-nethunter-2026.2-pdx201-los-thirteen-full-repaired.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/howfan31/kali-nethunter-2026.2-pdx201-los-thirteen-full-repaired/releases/download/v1.0/kali-nethunter-2026.2-pdx201-los-thirteen-full-repaired.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-pdx201-kali-nethunter-2026-2-pdx201-los-thi-v1-0/kali-nethunter-2026.2-pdx201-los-thirteen-full-repaired.zip"
+        }
+      ]
     },
     {
       "tag": "nh-juice-android-nethunter-kernel-xiaomi-juic-0-1",
@@ -1761,12 +1768,6 @@
       ]
     }
   ],
-  "failures": [
-    {
-      "tag": "nh-pdx201-kali-nethunter-2026-2-pdx201-los-thi-v1-0",
-      "asset": "kali-nethunter-2026.2-pdx201-los-thirteen-full-repaired.zip",
-      "error": "above GitHub 2GB asset limit"
-    }
-  ],
-  "uploaded_assets": 170
+  "failures": [],
+  "uploaded_assets": 171
 }

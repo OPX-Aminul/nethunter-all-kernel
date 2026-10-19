@@ -14,8 +14,8 @@ Generated 2026-10-19 from `site/data.json`.
 | Releases reported by sources | 992 |
 | Upstream release groups found in asset URLs | 33 |
 | Mirrored releases in this repository | 70 |
-| Mirrored assets in this repository | 170 |
-| Mirror failures / skipped assets | 1 |
+| Mirrored assets in this repository | 171 |
+| Mirror failures / skipped assets | 0 |
 
 A release count is what the source publishes. A direct file is an actual ZIP, IMG, or archive link that can be downloaded. The two are not the same: many repositories have releases with no kernel asset.
 

@@ -38,7 +38,7 @@ Discover and document publicly verifiable Android kernels and kernel ports that 
 | Kernels with no prebuilt file (build queue) | 604 |
 | Device cards with no prebuilt kernel | 279 |
 | Mirrored releases in the repository | 70 |
-| Mirrored developer assets | 170 |
+| Mirrored developer assets | 171 |
 | Source confirmed (official registry) | 266 |
 | Developer claimed (all rows) | 146 |
 | Unverified candidate (all rows) | 186 |
@@ -46,7 +46,7 @@ Discover and document publicly verifiable Android kernels and kernel ports that 
 
 ## Release publication
 
-The `Publish kernel releases` workflow mirrors validated developer ZIP/IMG files into the project repository. It creates one release per device, kernel, and upstream tag, skips full NetHunter installers and source archives, validates ZIPs, and records the original-to-mirror URL map. The first full run produced 70 releases and 170 assets; one 1.94 GB full installer was rejected by the 2 GB asset limit.
+The `Publish kernel releases` workflow mirrors validated developer ZIP/IMG files into the project repository. It creates one release per device, kernel, and upstream tag, skips full NetHunter installers and source archives, validates ZIPs, and records the original-to-mirror URL map. The first full run produced 70 releases and 171 assets. The largest file is a 1.94 GB full installer for the Xperia 10 II, which is below GitHub's 2 GiB per-asset limit and is mirrored successfully.
 
 Source-only kernels are not published as if they were buildable. They remain in `data/build_queue.csv` (604 rows). The `Build source kernel` workflow only builds a recipe from `data/build_recipes.csv`, requires the exact defconfig and AnyKernel3 block device, and can only create a draft release. See `docs/nethunter-kernel-build-guide.md`.
 
