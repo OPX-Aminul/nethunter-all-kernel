@@ -110,7 +110,11 @@
     const usable = (assets || []).filter((a) => a && a.url && a.kind !== 'checksum');
     if (!usable.length) return '';
     const cls = small ? 'btn small' : 'btn small';
-    return usable.slice(0, 8).map((a) => `<a class="${cls}" href="${esc(a.url)}" target="_blank" rel="noopener noreferrer" title="${esc(a.name)}">Download ${esc(fileKindLabel(a.kind))}</a>`).join('');
+    return usable.map((a) => {
+      const label = a.mirroredUrl ? 'Mirror' : 'Download';
+      const name = String(a.name || '').replace(/^.*\//, '').slice(0, 42);
+      return `<a class="${cls}" href="${esc(a.mirroredUrl || a.url)}" target="_blank" rel="noopener noreferrer" title="${esc(a.name)}">${label} ${esc(fileKindLabel(a.kind))}<br><span class="fname">${esc(name)}</span></a>`;
+    }).join('');
   }
   function listHtml(items, cls) {
     if (!items || !items.length) return `<p class="vmeta">Not specified.</p>`;
@@ -199,6 +203,14 @@
           <div class="vmeta">${esc(v.distribution || 'Unknown')}${v.zipCount ? ` · ${v.zipCount} ZIP` : ''}${v.imgCount ? ` · ${v.imgCount} IMG` : ''}</div>
         </div></div>
         ${statusLine(v, true)}
+        <div class="installinfo">
+          <span><b>Recovery:</b> ${esc(v.recovery || 'Unknown')}</span>
+          <span><b>Install:</b> ${esc(v.installation || 'Unknown')}</span>
+          <span><b>Root:</b> ${esc(v.root || 'Unknown')}</span>
+          <span><b>Bootloader:</b> ${esc(v.bootloader || 'Unknown')}</span>
+          <span><b>Android:</b> ${esc(v.android || 'Unknown')}</span>
+        </div>
+        ${v.hasFile ? '<div class="buildflag ok">Developer-built file available</div>' : '<div class="buildflag pending">No developer ZIP/IMG - source build required</div>'}
         ${fileChips ? `<div class="vfeat">${fileChips}</div>` : ''}
         ${methods ? `<div class="vfeat">${methods}</div>` : ''}
         ${feat}
@@ -222,7 +234,9 @@
         <div class="stat"><strong>${num(d.sourceCount)}</strong><span>Sources</span></div>
         <div class="stat"><strong>${num(d.forkCount)}</strong><span>Forks</span></div>
         <div class="stat"><strong>${num(state.onlyFiles ? d.directFileKernels : d.kernelCount)}</strong><span>Kernels${state.onlyFiles ? ' with files' : ''}</span></div>
-        <div class="stat"><strong>${num(state.onlyFiles ? d.directFileCount : (d.downloadCount || 0))}</strong><span>${state.onlyFiles ? 'Direct files' : 'Files'}</span></div>
+        <div class="stat"><strong>${num(d.releaseTotal || 0)}</strong><span>Releases</span></div>
+        <div class="stat"><strong>${num(state.onlyFiles ? d.directFileCount : d.directFileKernels)}</strong><span>${state.onlyFiles ? 'Direct files' : 'Prebuilt'}</span></div>
+        <div class="stat"><strong>${num(state.onlyFiles ? 0 : (d.sourceOnlyKernels || 0))}</strong><span>Build needed</span></div>
       </div>
       <div class="rec">
         <span class="eyebrow">Recommended kernel</span>
@@ -242,7 +256,9 @@
         <h3>Downloads &amp; installation</h3>
         <div class="dlsummary">
           <span><strong>${num(state.onlyFiles ? visibleVariants.length : d.sourceCount)}</strong> ${state.onlyFiles ? 'sources with files' : 'sources'}</span>
-          <span><strong>${num(d.buildCount || 0)}</strong> builds with files</span>
+          <span><strong>${num(d.directFileKernels || 0)}</strong> prebuilt kernels</span>
+          <span><strong>${num(d.sourceOnlyKernels || 0)}</strong> need a build</span>
+          <span><strong>${num(d.releaseTotal || 0)}</strong> releases</span>
           <span><strong>${num(d.zipCount || 0)}</strong> ZIP</span>
           <span><strong>${num(d.imgCount || 0)}</strong> IMG</span>
         </div>
@@ -308,10 +324,10 @@
       `<span><strong>${num(s.devices)}</strong> devices</span>`,
       `<span><strong>${num(s.sources)}</strong> source repos</span>`,
       `<span><strong>${num(s.kernels)}</strong> kernel records</span>`,
-      `<span><strong>${num(s.binaryDevices || 0)}</strong> with direct ZIP/IMG</span>`,
-      `<span><strong>${num(s.bootReportedDevices || 0)}</strong> with boot reports</span>
-      <span><strong>${num(s.notBootingDevices || 0)}</strong> reported not booting</span>`,
-      `<span><strong>${num(s.recommended)}</strong> best-evidence devices</span>`,
+      `<span><strong>${num(s.directFileDevices || 0)}</strong> devices with prebuilt files</span>`,
+      `<span><strong>${num(s.prebuiltKernels || 0)}</strong> prebuilt kernels</span>`,
+      `<span><strong>${num(s.sourceOnlyKernels || 0)}</strong> need a build</span>`,
+      `<span><strong>${num(s.releaseTotal || 0)}</strong> source releases</span>`,
     ].join('');
     $('#generated').textContent = DATA.generated;
   }

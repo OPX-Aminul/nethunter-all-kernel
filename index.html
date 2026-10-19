@@ -6,7 +6,7 @@
   <meta name="theme-color" content="#0b0f14">
   <meta name="description" content="Mobile-friendly Kali NetHunter kernel directory with source links, release links and evidence-based recommendations.">
   <title>NetHunter Kernel Finder</title>
-  <link rel="stylesheet" href="styles.css?v=20261019b">
+  <link rel="stylesheet" href="styles.css?v=20261019c">
 </head>
 <body>
   <header class="hero">
@@ -81,8 +81,9 @@
       <ul>
         <li><strong>Sources</strong> counts distinct kernel source repositories for that device/codename. <strong>Forks</strong> is the sum of GitHub fork counts where metadata exists.</li>
         <li><strong>Recommended</strong> is selected from the available kernels using boot evidence, feature evidence, maintenance date and repository activity. It is a research recommendation, not a guarantee.</li>
-        <li><strong>Download</strong> opens a direct ZIP/IMG when the maintainer published one; otherwise it opens the releases page. This site does not host kernel files.</li>
-        <li><strong>Files</strong> counts direct ZIP/IMG assets published by maintainers. <strong>Builds with files</strong> counts kernels that have a downloadable build. Source-only kernels are marked separately.</li>
+        <li><strong>Download</strong> opens a mirrored copy of the developer ZIP/IMG when available, then the original file, then the source release page. Files marked <em>Mirror</em> are hosted in this repository releases; they were not rebuilt or independently boot-tested.</li>
+        <li><strong>Kernels</strong> counts kernel records for the device. <strong>Releases</strong> sums the release/tag counts reported by each source. <strong>Prebuilt</strong> counts kernels with a direct developer file. <strong>Build needed</strong> counts source-only kernels with no prebuilt ZIP/IMG.</li>
+        <li><strong>Per-kernel status</strong> shows boot evidence, working evidence, direct files, guide source, release count, ROM note, recovery, root/bootloader requirements, and Android version. Unknown means the source did not state it.</li>
         <li><strong>Installation guide</strong> shows requirements, flashing steps, file type (ZIP, boot IMG, TAR archive), channel (stable/beta), and customization claims. Requirements/customizations come from the README where available; flashing steps are README-derived or explicitly labeled generic file-type guidance.</li>
         <li><strong>Evidence levels:</strong> developer-reported test, claimed by developer, config/driver evidence, or unknown. No row is independently verified. Customization lists are claims or source/config evidence, not test results.</li>
       </ul>
@@ -96,6 +97,6 @@
     </div>
   </footer>
 
-  <script src="app.js?v=20261019b"></script>
+  <script src="app.js?v=20261019c"></script>
 </body>
 </html>
