@@ -20,9 +20,20 @@ The project collects public kernel sources, release binaries, installation notes
 | Compatibility claims without a boot test | 19 |
 | Rows reported not booting | 4 |
 | Boot status not verified | 598 |
+| Kernels with no prebuilt file (build queue) | 604 |
 | Independently verified boot reports | 0 |
 
 Counts are generated from `data/nethunter_master.csv` and `site/data.json`. The website is the canonical human-readable view; the CSV is the canonical machine-readable table.
+
+## Download and release model
+
+- If a developer already published a flashable ZIP or boot image, the site links to it.
+- The `Publish kernel releases` workflow can mirror those validated developer files into this repository's Releases, one release per device, kernel, and upstream tag.
+- If no prebuilt file exists, the kernel is marked `source build required`. It is not replaced with a generic ZIP and it is not published as if it were tested.
+- Source-only kernels are listed in `data/build_queue.csv`. A real build needs the exact codename, defconfig, kernel branch, toolchain, AnyKernel3 block path, and ROM target.
+- The `Build source kernel` workflow is deliberately gated: it only runs a recipe from `data/build_recipes.csv` and can publish a draft release after a successful build.
+
+See `docs/nethunter-release-audit.md` for the per-device kernel/release counts and `docs/nethunter-kernel-build-guide.md` for the build policy.
 
 ## What the site shows
 
@@ -66,6 +77,8 @@ Feature claims (monitor mode, packet injection, HID/BadUSB, external Wi-Fi) foll
 │   ├── styles.css
 │   ├── build_data.py
 │   └── data.json
+├── scripts/               Audit, release mirroring, and build tooling
+├── .github/workflows/     Release publication and gated source build
 ├── README.md
 └── LICENSE
 ```
@@ -74,6 +87,20 @@ Feature claims (monitor mode, packet injection, HID/BadUSB, external Wi-Fi) foll
 
 - `main` contains the complete project: research data, reports, build script, and website source.
 - `gh-pages` contains only the deployable contents of `site/` at the branch root. GitHub Pages serves this branch.
+
+## Automation
+
+| Workflow | Trigger | Purpose |
+|---|---|---|
+| `Publish kernel releases` | Manual | Mirror validated developer ZIP/IMG files, rebuild the site dataset, and refresh the `gh-pages` snapshot. |
+| `Build source kernel` | Manual | Build one recipe from `data/build_recipes.csv`, validate the ZIP, and optionally create a draft release. |
+
+Dry-run the mirror first:
+
+```bash
+# Show the planned releases and asset counts without uploading
+python3 scripts/publish_kernel_releases.py --dry-run
+```
 
 ## Run locally
 

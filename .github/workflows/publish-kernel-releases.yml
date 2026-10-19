@@ -1,0 +1,123 @@
+name: Publish kernel releases
+
+on:
+  workflow_dispatch:
+    inputs:
+      codename:
+        description: "Only this codename (blank = all devices)"
+        required: false
+        default: ""
+      dry_run:
+        description: "Plan only, do not upload"
+        type: choice
+        options: ["true", "false"]
+        default: "true"
+      limit:
+        description: "Max releases this run (0 = no limit)"
+        required: false
+        default: "0"
+      max_assets:
+        description: "Max asset uploads this run (0 = no limit)"
+        required: false
+        default: "0"
+
+permissions:
+  contents: write
+  actions: read
+
+concurrency:
+  group: publish-kernel-releases
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      CODENAME: ${{ inputs.codename }}
+      DRY_RUN: ${{ inputs.dry_run }}
+      LIMIT: ${{ inputs.limit }}
+      MAX_ASSETS: ${{ inputs.max_assets }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: python -m pip install --quiet requests
+
+      - name: Plan or publish releases
+        shell: bash
+        run: |
+          args=(--codename "$CODENAME" --limit "$LIMIT" --max-assets "$MAX_ASSETS")
+          if [ "$DRY_RUN" = "true" ]; then
+            args+=(--dry-run)
+          fi
+          python scripts/publish_kernel_releases.py "${args[@]}"
+
+      - name: Rebuild availability and site data
+        run: |
+          python scripts/audit_kernel_availability.py
+          python site/build_data.py
+
+      - name: Commit mirror map and site data
+        if: ${{ inputs.dry_run == 'false' }}
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/mirrored_releases.json site/data.json data/device_availability.csv data/kernel_availability.csv docs/nethunter-release-audit.md
+          if git diff --cached --quiet; then
+            echo "No release-map changes to commit."
+          else
+            git commit -m "chore: sync mirrored kernel releases [skip ci]"
+            git push origin HEAD:main
+          fi
+
+      - name: Update gh-pages snapshot
+        if: ${{ inputs.dry_run == 'false' }}
+        shell: bash
+        run: |
+          if ! git ls-remote --exit-code --heads origin gh-pages >/dev/null 2>&1; then
+            echo "gh-pages branch does not exist; skipping."
+            exit 0
+          fi
+          git fetch origin gh-pages
+          pages="$RUNNER_TEMP/gh-pages"
+          git worktree add --detach "$pages" origin/gh-pages
+          for f in index.html app.js styles.css data.json .nojekyll; do
+            cp "site/$f" "$pages/$f"
+          done
+          cd "$pages"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html app.js styles.css data.json .nojekyll
+          if git diff --cached --quiet; then
+            echo "No gh-pages changes to commit."
+          else
+            git commit -m "chore: refresh website downloads [skip ci]"
+            git push origin HEAD:gh-pages
+          fi
+
+      - name: Summary
+        shell: bash
+        run: |
+          {
+            echo "## Kernel release publication"
+            echo ""
+            echo "- Codename: \`${CODENAME:-all}\`"
+            echo "- Dry run: \`$DRY_RUN\`"
+            echo "- Release limit: \`$LIMIT\`"
+            echo "- Asset limit: \`$MAX_ASSETS\`"
+            echo ""
+            if [ -f site/mirrored_releases.json ]; then
+              python -c "import json; d=json.load(open('site/mirrored_releases.json')); print('- Mirrored releases recorded: **%d**' % len(d.get('releases', []))); print('- Assets uploaded: **%d**' % d.get('uploaded_assets', 0)); print('- Failures: **%d**' % len(d.get('failures', [])))"
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"

@@ -1,0 +1,76 @@
+name: Build source kernel
+
+on:
+  workflow_dispatch:
+    inputs:
+      recipe_id:
+        description: "Recipe ID from data/build_recipes.csv"
+        required: true
+      publish_draft:
+        description: "Create a draft release after a successful build"
+        type: choice
+        options: ["false", "true"]
+        default: "false"
+
+permissions:
+  contents: write
+  actions: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      RECIPE_ID: ${{ inputs.recipe_id }}
+      PUBLISH_DRAFT: ${{ inputs.publish_draft }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install build tools
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq build-essential bc bison flex libssl-dev libelf-dev zip unzip git clang lld
+
+      - name: Load build recipe
+        shell: bash
+        run: |
+          python scripts/load_build_recipe.py "$RECIPE_ID" > "$RUNNER_TEMP/recipe.env"
+          cat "$RUNNER_TEMP/recipe.env" >> "$GITHUB_ENV"
+
+      - name: Build flashable ZIP
+        shell: bash
+        run: |
+          chmod +x scripts/build_anykernel.sh
+          scripts/build_anykernel.sh
+
+      - name: Validate ZIP
+        shell: bash
+        run: |
+          set -euo pipefail
+          zipfile="$(find dist -maxdepth 1 -name '*.zip' -print -quit)"
+          test -n "$zipfile"
+          unzip -t "$zipfile" >/dev/null
+          unzip -l "$zipfile" | grep -qE 'Image|zImage'
+          sha256sum "$zipfile"
+
+      - name: Upload build artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: kernel-${{ env.CODENAME }}
+          path: dist/*
+          if-no-files-found: error
+
+      - name: Create draft release
+        if: ${{ inputs.publish_draft == 'true' }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          zipfile="$(find dist -maxdepth 1 -name '*.zip' -print -quit)"
+          tag="build-${CODENAME}-$(date -u +%Y%m%d%H%M)"
+          gh release create "$tag" "$zipfile" \
+            --draft \
+            --title "${DEVICE} (${CODENAME}) source build" \
+            --notes "Draft build from ${REPOSITORY_URL}. Not independently boot-tested. Review the recipe, block device, ROM, and AnyKernel3 configuration before publishing."
+          echo "Created draft release $tag"

@@ -1,9 +1,12 @@
 import csv, json, re, os
+from urllib.parse import unquote
 from collections import defaultdict, Counter
 from datetime import date
 
-BASE = '/workspace/data'
-OUT = '/workspace/site/data.json'
+HERE = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.dirname(HERE)
+BASE = os.path.join(ROOT, 'data')
+OUT = os.path.join(HERE, 'data.json')
 
 def norm(url):
     u = (url or '').strip().rstrip('/')
@@ -197,6 +200,16 @@ KIND_LABEL = {
     'file': 'File',
 }
 
+MIRROR_ASSETS = {}
+_mirror_path = os.path.join(os.path.dirname(OUT), 'mirrored_releases.json')
+if os.path.exists(_mirror_path):
+    try:
+        for _rel in json.load(open(_mirror_path, encoding='utf-8')).get('releases', []):
+            for _orig, _new in (_rel.get('asset_map') or {}).items():
+                MIRROR_ASSETS[_orig] = _new
+    except Exception:
+        MIRROR_ASSETS = {}
+
 def assets_for(r):
     raw = ';'.join([r.get('binary_assets') or '', r.get('binary_url') or '', r.get('release_url') or ''])
     urls = []
@@ -210,10 +223,10 @@ def assets_for(r):
             continue
         urls.append(x)
     out = []
-    for u in urls[:12]:
-        name = u.split('/')[-1]
+    for u in urls[:100]:
+        name = unquote(u.split('/')[-1])
         kind = asset_kind(name)
-        out.append({'url': u, 'name': name, 'kind': kind, 'label': KIND_LABEL.get(kind, 'File')})
+        out.append({'url': u, 'mirroredUrl': MIRROR_ASSETS.get(u, ''), 'name': name, 'kind': kind, 'label': KIND_LABEL.get(kind, 'File')})
     return out
 
 def guide_for(r):
@@ -327,6 +340,22 @@ def group_status(variants):
     if 'Unverified candidate' in vals:
         return 'Unverified candidate'
     return 'Abandoned'
+
+def recovery_for(v, guide):
+    text = ' '.join([
+        (v.get('installation_method') or ''),
+        ' '.join((guide or {}).get('method') or []),
+        (v.get('notes') or ''),
+    ]).lower()
+    labels = []
+    if 'twrp' in text: labels.append('TWRP')
+    if 'orangefox' in text or ('orange' in text and 'fox' in text): labels.append('OrangeFox')
+    if 'fastboot' in text: labels.append('Fastboot')
+    if 'odin' in text: labels.append('Odin')
+    if 'anykernel' in text: labels.append('AnyKernel3')
+    if 'magisk' in text: labels.append('Magisk')
+    if not labels and 'recovery' in text: labels.append('Custom recovery')
+    return ', '.join(dict.fromkeys(labels)) or 'Unknown'
 
 def recommendation_reason(v):
     bits = []
@@ -462,6 +491,10 @@ for (device_key, codename), variants in groups.items():
             'bootNote': best.get('boot_note') or '',
             'workingStatus': best.get('working_status') or 'Not verified',
             'romNote': best.get('rom_note') or 'Not specified',
+            'recovery': recovery_for(best, best_guide),
+            'installation': best.get('installation_method') or 'Unknown',
+            'root': best.get('root_requirements') or 'Unknown',
+            'bootloader': best.get('bootloader_requirements') or 'Unknown',
             'releaseCount': int(best.get('release_count') or 0) if str(best.get('release_count') or '').isdigit() else None,
             'releaseSource': best.get('release_source') or 'Unknown',
             'guideStatus': best.get('guide_status') or 'Unknown',
@@ -478,6 +511,9 @@ for (device_key, codename), variants in groups.items():
         'buildCount': build_count,
         'directFileCount': direct_files,
         'directFileKernels': direct_file_kernels,
+        'sourceOnlyKernels': len(variants) - direct_file_kernels,
+        'releaseTotal': sum(int(v.get('release_count') or 0) for v in variants if str(v.get('release_count') or '').isdigit()),
+        'kernelsWithReleases': sum(1 for v in variants if str(v.get('release_count') or '').isdigit() and int(v.get('release_count') or 0) > 0),
         'guideKernels': guide_kernels,
         'bootReported': boot_reported,
         'notBooting': not_booting,
@@ -501,11 +537,16 @@ for (device_key, codename), variants in groups.items():
             'distribution': v.get('distribution_type') or 'Unknown',
             'sourceAvailable': v.get('source_available') or 'Unknown',
             'status': v.get('verification_status') or 'Unknown',
+            'recordType': v.get('record_type') or 'Unknown',
             'boot': v.get('boot_evidence') or 'Unknown',
             'bootStatus': v.get('boot_status') or 'Not verified',
             'bootNote': v.get('boot_note') or '',
             'workingStatus': v.get('working_status') or 'Not verified',
             'romNote': v.get('rom_note') or 'Not specified',
+            'recovery': recovery_for(v, guide),
+            'installation': v.get('installation_method') or 'Unknown',
+            'root': v.get('root_requirements') or 'Unknown',
+            'bootloader': v.get('bootloader_requirements') or 'Unknown',
             'releaseCount': int(v.get('release_count') or 0) if str(v.get('release_count') or '').isdigit() else None,
             'releaseSource': v.get('release_source') or 'Unknown',
             'guideStatus': v.get('guide_status') or 'Unknown',
@@ -544,6 +585,9 @@ payload = {
         'zipDevices': sum(1 for d in devices if d.get('zipCount', 0) > 0),
         'imgDevices': sum(1 for d in devices if d.get('imgCount', 0) > 0),
         'directFileDevices': sum(1 for d in devices if d.get('directFileKernels', 0) > 0),
+    'releaseTotal': sum(d.get('releaseTotal', 0) for d in devices),
+    'prebuiltKernels': sum(d.get('directFileKernels', 0) for d in devices),
+    'sourceOnlyKernels': sum(d.get('sourceOnlyKernels', 0) for d in devices),
         'bootReportedDevices': sum(1 for d in devices if d.get('bootReported', 0) > 0),
         'notBootingDevices': sum(1 for d in devices if d.get('notBooting', 0) > 0),
         'status': dict(status_counts),
