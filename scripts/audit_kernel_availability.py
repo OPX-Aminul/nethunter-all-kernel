@@ -8,6 +8,11 @@ from urllib.parse import unquote
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = json.load(open(ROOT / 'site/data.json', encoding='utf-8'))
+MIRROR = {}
+try:
+    MIRROR = json.load(open(ROOT / 'site/mirrored_releases.json', encoding='utf-8'))
+except Exception:
+    MIRROR = {}
 OUT_DATA = ROOT / 'data'
 OUT_DOC = ROOT / 'docs/nethunter-release-audit.md'
 
@@ -43,6 +48,9 @@ def audit_doc(dev_rows, kernel_list, totals):
         f"| Device cards with no prebuilt kernel | {totals['devices_source_only']} |",
         f"| Releases reported by sources | {totals['release_total']} |",
         f"| Upstream release groups found in asset URLs | {totals['asset_tags']} |",
+        f"| Mirrored releases in this repository | {totals['mirror_releases']} |",
+        f"| Mirrored assets in this repository | {totals['mirror_assets']} |",
+        f"| Mirror failures / skipped assets | {totals['mirror_failures']} |",
         '',
         'A release count is what the source publishes. A direct file is an actual ZIP, IMG, or archive link that can be downloaded. The two are not the same: many repositories have releases with no kernel asset.',
         '',
@@ -170,6 +178,9 @@ def main():
         'devices_source_only': sum(1 for d in dev_rows if not d['prebuilt_kernels']),
         'release_total': sum(d['release_total'] for d in dev_rows),
         'asset_tags': len(tag_set),
+        'mirror_releases': len(MIRROR.get('releases', [])),
+        'mirror_assets': sum(len(r.get('asset_map') or {}) for r in MIRROR.get('releases', [])),
+        'mirror_failures': len(MIRROR.get('failures', [])),
     }
     audit_doc(dev_rows, kernel_list, totals)
     print('wrote data/device_availability.csv rows', len(dev_rows))

@@ -21,6 +21,8 @@ The project collects public kernel sources, release binaries, installation notes
 | Rows reported not booting | 4 |
 | Boot status not verified | 598 |
 | Kernels with no prebuilt file (build queue) | 604 |
+| Mirrored releases in this repository | 70 |
+| Mirrored developer assets | 170 |
 | Independently verified boot reports | 0 |
 
 Counts are generated from `data/nethunter_master.csv` and `site/data.json`. The website is the canonical human-readable view; the CSV is the canonical machine-readable table.
@@ -28,7 +30,7 @@ Counts are generated from `data/nethunter_master.csv` and `site/data.json`. The 
 ## Download and release model
 
 - If a developer already published a flashable ZIP or boot image, the site links to it.
-- The `Publish kernel releases` workflow can mirror those validated developer files into this repository's Releases, one release per device, kernel, and upstream tag.
+- The `Publish kernel releases` workflow mirrors validated developer files into this repository's Releases, one release per device, kernel, and upstream tag. The current mirror contains 70 releases and 170 assets.
 - If no prebuilt file exists, the kernel is marked `source build required`. It is not replaced with a generic ZIP and it is not published as if it were tested.
 - Source-only kernels are listed in `data/build_queue.csv`. A real build needs the exact codename, defconfig, kernel branch, toolchain, AnyKernel3 block path, and ROM target.
 - The `Build source kernel` workflow is deliberately gated: it only runs a recipe from `data/build_recipes.csv` and can publish a draft release after a successful build.

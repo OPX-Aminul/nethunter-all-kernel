@@ -341,6 +341,10 @@ def group_status(variants):
         return 'Unverified candidate'
     return 'Abandoned'
 
+def asset_tag(url):
+    m = re.search(r'/releases/download/([^/]+)/', url or '')
+    return unquote(m.group(1)) if m else ''
+
 def recovery_for(v, guide):
     text = ' '.join([
         (v.get('installation_method') or ''),
@@ -511,6 +515,7 @@ for (device_key, codename), variants in groups.items():
         'buildCount': build_count,
         'directFileCount': direct_files,
         'directFileKernels': direct_file_kernels,
+        'releaseTags': sorted({asset_tag(a.get('url')) for v in variants for a in assets_for(v) if asset_tag(a.get('url'))}),
         'sourceOnlyKernels': len(variants) - direct_file_kernels,
         'releaseTotal': sum(int(v.get('release_count') or 0) for v in variants if str(v.get('release_count') or '').isdigit()),
         'kernelsWithReleases': sum(1 for v in variants if str(v.get('release_count') or '').isdigit() and int(v.get('release_count') or 0) > 0),
@@ -551,6 +556,7 @@ for (device_key, codename), variants in groups.items():
             'releaseSource': v.get('release_source') or 'Unknown',
             'guideStatus': v.get('guide_status') or 'Unknown',
             'directFileCount': int(v.get('direct_file_count') or 0),
+            'releaseTags': sorted({asset_tag(a.get('url')) for a in assets if asset_tag(a.get('url'))}),
             'hasFile': int(v.get('direct_file_count') or 0) > 0,
             'hasGuide': (guide.get('source') or '') == 'README' or 'flash' in (v.get('guide_status') or '').lower(),
             'developer': v.get('developer') or 'Unknown',
