@@ -1,0 +1,17 @@
+platform,query,reported_total,fetched,notes
+GitHub,"nethunter in:name,description,readme",4026,200,"2 pages, star-sorted; discovery"
+GitHub,nethunter kernel,470,100,updated-sorted
+GitHub,nethunter kernel,470,100,star-ascending to surface zero-star repos
+GitHub,kali nethunter,675,100,star-sorted
+GitHub,nethunter topic:android,60,60,topic filter
+GitHub,nethunter kernel archived:true,10,10,archived/abandoned projects
+GitHub,packet injection android kernel,3,3,feature-first query
+GitHub,monitor mode android kernel,9,9,feature-first query
+GitHub,HID gadget android kernel,4,4,feature-first query
+GitLab,nethunter,-,500,5 pages of 100 projects
+Codeberg,nethunter / kali nethunter / android kernel,0,0,API returned ok:true with empty data
+XDA via DuckDuckGo HTML,site:xda-developers.com nethunter kernel,-,0,bot challenge / no results
+XDA via Bing,site:xda-developers.com nethunter kernel,-,0,"query ignored, unrelated results"
+YouTube,kali nethunter kernel,-,0,not accessed; API key/login required
+Google,kali nethunter kernel,-,0,not accessed; automated access blocked
+Telegram/Reddit/blogs,nethunter kernel,-,0,not accessed in Batch 1

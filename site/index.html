@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#0b0f14">
+  <meta name="description" content="Mobile-friendly Kali NetHunter kernel directory with source links, release links and evidence-based recommendations.">
+  <title>NetHunter Kernel Finder</title>
+  <link rel="stylesheet" href="styles.css?v=20261019b">
+</head>
+<body>
+  <header class="hero">
+    <div class="wrap">
+      <div class="brandline">
+        <div class="brandmark" aria-hidden="true">NH</div>
+        <div>
+          <p class="kicker">Kali NetHunter kernel directory</p>
+          <h1>Find a kernel for your phone</h1>
+        </div>
+      </div>
+      <p class="lede">Device names, codenames, source counts, fork counts, feature evidence and a recommended kernel for each model. Built from the verified research dataset.</p>
+      <p class="notice">Download buttons open the maintainer's release page, or a direct ZIP/IMG file when the latest release publishes one. This site does not host kernel files.</p>
+      <div class="summary" id="summary" aria-live="polite"></div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="controls" aria-label="Search and filters">
+      <div class="searchrow">
+        <label class="searchbox">
+          <span class="sr-only">Search devices</span>
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-4.3-4.3"></path></svg>
+          <input id="search" type="search" placeholder="Search device, codename, kernel..." autocomplete="off" enterkeyhint="search">
+        </label>
+        <label class="selectbox">
+          <span class="sr-only">Sort by</span>
+          <select id="sort">
+            <option value="recommended">Recommended</option>
+            <option value="newest">Newest</option>
+            <option value="name">Name A-Z</option>
+            <option value="sources">Most sources</option>
+            <option value="forks">Most forks</option>
+            <option value="files">Most files</option>
+          </select>
+        </label>
+      </div>
+
+      <div class="chips" id="statusFilters" role="group" aria-label="Filter by evidence status">
+        <button class="chip is-active" data-status="all" type="button">All</button>
+        <button class="chip" data-status="Developer claimed" type="button">Best evidence</button>
+        <button class="chip" data-status="Source confirmed" type="button">Official source</button>
+        <button class="chip" data-status="Unverified candidate" type="button">Unverified</button>
+        <button class="chip" data-status="Abandoned" type="button">Abandoned</button>
+      </div>
+
+      <div class="subrow">
+        <label class="selectbox featurebox">
+          <span>Feature</span>
+          <select id="feature">
+            <option value="all">Any feature</option>
+            <option value="monitor_mode">Monitor mode</option>
+            <option value="packet_injection">Packet injection</option>
+            <option value="hid_gadget">HID / BadUSB</option>
+            <option value="external_wifi_support">External Wi-Fi</option>
+            <option value="internal_wifi_support">Internal Wi-Fi</option>
+            <option value="usb_gadget">USB gadget</option>
+          </select>
+        </label>
+        <button id="onlyFilesBtn" class="chip fileschip" type="button" aria-pressed="false">Direct files only</button>
+        <p class="resultcount" id="resultCount"></p>
+      </div>
+    </section>
+
+    <section id="list" class="list" aria-label="NetHunter devices"></section>
+    <div class="loadwrap">
+      <button id="loadMore" class="btn ghost" type="button" hidden>Load more devices</button>
+    </div>
+
+    <section class="notes">
+      <h2>How to read this list</h2>
+      <ul>
+        <li><strong>Sources</strong> counts distinct kernel source repositories for that device/codename. <strong>Forks</strong> is the sum of GitHub fork counts where metadata exists.</li>
+        <li><strong>Recommended</strong> is selected from the available kernels using boot evidence, feature evidence, maintenance date and repository activity. It is a research recommendation, not a guarantee.</li>
+        <li><strong>Download</strong> opens a direct ZIP/IMG when the maintainer published one; otherwise it opens the releases page. This site does not host kernel files.</li>
+        <li><strong>Files</strong> counts direct ZIP/IMG assets published by maintainers. <strong>Builds with files</strong> counts kernels that have a downloadable build. Source-only kernels are marked separately.</li>
+        <li><strong>Installation guide</strong> shows requirements, flashing steps, file type (ZIP, boot IMG, TAR archive), channel (stable/beta), and customization claims. Requirements/customizations come from the README where available; flashing steps are README-derived or explicitly labeled generic file-type guidance.</li>
+        <li><strong>Evidence levels:</strong> developer-reported test, claimed by developer, config/driver evidence, or unknown. No row is independently verified. Customization lists are claims or source/config evidence, not test results.</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap">
+      <p>Research dataset generated <span id="generated">2026-10-19</span>. Source data: <a href="nethunter_master.csv">nethunter_master.csv</a>.</p>
+      <p>Always match the exact codename, ROM and model variant before flashing. Flashing a wrong kernel can brick a device.</p>
+    </div>
+  </footer>
+
+  <script src="app.js?v=20261019b"></script>
+</body>
+</html>

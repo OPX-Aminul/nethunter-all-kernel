@@ -1,0 +1,63 @@
+{
+ "rows": 640,
+ "official_variants": 275,
+ "official_devices": 126,
+ "community_projects": 310,
+ "community_projects_resolved": 293,
+ "search_candidates": 55,
+ "status": {
+  "Source confirmed": 266,
+  "Unverified candidate": 186,
+  "Developer claimed": 146,
+  "Abandoned": 42
+ },
+ "boot": {
+  "Not independently verified": 275,
+  "No explicit boot evidence": 268,
+  "Developer-reported boot": 5,
+  "Unknown": 92
+ },
+ "feature_counts": {
+  "internal_wifi_support": {
+   "Unknown": 294,
+   "Claimed by developer": 3,
+   "Source/config evidence": 10,
+   "Developer-reported test": 3
+  },
+  "external_wifi_support": {
+   "Unknown": 267,
+   "Claimed by developer": 10,
+   "Developer-reported test": 4,
+   "Source/config evidence": 15,
+   "Claimed": 14
+  },
+  "monitor_mode": {
+   "Unknown": 259,
+   "Claimed by developer": 7,
+   "Source/config evidence": 22,
+   "Developer-reported test": 7,
+   "Claimed": 15
+  },
+  "packet_injection": {
+   "Unknown": 255,
+   "Source/config evidence": 23,
+   "Claimed by developer": 16,
+   "Developer-reported test": 5,
+   "Claimed": 11
+  },
+  "hid_gadget": {
+   "Unknown": 246,
+   "Source/config evidence": 26,
+   "Claimed by developer": 11,
+   "Developer-reported test": 4,
+   "Claimed": 23
+  },
+  "usb_gadget": {
+   "Unknown": 274,
+   "Source/config evidence": 22,
+   "Claimed by developer": 5,
+   "Developer-reported test": 4,
+   "Claimed": 5
+  }
+ }
+}

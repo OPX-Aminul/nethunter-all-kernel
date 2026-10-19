@@ -1,0 +1,78 @@
+repo,url,description,default_branch,archived,pushed_at,language
+android_kernel_alcatel_msm8916,https://github.com/LineageOS/android_kernel_alcatel_msm8916,,cm-14.1,no,2018-05-10,
+android_kernel_amazon_hdx-common,https://github.com/LineageOS/android_kernel_amazon_hdx-common,,cm-14.1,no,2018-04-08,C
+android_kernel_asus_P024,https://github.com/LineageOS/android_kernel_asus_P024,,cm-14.1,no,2018-04-08,C
+android_kernel_asus_fugu,https://github.com/LineageOS/android_kernel_asus_fugu,,lineage-18.1,no,2021-04-02,C
+android_kernel_asus_moorefield,https://github.com/LineageOS/android_kernel_asus_moorefield,,cm-14.1,no,2021-12-11,C
+android_kernel_asus_msm8916,https://github.com/LineageOS/android_kernel_asus_msm8916,,lineage-15.1,no,2022-11-20,C
+android_kernel_asus_tf701t,https://github.com/LineageOS/android_kernel_asus_tf701t,Kernel - TF701T,V11.4.1.17,no,2018-04-08,
+android_kernel_bq_msm8916,https://github.com/LineageOS/android_kernel_bq_msm8916,,cm-14.1,no,2018-04-08,
+android_kernel_cyanogen_msm8916,https://github.com/LineageOS/android_kernel_cyanogen_msm8916,,lineage-17.1,no,2026-02-26,C
+android_kernel_cyanogen_msm8974,https://github.com/LineageOS/android_kernel_cyanogen_msm8974,,lineage-17.1,no,2022-11-20,C
+android_kernel_cyanogen_msm8994,https://github.com/LineageOS/android_kernel_cyanogen_msm8994,,cm-14.1,no,2018-04-08,
+android_kernel_hardkernel_odroidc1,https://github.com/LineageOS/android_kernel_hardkernel_odroidc1,,cm-12.1,no,2018-04-08,
+android_kernel_htc_flounder,https://github.com/LineageOS/android_kernel_htc_flounder,,lineage-16.0,no,2020-11-05,C
+android_kernel_htc_msm8952,https://github.com/LineageOS/android_kernel_htc_msm8952,,lineage-16.0,no,2021-12-11,C
+android_kernel_htc_msm8974,https://github.com/LineageOS/android_kernel_htc_msm8974,HTC MSM8974 Kernel,lineage-18.1,no,2023-05-17,C
+android_kernel_htc_msm8994,https://github.com/LineageOS/android_kernel_htc_msm8994,,lineage-16.0,no,2021-12-11,C
+android_kernel_huawei_angler,https://github.com/LineageOS/android_kernel_huawei_angler,,lineage-17.1,no,2022-11-20,C
+android_kernel_huawei_kiwi,https://github.com/LineageOS/android_kernel_huawei_kiwi,,lineage-17.1,no,2022-11-20,C
+android_kernel_huawei_msm8226,https://github.com/LineageOS/android_kernel_huawei_msm8226,,cm-12.1,no,2018-04-08,
+android_kernel_huawei_msm8916,https://github.com/LineageOS/android_kernel_huawei_msm8916,,lineage-16.0,no,2021-12-11,C
+android_kernel_huawei_msm8928,https://github.com/LineageOS/android_kernel_huawei_msm8928,,cm-14.1,no,2018-07-24,C
+android_kernel_letv_msm8994,https://github.com/LineageOS/android_kernel_letv_msm8994,,master,no,2016-12-27,
+android_kernel_lge_bullhead,https://github.com/LineageOS/android_kernel_lge_bullhead,,lineage-16.0,no,2022-11-20,C
+android_kernel_lge_dory,https://github.com/LineageOS/android_kernel_lge_dory,,cm-11.0,no,2016-12-27,
+android_kernel_lge_g3,https://github.com/LineageOS/android_kernel_lge_g3,,lineage-18.1,no,2024-06-22,C
+android_kernel_lge_msm8226,https://github.com/LineageOS/android_kernel_lge_msm8226,,cm-14.1,no,2021-12-11,C
+android_kernel_lge_msm8992,https://github.com/LineageOS/android_kernel_lge_msm8992,LG MSM8992 Kernel,lineage-15.1,no,2021-12-11,C
+android_kernel_lge_pplus,https://github.com/LineageOS/android_kernel_lge_pplus,Kernel for LGE V10,cm-12.1,no,2018-04-08,
+android_kernel_lge_v4xx,https://github.com/LineageOS/android_kernel_lge_v4xx,,cm-14.1,no,2021-11-14,C
+android_kernel_mediatek_sprout,https://github.com/LineageOS/android_kernel_mediatek_sprout,,cm-11.0,no,2018-07-24,
+android_kernel_moto_shamu,https://github.com/LineageOS/android_kernel_moto_shamu,,lineage-18.1,no,2024-02-07,C
+android_kernel_motorola_apq8084,https://github.com/LineageOS/android_kernel_motorola_apq8084,,cm-14.1,no,2018-04-08,C
+android_kernel_motorola_ghost,https://github.com/LineageOS/android_kernel_motorola_ghost,Motorola Moto X kernel repository,cm-11.0,no,2021-12-11,
+android_kernel_motorola_msm8226,https://github.com/LineageOS/android_kernel_motorola_msm8226,Moto G kernel http://sourceforge.net/projects/motog.motorola/files/14.10.0Q3.X-84-14/kernel.tar.gz,cm-14.1,no,2023-11-22,C
+android_kernel_motorola_msm8610,https://github.com/LineageOS/android_kernel_motorola_msm8610,,cm-14.1,no,2021-12-11,C
+android_kernel_motorola_msm8916,https://github.com/LineageOS/android_kernel_motorola_msm8916,,lineage-18.1,no,2022-11-20,C
+android_kernel_motorola_msm8974,https://github.com/LineageOS/android_kernel_motorola_msm8974,,lineage-18.1,no,2023-05-17,C
+android_kernel_motorola_msm8992,https://github.com/LineageOS/android_kernel_motorola_msm8992,,lineage-18.1,no,2022-11-20,C
+android_kernel_motorola_otus,https://github.com/LineageOS/android_kernel_motorola_otus,,cm-12.1,no,2018-04-08,
+android_kernel_motorola_titan,https://github.com/LineageOS/android_kernel_motorola_titan,,cm-12.0,no,2018-04-08,
+android_kernel_nextbit_msm8992,https://github.com/LineageOS/android_kernel_nextbit_msm8992,,lineage-18.1,no,2024-02-07,C
+android_kernel_nvidia_roth,https://github.com/LineageOS/android_kernel_nvidia_roth,,lineage-15.1,no,2018-12-04,C
+android_kernel_nvidia_shield,https://github.com/LineageOS/android_kernel_nvidia_shield,,lineage-18.1,no,2023-08-17,C
+android_kernel_nvidia_shieldtablet,https://github.com/LineageOS/android_kernel_nvidia_shieldtablet,,cm-12.0,no,2018-04-08,
+android_kernel_oneplus_msm8974,https://github.com/LineageOS/android_kernel_oneplus_msm8974,,cm-14.1,no,2024-10-19,C
+android_kernel_oneplus_msm8994,https://github.com/LineageOS/android_kernel_oneplus_msm8994,,lineage-17.1,no,2022-11-20,C
+android_kernel_oneplus_msm8996,https://github.com/LineageOS/android_kernel_oneplus_msm8996,,lineage-18.1,no,2024-06-22,C
+android_kernel_oneplus_onyx,https://github.com/LineageOS/android_kernel_oneplus_onyx,,cm-14.1,no,2021-12-11,C
+android_kernel_oppo_msm8226,https://github.com/LineageOS/android_kernel_oppo_msm8226,,master,no,2016-12-27,
+android_kernel_oppo_msm8939,https://github.com/LineageOS/android_kernel_oppo_msm8939,,lineage-17.1,no,2022-11-20,C
+android_kernel_oppo_msm8974,https://github.com/LineageOS/android_kernel_oppo_msm8974,,lineage-18.1,no,2024-02-07,C
+android_kernel_oppo_n3,https://github.com/LineageOS/android_kernel_oppo_n3,,cm-12.0,no,2018-04-08,
+android_kernel_samsung_exynos5420,https://github.com/LineageOS/android_kernel_samsung_exynos5420,,cm-14.1,no,2024-06-22,C
+android_kernel_samsung_gts2,https://github.com/LineageOS/android_kernel_samsung_gts2,,lineage-15.1,no,2020-05-08,C
+android_kernel_samsung_klimtwifi,https://github.com/LineageOS/android_kernel_samsung_klimtwifi,,cm-12.0,no,2018-04-08,
+android_kernel_samsung_klte,https://github.com/LineageOS/android_kernel_samsung_klte,,cm-14.1,no,2018-04-08,C
+android_kernel_samsung_ks01lte,https://github.com/LineageOS/android_kernel_samsung_ks01lte,,cm-14.1,no,2018-07-24,C
+android_kernel_samsung_lt03lte,https://github.com/LineageOS/android_kernel_samsung_lt03lte,,cm-14.1,no,2021-12-11,C
+android_kernel_samsung_lt03wifi,https://github.com/LineageOS/android_kernel_samsung_lt03wifi,,cm-12.0,no,2016-12-27,
+android_kernel_samsung_noblelte,https://github.com/LineageOS/android_kernel_samsung_noblelte,,cm-14.1,no,2018-04-08,C
+android_kernel_samsung_s3ve3g,https://github.com/LineageOS/android_kernel_samsung_s3ve3g,,cm-12.0,no,2018-04-08,
+android_kernel_samsung_trelte,https://github.com/LineageOS/android_kernel_samsung_trelte,,cm-12.1,no,2021-12-11,
+android_kernel_samsung_trlte,https://github.com/LineageOS/android_kernel_samsung_trlte,,cm-12.0-old,no,2018-07-24,
+android_kernel_smartfren_msm8916,https://github.com/LineageOS/android_kernel_smartfren_msm8916,,cm-12.0,no,2016-12-27,
+android_kernel_sony_flamingo,https://github.com/LineageOS/android_kernel_sony_flamingo,,cm-11.0,no,2018-04-08,
+android_kernel_sony_msm,https://github.com/LineageOS/android_kernel_sony_msm,,cm-13.0,no,2021-12-11,
+android_kernel_sony_msm8930,https://github.com/LineageOS/android_kernel_sony_msm8930,,cm-14.1,no,2018-04-08,C
+android_kernel_sony_msm8974,https://github.com/LineageOS/android_kernel_sony_msm8974,,lineage-18.1,no,2022-11-20,C
+android_kernel_sony_msm8974pro,https://github.com/LineageOS/android_kernel_sony_msm8974pro,,cm-11.0,no,2018-04-08,
+android_kernel_sony_msm8x27,https://github.com/LineageOS/android_kernel_sony_msm8x27,,cm-14.1,no,2021-12-11,C
+android_kernel_sony_tianchi,https://github.com/LineageOS/android_kernel_sony_tianchi,,cm-11.0,no,2018-04-08,
+android_kernel_wingtech_msm8916,https://github.com/LineageOS/android_kernel_wingtech_msm8916,,lineage-17.1,no,2022-11-20,C
+android_kernel_xiaomi_aries,https://github.com/LineageOS/android_kernel_xiaomi_aries,Xiaomi APQ8064 kernel,cm-11.0,no,2018-04-08,
+android_kernel_xiaomi_cancro,https://github.com/LineageOS/android_kernel_xiaomi_cancro,,cm-14.1,no,2018-07-14,C
+android_kernel_xiaomi_msm8956,https://github.com/LineageOS/android_kernel_xiaomi_msm8956,,cm-14.1,no,2021-12-11,C
+android_kernel_yu_msm8916,https://github.com/LineageOS/android_kernel_yu_msm8916,,cm-11.0,no,2018-04-08,
+android_kernel_zte_msm8994,https://github.com/LineageOS/android_kernel_zte_msm8994,,cm-12.1-20160101,no,2018-04-08,

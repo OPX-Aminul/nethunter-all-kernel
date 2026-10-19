@@ -1,0 +1,17 @@
+{
+  "nethunter_rows": 275,
+  "nethunter_devices": 126,
+  "postmarketos_devices": 555,
+  "postmarketos_kernel_packages": 352,
+  "lineageos_devices": 631,
+  "lineageos_kernel_repos": 77,
+  "ubuntu_touch_devices": 111,
+  "eos_devices": 199,
+  "unified_rows": 1771,
+  "github_mobile_kernel_repos": 59,
+  "unique_codenames_all_sources": 1297,
+  "nethunter_standalone_kernel_projects": 144,
+  "nethunter_zero_star_standalone": 104,
+  "nethunter_forks_official_registry": 93,
+  "nethunter_independent_repos": 285
+}

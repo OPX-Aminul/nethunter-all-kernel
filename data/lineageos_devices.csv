@@ -1,0 +1,632 @@
+source,codename,device,vendor,kernel,kernel_version,rom,rom_type,status,maintainer,kernel_source,notes
+LineageOS,G,G,10.or,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/G/,official LineageOS device wiki entry
+LineageOS,sunstone,Fire Max 11,Amazon,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/sunstone/,official LineageOS device wiki entry
+LineageOS,peach,Benefit A3,ARK,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/peach/,official LineageOS device wiki entry
+LineageOS,I001D,ROG Phone 2 (ZS660KL),ASUS,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/I001D/,official LineageOS device wiki entry
+LineageOS,obiwan,ROG Phone 3,ASUS,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/obiwan/,official LineageOS device wiki entry
+LineageOS,Z00A,Zenfone 2 (1080p),ASUS,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/Z00A/,official LineageOS device wiki entry
+LineageOS,Z008,Zenfone 2 (720p),ASUS,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/Z008/,official LineageOS device wiki entry
+LineageOS,Z00D,Zenfone 2 (ZE500CL),ASUS,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/Z00D/,official LineageOS device wiki entry
+LineageOS,Z00T,Zenfone 2 Laser (1080p),ASUS,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/Z00T/,official LineageOS device wiki entry
+LineageOS,Z00L,Zenfone 2 Laser (720p),ASUS,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/Z00L/,official LineageOS device wiki entry
+LineageOS,zenfone3,Zenfone 3,ASUS,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/zenfone3/,official LineageOS device wiki entry
+LineageOS,Z01R,Zenfone 5Z (ZS620KL),ASUS,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/Z01R/,official LineageOS device wiki entry
+LineageOS,I01WD,Zenfone 6 (ZS630KL),ASUS,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/I01WD/,official LineageOS device wiki entry
+LineageOS,sake,ZenFone 8,ASUS,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/sake/,official LineageOS device wiki entry
+LineageOS,X00P,Zenfone Max M1,ASUS,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/X00P/,official LineageOS device wiki entry
+LineageOS,X01AD,Zenfone Max M2,ASUS,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/X01AD/,official LineageOS device wiki entry
+LineageOS,X00TD,Zenfone Max Pro M1,ASUS,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/X00TD/,official LineageOS device wiki entry
+LineageOS,X01BD,Zenfone Max Pro M2,ASUS,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/X01BD/,official LineageOS device wiki entry
+LineageOS,P024,ZenPad 8.0 (Z380KL),ASUS,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/P024/,official LineageOS device wiki entry
+LineageOS,odin_m0,Odin (M0),AYN,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/odin_m0/,official LineageOS device wiki entry
+LineageOS,odin_m2,Odin (M2),AYN,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/odin_m2/,official LineageOS device wiki entry
+LineageOS,odin2,Odin 2,AYN,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/odin2/,official LineageOS device wiki entry
+LineageOS,odin2mini,Odin2 Mini,AYN,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/odin2mini/,official LineageOS device wiki entry
+LineageOS,odin2portal,Odin2 Portal,AYN,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/odin2portal/,official LineageOS device wiki entry
+LineageOS,odin2thor,Thor,AYN,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/odin2thor/,official LineageOS device wiki entry
+LineageOS,m5,"M5 (S905X3, eMMC Only) [Android TV]",Banana Pi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/m5/,official LineageOS device wiki entry
+LineageOS,m5_tab,"M5 (S905X3, eMMC Only) [Tablet]",Banana Pi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/m5_tab/,official LineageOS device wiki entry
+LineageOS,vegetalte,Aquaris E5 4G,BQ,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/vegetalte/,official LineageOS device wiki entry
+LineageOS,piccolo,Aquaris M5,BQ,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/piccolo/,official LineageOS device wiki entry
+LineageOS,chaozu,Aquaris U,BQ,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/chaozu/,official LineageOS device wiki entry
+LineageOS,tenshi,Aquaris U Plus,BQ,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/tenshi/,official LineageOS device wiki entry
+LineageOS,bardock,Aquaris X,BQ,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/bardock/,official LineageOS device wiki entry
+LineageOS,bardockpro,Aquaris X Pro,BQ,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/bardockpro/,official LineageOS device wiki entry
+LineageOS,zangya,Aquaris X2,BQ,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/zangya/,official LineageOS device wiki entry
+LineageOS,zangyapro,Aquaris X2 Pro,BQ,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/zangyapro/,official LineageOS device wiki entry
+LineageOS,paella,Aquaris X5,BQ,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/paella/,official LineageOS device wiki entry
+LineageOS,gohan,Aquaris X5 Plus,BQ,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/gohan/,official LineageOS device wiki entry
+LineageOS,ohm,Developer Kit (S905X4-B/K),DroidLogic,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/ohm/,official LineageOS device wiki entry
+LineageOS,wade,TV Box 4K (2021),Dynalink,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/wade/,official LineageOS device wiki entry
+LineageOS,mata,PH-1,Essential,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/mata/,official LineageOS device wiki entry
+LineageOS,pro1,Pro¹,F(x)tec,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/pro1/,official LineageOS device wiki entry
+LineageOS,pro1x,Pro¹ X,F(x)tec,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/pro1x/,official LineageOS device wiki entry
+LineageOS,FP2,Fairphone 2,Fairphone,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/FP2/,official LineageOS device wiki entry
+LineageOS,FP3,Fairphone 3,Fairphone,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/FP3/,official LineageOS device wiki entry
+LineageOS,FP4,Fairphone 4,Fairphone,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/FP4/,official LineageOS device wiki entry
+LineageOS,FP5,Fairphone 5,Fairphone,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/FP5/,official LineageOS device wiki entry
+LineageOS,FP6,The Fairphone (Gen. 6),Fairphone,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/FP6/,official LineageOS device wiki entry
+LineageOS,nicepool,Pop / TV (Broadcom Wi-Fi/Bluetooth),Freebox,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/nicepool/,official LineageOS device wiki entry
+LineageOS,nicepool_rtk,Pop / TV (Realtek Wi-Fi/Bluetooth),Freebox,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/nicepool_rtk/,official LineageOS device wiki entry
+LineageOS,beast,ADT-2,Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/beast/,official LineageOS device wiki entry
+LineageOS,deadpool,ADT-3,Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/deadpool/,official LineageOS device wiki entry
+LineageOS,seed,Android One 2nd Gen,Google,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/seed/,official LineageOS device wiki entry
+LineageOS,sabrina,Chromecast with Google TV (4K),Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/sabrina/,official LineageOS device wiki entry
+LineageOS,maguro,Galaxy Nexus GSM,Google,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/maguro/,official LineageOS device wiki entry
+LineageOS,toroplus,Galaxy Nexus LTE (Sprint),Google,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/toroplus/,official LineageOS device wiki entry
+LineageOS,toro,Galaxy Nexus LTE (Verizon),Google,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/toro/,official LineageOS device wiki entry
+LineageOS,baracus,Jamboard [Android TV],Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/baracus/,official LineageOS device wiki entry
+LineageOS,baracus_tab,Jamboard [Tablet],Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/baracus_tab/,official LineageOS device wiki entry
+LineageOS,manta,Nexus 10,Google,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/manta/,official LineageOS device wiki entry
+LineageOS,mako,Nexus 4,Google,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/mako/,official LineageOS device wiki entry
+LineageOS,hammerhead,Nexus 5,Google,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/hammerhead/,official LineageOS device wiki entry
+LineageOS,bullhead,Nexus 5X,Google,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/bullhead/,official LineageOS device wiki entry
+LineageOS,shamu,Nexus 6,Google,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/shamu/,official LineageOS device wiki entry
+LineageOS,angler,Nexus 6P,Google,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/angler/,official LineageOS device wiki entry
+LineageOS,flo,"Nexus 7 (Wi-Fi, 2013 version)",Google,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/flo/,official LineageOS device wiki entry
+LineageOS,deb,Nexus 7 2013 (LTE),Google,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/deb/,official LineageOS device wiki entry
+LineageOS,debx,"Nexus 7 2013 (LTE, Repartitioned)",Google,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/debx/,official LineageOS device wiki entry
+LineageOS,flox,"Nexus 7 2013 (Wi-Fi, Repartitioned)",Google,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/flox/,official LineageOS device wiki entry
+LineageOS,flounder_lte,Nexus 9 (LTE),Google,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/flounder_lte/,official LineageOS device wiki entry
+LineageOS,flounder,Nexus 9 (Wi-Fi),Google,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/flounder/,official LineageOS device wiki entry
+LineageOS,fugu,Nexus Player,Google,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/fugu/,official LineageOS device wiki entry
+LineageOS,sailfish,Pixel,Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/sailfish/,official LineageOS device wiki entry
+LineageOS,frankel,Pixel 10,Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/frankel/,official LineageOS device wiki entry
+LineageOS,blazer,Pixel 10 Pro,Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/blazer/,official LineageOS device wiki entry
+LineageOS,rango,Pixel 10 Pro Fold,Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/rango/,official LineageOS device wiki entry
+LineageOS,mustang,Pixel 10 Pro XL,Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/mustang/,official LineageOS device wiki entry
+LineageOS,stallion,Pixel 10a,Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/stallion/,official LineageOS device wiki entry
+LineageOS,walleye,Pixel 2,Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/walleye/,official LineageOS device wiki entry
+LineageOS,taimen,Pixel 2 XL,Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/taimen/,official LineageOS device wiki entry
+LineageOS,blueline,Pixel 3,Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/blueline/,official LineageOS device wiki entry
+LineageOS,crosshatch,Pixel 3 XL,Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/crosshatch/,official LineageOS device wiki entry
+LineageOS,sargo,Pixel 3a,Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/sargo/,official LineageOS device wiki entry
+LineageOS,bonito,Pixel 3a XL,Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/bonito/,official LineageOS device wiki entry
+LineageOS,flame,Pixel 4,Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/flame/,official LineageOS device wiki entry
+LineageOS,coral,Pixel 4 XL,Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/coral/,official LineageOS device wiki entry
+LineageOS,sunfish,Pixel 4a,Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/sunfish/,official LineageOS device wiki entry
+LineageOS,bramble,Pixel 4a 5G,Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/bramble/,official LineageOS device wiki entry
+LineageOS,redfin,Pixel 5,Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/redfin/,official LineageOS device wiki entry
+LineageOS,barbet,Pixel 5a,Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/barbet/,official LineageOS device wiki entry
+LineageOS,oriole,Pixel 6,Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/oriole/,official LineageOS device wiki entry
+LineageOS,raven,Pixel 6 Pro,Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/raven/,official LineageOS device wiki entry
+LineageOS,bluejay,Pixel 6a,Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/bluejay/,official LineageOS device wiki entry
+LineageOS,panther,Pixel 7,Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/panther/,official LineageOS device wiki entry
+LineageOS,cheetah,Pixel 7 Pro,Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/cheetah/,official LineageOS device wiki entry
+LineageOS,lynx,Pixel 7a,Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/lynx/,official LineageOS device wiki entry
+LineageOS,shiba,Pixel 8,Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/shiba/,official LineageOS device wiki entry
+LineageOS,husky,Pixel 8 Pro,Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/husky/,official LineageOS device wiki entry
+LineageOS,akita,Pixel 8a,Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/akita/,official LineageOS device wiki entry
+LineageOS,tokay,Pixel 9,Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/tokay/,official LineageOS device wiki entry
+LineageOS,caiman,Pixel 9 Pro,Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/caiman/,official LineageOS device wiki entry
+LineageOS,comet,Pixel 9 Pro Fold,Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/comet/,official LineageOS device wiki entry
+LineageOS,komodo,Pixel 9 Pro XL,Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/komodo/,official LineageOS device wiki entry
+LineageOS,tegu,Pixel 9a,Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/tegu/,official LineageOS device wiki entry
+LineageOS,dragon,Pixel C,Google,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/dragon/,official LineageOS device wiki entry
+LineageOS,felix,Pixel Fold,Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/felix/,official LineageOS device wiki entry
+LineageOS,tangorpro,Pixel Tablet,Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/tangorpro/,official LineageOS device wiki entry
+LineageOS,marlin,Pixel XL,Google,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/marlin/,official LineageOS device wiki entry
+LineageOS,odroidc4,"ODROID-C4 (S905X3, eMMC Only) [Android TV]",HardKernel,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/odroidc4/,official LineageOS device wiki entry
+LineageOS,odroidc4_tab,"ODROID-C4 (S905X3, eMMC Only) [Tablet]",HardKernel,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/odroidc4_tab/,official LineageOS device wiki entry
+LineageOS,pme,HTC 10,HTC,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/pme/,official LineageOS device wiki entry
+LineageOS,m7,One (GSM),HTC,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/m7/,official LineageOS device wiki entry
+LineageOS,m8,One (M8),HTC,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/m8/,official LineageOS device wiki entry
+LineageOS,m8d,One (M8) Dual SIM,HTC,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/m8d/,official LineageOS device wiki entry
+LineageOS,m7vzw,One (Verizon),HTC,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/m7vzw/,official LineageOS device wiki entry
+LineageOS,hiae,One A9,HTC,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/hiae/,official LineageOS device wiki entry
+LineageOS,himaul,One M9 (GSM),HTC,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/himaul/,official LineageOS device wiki entry
+LineageOS,himawl,One M9 (Verizon),HTC,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/himawl/,official LineageOS device wiki entry
+LineageOS,t6,One Max (GSM),HTC,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/t6/,official LineageOS device wiki entry
+LineageOS,t6vzw,One Max (Verizon),HTC,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/t6vzw/,official LineageOS device wiki entry
+LineageOS,mt2,Ascend Mate 2 4G,Huawei,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/mt2/,official LineageOS device wiki entry
+LineageOS,cherry,Honor 4,Huawei,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/cherry/,official LineageOS device wiki entry
+LineageOS,che10,Honor 4x (China Telecom),Huawei,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/che10/,official LineageOS device wiki entry
+LineageOS,kiwi,Honor 5X,Huawei,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/kiwi/,official LineageOS device wiki entry
+LineageOS,berkeley,Honor View 10,Huawei,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/berkeley/,official LineageOS device wiki entry
+LineageOS,figo,P Smart,Huawei,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/figo/,official LineageOS device wiki entry
+LineageOS,anne,P20 Lite,Huawei,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/anne/,official LineageOS device wiki entry
+LineageOS,charlotte,P20 Pro,Huawei,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/charlotte/,official LineageOS device wiki entry
+LineageOS,s2,Le 2,LeEco,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/s2/,official LineageOS device wiki entry
+LineageOS,x2,Le Max2,LeEco,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/x2/,official LineageOS device wiki entry
+LineageOS,zl1,Le Pro3,LeEco,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/zl1/,official LineageOS device wiki entry
+LineageOS,kuntao,P2,Lenovo,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/kuntao/,official LineageOS device wiki entry
+LineageOS,A6020,Vibe K5,Lenovo,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/A6020/,official LineageOS device wiki entry
+LineageOS,kingdom,Vibe Z2 Pro,Lenovo,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/kingdom/,official LineageOS device wiki entry
+LineageOS,YTX703L,Yoga Tab 3 Plus LTE,Lenovo,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/YTX703L/,official LineageOS device wiki entry
+LineageOS,YTX703F,Yoga Tab 3 Plus Wi-Fi,Lenovo,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/YTX703F/,official LineageOS device wiki entry
+LineageOS,heart,Z5 Pro GT,Lenovo,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/heart/,official LineageOS device wiki entry
+LineageOS,zippo,Z6 Pro,Lenovo,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/zippo/,official LineageOS device wiki entry
+LineageOS,v410,G Pad 7.0 (LTE),LG,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/v410/,official LineageOS device wiki entry
+LineageOS,v400,G Pad 7.0 WiFi,LG,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/v400/,official LineageOS device wiki entry
+LineageOS,v480,G Pad 8.0 (Wi-Fi),LG,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/v480/,official LineageOS device wiki entry
+LineageOS,v500,G Pad 8.3,LG,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/v500/,official LineageOS device wiki entry
+LineageOS,v521,G Pad X (T-Mobile),LG,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/v521/,official LineageOS device wiki entry
+LineageOS,d800,G2 (AT&T),LG,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/d800/,official LineageOS device wiki entry
+LineageOS,d803,G2 (Canadian),LG,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/d803/,official LineageOS device wiki entry
+LineageOS,d802,G2 (International),LG,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/d802/,official LineageOS device wiki entry
+LineageOS,d801,G2 (T-Mobile),LG,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/d801/,official LineageOS device wiki entry
+LineageOS,g2m,G2 Mini,LG,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/g2m/,official LineageOS device wiki entry
+LineageOS,d850,G3 (AT&T),LG,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/d850/,official LineageOS device wiki entry
+LineageOS,d852,G3 (Canada),LG,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/d852/,official LineageOS device wiki entry
+LineageOS,d855,G3 (International),LG,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/d855/,official LineageOS device wiki entry
+LineageOS,f400,G3 (Korea),LG,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/f400/,official LineageOS device wiki entry
+LineageOS,ls990,G3 (Sprint),LG,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/ls990/,official LineageOS device wiki entry
+LineageOS,d851,G3 (T-Mobile),LG,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/d851/,official LineageOS device wiki entry
+LineageOS,vs985,G3 (Verizon),LG,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/vs985/,official LineageOS device wiki entry
+LineageOS,jagnm,G3 Beat,LG,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/jagnm/,official LineageOS device wiki entry
+LineageOS,jag3gds,G3 S,LG,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/jag3gds/,official LineageOS device wiki entry
+LineageOS,h815,G4 (International),LG,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/h815/,official LineageOS device wiki entry
+LineageOS,h811,G4 (T-Mobile),LG,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/h811/,official LineageOS device wiki entry
+LineageOS,h850,G5 (International),LG,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/h850/,official LineageOS device wiki entry
+LineageOS,h830,G5 (T-Mobile),LG,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/h830/,official LineageOS device wiki entry
+LineageOS,rs988,G5 (US Unlocked),LG,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/rs988/,official LineageOS device wiki entry
+LineageOS,h873,G6 (Canada - ENG BL),LG,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/h873/,official LineageOS device wiki entry
+LineageOS,h870d,G6 (EU Unlocked - ENG BL),LG,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/h870d/,official LineageOS device wiki entry
+LineageOS,h870,G6 (EU Unlocked),LG,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/h870/,official LineageOS device wiki entry
+LineageOS,h872,G6 (T-Mobile),LG,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/h872/,official LineageOS device wiki entry
+LineageOS,us997,G6 (US Unlocked),LG,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/us997/,official LineageOS device wiki entry
+LineageOS,judyln,G7 ThinQ (G710AWM/EM/EMW),LG,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/judyln/,official LineageOS device wiki entry
+LineageOS,g710n,G7 ThinQ (G710N),LG,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/g710n/,official LineageOS device wiki entry
+LineageOS,g710ulm,G7 ThinQ (G710ULM/VMX),LG,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/g710ulm/,official LineageOS device wiki entry
+LineageOS,alphaplus,G8 ThinQ,LG,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/alphaplus/,official LineageOS device wiki entry
+LineageOS,betalm,G8s ThinQ,LG,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/betalm/,official LineageOS device wiki entry
+LineageOS,mh2lm,G8X ThinQ (G850EM/EMW),LG,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/mh2lm/,official LineageOS device wiki entry
+LineageOS,m216,K10,LG,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/m216/,official LineageOS device wiki entry
+LineageOS,w7,L90,LG,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/w7/,official LineageOS device wiki entry
+LineageOS,w5,Optimus L70,LG,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/w5/,official LineageOS device wiki entry
+LineageOS,style3lm,Style3,LG,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/style3lm/,official LineageOS device wiki entry
+LineageOS,h910,V20 (AT&T),LG,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/h910/,official LineageOS device wiki entry
+LineageOS,h990,V20 (Global),LG,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/h990/,official LineageOS device wiki entry
+LineageOS,us996d,V20 (GSM Unlocked - DirtySanta),LG,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/us996d/,official LineageOS device wiki entry
+LineageOS,us996,V20 (GSM Unlocked),LG,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/us996/,official LineageOS device wiki entry
+LineageOS,ls997,V20 (Sprint),LG,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/ls997/,official LineageOS device wiki entry
+LineageOS,h918,V20 (T-Mobile),LG,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/h918/,official LineageOS device wiki entry
+LineageOS,vs995,V20 (Verizon),LG,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/vs995/,official LineageOS device wiki entry
+LineageOS,l01k,V30 (Japan),LG,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/l01k/,official LineageOS device wiki entry
+LineageOS,h932,V30 (T-Mobile),LG,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/h932/,official LineageOS device wiki entry
+LineageOS,joan,V30 (Unlocked),LG,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/joan/,official LineageOS device wiki entry
+LineageOS,judyp,V35 ThinQ,LG,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/judyp/,official LineageOS device wiki entry
+LineageOS,judypn,V40 ThinQ,LG,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/judypn/,official LineageOS device wiki entry
+LineageOS,flashlmdd,V50 ThinQ,LG,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/flashlmdd/,official LineageOS device wiki entry
+LineageOS,timelm,V60 ThinQ,LG,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/timelm/,official LineageOS device wiki entry
+LineageOS,caymanslm,Velvet 4G,LG,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/caymanslm/,official LineageOS device wiki entry
+LineageOS,caymanlm,Velvet 5G,LG,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/caymanlm/,official LineageOS device wiki entry
+LineageOS,winglm,Wing,LG,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/winglm/,official LineageOS device wiki entry
+LineageOS,bathena,defy 2021,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/bathena/,official LineageOS device wiki entry
+LineageOS,maserati,DROID 4,Motorola,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/maserati/,official LineageOS device wiki entry
+LineageOS,targa,DROID BIONIC,Motorola,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/targa/,official LineageOS device wiki entry
+LineageOS,spyder,DROID RAZR (CDMA),Motorola,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/spyder/,official LineageOS device wiki entry
+LineageOS,umts_spyder,DROID RAZR (GSM),Motorola,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/umts_spyder/,official LineageOS device wiki entry
+LineageOS,racer,edge,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/racer/,official LineageOS device wiki entry
+LineageOS,berlin,edge 20,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/berlin/,official LineageOS device wiki entry
+LineageOS,pstar,edge 20 pro,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/pstar/,official LineageOS device wiki entry
+LineageOS,berlna,edge 2021,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/berlna/,official LineageOS device wiki entry
+LineageOS,avatrn,edge 2024,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/avatrn/,official LineageOS device wiki entry
+LineageOS,dubai,edge 30,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/dubai/,official LineageOS device wiki entry
+LineageOS,tundra,edge 30 fusion,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/tundra/,official LineageOS device wiki entry
+LineageOS,miami,edge 30 neo,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/miami/,official LineageOS device wiki entry
+LineageOS,eqs,edge 30 ultra,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/eqs/,official LineageOS device wiki entry
+LineageOS,manaus,edge 40 neo,Motorola,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/manaus/,official LineageOS device wiki entry
+LineageOS,rtwo,edge 40 pro,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/rtwo/,official LineageOS device wiki entry
+LineageOS,nio,edge s,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/nio/,official LineageOS device wiki entry
+LineageOS,condor,moto e,Motorola,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/condor/,official LineageOS device wiki entry
+LineageOS,otus,moto e (2015),Motorola,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/otus/,official LineageOS device wiki entry
+LineageOS,surnia,moto e LTE (2015),Motorola,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/surnia/,official LineageOS device wiki entry
+LineageOS,rhannah,moto e5 plus (XT1924-1/2/4/5),Motorola,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/rhannah/,official LineageOS device wiki entry
+LineageOS,ahannah,moto e5 plus (XT1924-3/9),Motorola,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/ahannah/,official LineageOS device wiki entry
+LineageOS,hannah,moto e5 plus (XT1924-6/7/8),Motorola,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/hannah/,official LineageOS device wiki entry
+LineageOS,guam,moto e7 plus,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/guam/,official LineageOS device wiki entry
+LineageOS,falcon,moto g,Motorola,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/falcon/,official LineageOS device wiki entry
+LineageOS,titan,moto g (2014),Motorola,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/titan/,official LineageOS device wiki entry
+LineageOS,osprey,moto g (2015),Motorola,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/osprey/,official LineageOS device wiki entry
+LineageOS,peregrine,moto g 4G,Motorola,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/peregrine/,official LineageOS device wiki entry
+LineageOS,kiev,moto g 5G,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/kiev/,official LineageOS device wiki entry
+LineageOS,fogo,moto g 5G - 2024,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/fogo/,official LineageOS device wiki entry
+LineageOS,nairo,moto g 5G plus,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/nairo/,official LineageOS device wiki entry
+LineageOS,thea,moto g LTE (2014),Motorola,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/thea/,official LineageOS device wiki entry
+LineageOS,guamna,moto g play (2021),Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/guamna/,official LineageOS device wiki entry
+LineageOS,borneo,moto g power 2021,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/borneo/,official LineageOS device wiki entry
+LineageOS,denver,moto g stylus 5G,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/denver/,official LineageOS device wiki entry
+LineageOS,milanf,moto g stylus 5G (2022),Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/milanf/,official LineageOS device wiki entry
+LineageOS,genevn,moto g stylus 5G (2023),Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/genevn/,official LineageOS device wiki entry
+LineageOS,capri,moto g10,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/capri/,official LineageOS device wiki entry
+LineageOS,lamu,moto g15,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/lamu/,official LineageOS device wiki entry
+LineageOS,xpeng,moto g200 5G,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/xpeng/,official LineageOS device wiki entry
+LineageOS,merlin,moto g3 turbo,Motorola,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/merlin/,official LineageOS device wiki entry
+LineageOS,caprip,moto g30,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/caprip/,official LineageOS device wiki entry
+LineageOS,devon,moto g32,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/devon/,official LineageOS device wiki entry
+LineageOS,fogos,moto g34 5G,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/fogos/,official LineageOS device wiki entry
+LineageOS,athene,moto g4,Motorola,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/athene/,official LineageOS device wiki entry
+LineageOS,harpia,moto g4 play,Motorola,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/harpia/,official LineageOS device wiki entry
+LineageOS,hawao,moto g42,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/hawao/,official LineageOS device wiki entry
+LineageOS,cedric,moto g5,Motorola,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/cedric/,official LineageOS device wiki entry
+LineageOS,ibiza,moto g50,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/ibiza/,official LineageOS device wiki entry
+LineageOS,rhode,moto g52,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/rhode/,official LineageOS device wiki entry
+LineageOS,montana,moto g5s,Motorola,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/montana/,official LineageOS device wiki entry
+LineageOS,evert,moto g6 plus,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/evert/,official LineageOS device wiki entry
+LineageOS,river,moto g7,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/river/,official LineageOS device wiki entry
+LineageOS,channel,moto g7 play,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/channel/,official LineageOS device wiki entry
+LineageOS,lake,moto g7 plus,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/lake/,official LineageOS device wiki entry
+LineageOS,ocean,moto g7 power,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/ocean/,official LineageOS device wiki entry
+LineageOS,rhodep,moto g82 5G,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/rhodep/,official LineageOS device wiki entry
+LineageOS,bangkk,moto g84 5G,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/bangkk/,official LineageOS device wiki entry
+LineageOS,guamp,moto g9 play,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/guamp/,official LineageOS device wiki entry
+LineageOS,cebu,moto g9 power,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/cebu/,official LineageOS device wiki entry
+LineageOS,ghost,moto x,Motorola,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/ghost/,official LineageOS device wiki entry
+LineageOS,victara,moto x (2014),Motorola,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/victara/,official LineageOS device wiki entry
+LineageOS,lux,moto x play,Motorola,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/lux/,official LineageOS device wiki entry
+LineageOS,clark,moto x pure edition (2015),Motorola,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/clark/,official LineageOS device wiki entry
+LineageOS,payton,moto x4,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/payton/,official LineageOS device wiki entry
+LineageOS,griffin,moto z,Motorola,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/griffin/,official LineageOS device wiki entry
+LineageOS,addison,moto z play,Motorola,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/addison/,official LineageOS device wiki entry
+LineageOS,nash,moto z2 force,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/nash/,official LineageOS device wiki entry
+LineageOS,albus,moto z2 play,Motorola,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/albus/,official LineageOS device wiki entry
+LineageOS,messi,moto z3,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/messi/,official LineageOS device wiki entry
+LineageOS,beckham,moto z3 play,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/beckham/,official LineageOS device wiki entry
+LineageOS,troika,one action,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/troika/,official LineageOS device wiki entry
+LineageOS,liber,one fusion+,Motorola,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/liber/,official LineageOS device wiki entry
+LineageOS,chef,one power,Motorola,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/chef/,official LineageOS device wiki entry
+LineageOS,kane,one vision,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/kane/,official LineageOS device wiki entry
+LineageOS,parker,one zoom,Motorola,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/parker/,official LineageOS device wiki entry
+LineageOS,xt897,PHOTON Q 4G LTE,Motorola,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/xt897/,official LineageOS device wiki entry
+LineageOS,bronco,ThinkPhone by motorola,Motorola,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/bronco/,official LineageOS device wiki entry
+LineageOS,ether,Robin,Nextbit,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/ether/,official LineageOS device wiki entry
+LineageOS,nx,Switch v1 [Android TV],Nintendo,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/nx/,official LineageOS device wiki entry
+LineageOS,nx_tab,Switch v1 [Tablet],Nintendo,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/nx_tab/,official LineageOS device wiki entry
+LineageOS,PL2,Nokia 6.1 (2018),Nokia,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/PL2/,official LineageOS device wiki entry
+LineageOS,DRG,Nokia 6.1 Plus,Nokia,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/DRG/,official LineageOS device wiki entry
+LineageOS,B2N,Nokia 7 plus,Nokia,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/B2N/,official LineageOS device wiki entry
+LineageOS,NB1,Nokia 8,Nokia,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/NB1/,official LineageOS device wiki entry
+LineageOS,Spacewar,Phone (1),Nothing,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/Spacewar/,official LineageOS device wiki entry
+LineageOS,Pong,Phone (2),Nothing,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/Pong/,official LineageOS device wiki entry
+LineageOS,TP1803,Mini 5G,Nubia,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/TP1803/,official LineageOS device wiki entry
+LineageOS,nx651j,Play 5G,Nubia,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/nx651j/,official LineageOS device wiki entry
+LineageOS,nx609j,Red Magic,Nubia,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/nx609j/,official LineageOS device wiki entry
+LineageOS,nx659j,Red Magic 5G (Global),Nubia,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/nx659j/,official LineageOS device wiki entry
+LineageOS,nx619j,Red Magic Mars,Nubia,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/nx619j/,official LineageOS device wiki entry
+LineageOS,nx616j,X,Nubia,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/nx616j/,official LineageOS device wiki entry
+LineageOS,nx563j,Z17,Nubia,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/nx563j/,official LineageOS device wiki entry
+LineageOS,nx606j,Z18,Nubia,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/nx606j/,official LineageOS device wiki entry
+LineageOS,nx611j,Z18 Mini,Nubia,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/nx611j/,official LineageOS device wiki entry
+LineageOS,nx512j,Z9 Max,Nubia,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/nx512j/,official LineageOS device wiki entry
+LineageOS,porg,Jetson Nano [Android TV],NVIDIA,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/porg/,official LineageOS device wiki entry
+LineageOS,porg_tab,Jetson Nano [Tablet],NVIDIA,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/porg_tab/,official LineageOS device wiki entry
+LineageOS,quill,Jetson TX2 [Android TV],NVIDIA,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/quill/,official LineageOS device wiki entry
+LineageOS,quill_tab,Jetson TX2 [Tablet],NVIDIA,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/quill_tab/,official LineageOS device wiki entry
+LineageOS,roth,Shield Portable,NVIDIA,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/roth/,official LineageOS device wiki entry
+LineageOS,shieldtablet,Shield Tablet,NVIDIA,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/shieldtablet/,official LineageOS device wiki entry
+LineageOS,foster,Shield TV (2015 / 2015 Pro / 2017 / 2019 Pro) [Android TV],NVIDIA,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/foster/,official LineageOS device wiki entry
+LineageOS,foster_tab,Shield TV (2015 / 2015 Pro / 2017 / 2019 Pro) [Tablet],NVIDIA,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/foster_tab/,official LineageOS device wiki entry
+LineageOS,sif,Shield TV (2019) [Android TV],NVIDIA,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/sif/,official LineageOS device wiki entry
+LineageOS,mdarcy,Shield TV 2019 Pro [Android TV],NVIDIA,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/mdarcy/,official LineageOS device wiki entry
+LineageOS,mdarcy_tab,Shield TV 2019 Pro [Tablet],NVIDIA,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/mdarcy_tab/,official LineageOS device wiki entry
+LineageOS,salami,OnePlus 11 5G,OnePlus,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/salami/,official LineageOS device wiki entry
+LineageOS,waffle,OnePlus 12,OnePlus,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/waffle/,official LineageOS device wiki entry
+LineageOS,aston,OnePlus 12R,OnePlus,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/aston/,official LineageOS device wiki entry
+LineageOS,dodge,OnePlus 13,OnePlus,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/dodge/,official LineageOS device wiki entry
+LineageOS,giulia,OnePlus 13R,OnePlus,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/giulia/,official LineageOS device wiki entry
+LineageOS,infiniti,OnePlus 15,OnePlus,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/infiniti/,official LineageOS device wiki entry
+LineageOS,fairlady,OnePlus 15T,OnePlus,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/fairlady/,official LineageOS device wiki entry
+LineageOS,oneplus2,OnePlus 2,OnePlus,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/oneplus2/,official LineageOS device wiki entry
+LineageOS,oneplus3,OnePlus 3,OnePlus,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/oneplus3/,official LineageOS device wiki entry
+LineageOS,cheeseburger,OnePlus 5,OnePlus,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/cheeseburger/,official LineageOS device wiki entry
+LineageOS,dumpling,OnePlus 5T,OnePlus,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/dumpling/,official LineageOS device wiki entry
+LineageOS,enchilada,OnePlus 6,OnePlus,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/enchilada/,official LineageOS device wiki entry
+LineageOS,fajita,OnePlus 6T,OnePlus,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/fajita/,official LineageOS device wiki entry
+LineageOS,guacamoleb,OnePlus 7,OnePlus,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/guacamoleb/,official LineageOS device wiki entry
+LineageOS,guacamole,OnePlus 7 Pro,OnePlus,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/guacamole/,official LineageOS device wiki entry
+LineageOS,hotdogb,OnePlus 7T,OnePlus,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/hotdogb/,official LineageOS device wiki entry
+LineageOS,hotdog,OnePlus 7T Pro,OnePlus,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/hotdog/,official LineageOS device wiki entry
+LineageOS,instantnoodle,OnePlus 8,OnePlus,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/instantnoodle/,official LineageOS device wiki entry
+LineageOS,instantnoodlep,OnePlus 8 Pro,OnePlus,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/instantnoodlep/,official LineageOS device wiki entry
+LineageOS,kebab,OnePlus 8T,OnePlus,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/kebab/,official LineageOS device wiki entry
+LineageOS,lemonade,OnePlus 9,OnePlus,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/lemonade/,official LineageOS device wiki entry
+LineageOS,lemonadep,OnePlus 9 Pro,OnePlus,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/lemonadep/,official LineageOS device wiki entry
+LineageOS,lemonades,OnePlus 9R,OnePlus,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/lemonades/,official LineageOS device wiki entry
+LineageOS,martini,OnePlus 9RT,OnePlus,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/martini/,official LineageOS device wiki entry
+LineageOS,astonc,OnePlus Ace 3,OnePlus,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/astonc/,official LineageOS device wiki entry
+LineageOS,corvette,OnePlus Ace 3 Pro,OnePlus,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/corvette/,official LineageOS device wiki entry
+LineageOS,audi,OnePlus Ace 3V,OnePlus,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/audi/,official LineageOS device wiki entry
+LineageOS,giuliac,OnePlus Ace 5,OnePlus,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/giuliac/,official LineageOS device wiki entry
+LineageOS,hummer,OnePlus Ace 5 Pro,OnePlus,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/hummer/,official LineageOS device wiki entry
+LineageOS,avicii,OnePlus Nord,OnePlus,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/avicii/,official LineageOS device wiki entry
+LineageOS,avalon,OnePlus Nord 4,OnePlus,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/avalon/,official LineageOS device wiki entry
+LineageOS,lexus,OnePlus Nord 5,OnePlus,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/lexus/,official LineageOS device wiki entry
+LineageOS,oscaro,OnePlus Nord CE 2 Lite 5G,OnePlus,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/oscaro/,official LineageOS device wiki entry
+LineageOS,larry,OnePlus Nord CE 3 Lite 5G,OnePlus,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/larry/,official LineageOS device wiki entry
+LineageOS,benz,OnePlus Nord CE4,OnePlus,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/benz/,official LineageOS device wiki entry
+LineageOS,billie,OnePlus Nord N10,OnePlus,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/billie/,official LineageOS device wiki entry
+LineageOS,gunnar,OnePlus Nord N20,OnePlus,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/gunnar/,official LineageOS device wiki entry
+LineageOS,dre,OnePlus Nord N200,OnePlus,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/dre/,official LineageOS device wiki entry
+LineageOS,bacon,OnePlus One,OnePlus,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/bacon/,official LineageOS device wiki entry
+LineageOS,erhai,OnePlus Pad 2 Pro,OnePlus,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/erhai/,official LineageOS device wiki entry
+LineageOS,iceland,OnePlus Pad 3 Pro,OnePlus,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/iceland/,official LineageOS device wiki entry
+LineageOS,caihong,OnePlus Pad Pro,OnePlus,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/caihong/,official LineageOS device wiki entry
+LineageOS,onyx,OnePlus X,OnePlus,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/onyx/,official LineageOS device wiki entry
+LineageOS,f1f,F1 (International),OPPO,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/f1f/,official LineageOS device wiki entry
+LineageOS,find7,Find 7a,OPPO,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/find7/,official LineageOS device wiki entry
+LineageOS,n3,N3,OPPO,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/n3/,official LineageOS device wiki entry
+LineageOS,r5,R5 (International),OPPO,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/r5/,official LineageOS device wiki entry
+LineageOS,r7plus,R7 Plus (International),OPPO,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/r7plus/,official LineageOS device wiki entry
+LineageOS,r7sf,R7s (International),OPPO,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/r7sf/,official LineageOS device wiki entry
+LineageOS,pyrite,OV1,OSOM,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/pyrite/,official LineageOS device wiki entry
+LineageOS,radxa0,"Zero (S905Y2, eMMC Only) [Android TV]",Radxa,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/radxa0/,official LineageOS device wiki entry
+LineageOS,radxa0_tab,"Zero (S905Y2, eMMC Only) [Tablet]",Radxa,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/radxa0_tab/,official LineageOS device wiki entry
+LineageOS,radxa02,"Zero 2 (S905D3, eMMC Only) [Android TV]",Radxa,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/radxa02/,official LineageOS device wiki entry
+LineageOS,radxa02_tab,"Zero 2 (S905D3, eMMC Only) [Tablet]",Radxa,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/radxa02_tab/,official LineageOS device wiki entry
+LineageOS,nicole,Edge 5G,Razer,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/nicole/,official LineageOS device wiki entry
+LineageOS,cheryl,Phone,Razer,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/cheryl/,official LineageOS device wiki entry
+LineageOS,aura,Phone 2,Razer,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/aura/,official LineageOS device wiki entry
+LineageOS,luigi,Realme 10 Pro 5G,Realme,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/luigi/,official LineageOS device wiki entry
+LineageOS,RMX1801,Realme 2 Pro,Realme,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/RMX1801/,official LineageOS device wiki entry
+LineageOS,RMX1851,Realme 3 Pro,Realme,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/RMX1851/,official LineageOS device wiki entry
+LineageOS,oscarru,Realme 9 5G,Realme,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/oscarru/,official LineageOS device wiki entry
+LineageOS,oscar,Realme 9 Pro 5G,Realme,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/oscar/,official LineageOS device wiki entry
+LineageOS,bale,Realme GT Neo6,Realme,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/bale/,official LineageOS device wiki entry
+LineageOS,pista,Realme GT7 Pro,Realme,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/pista/,official LineageOS device wiki entry
+LineageOS,piloti,Realme GT7 Pro Racing Edition,Realme,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/piloti/,official LineageOS device wiki entry
+LineageOS,oscarc,Realme Q5,Realme,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/oscarc/,official LineageOS device wiki entry
+LineageOS,RP6,Retroid Pocket 6,Retroid Pocket,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/RP6/,official LineageOS device wiki entry
+LineageOS,RPN,Retroid Pocket Nova,Retroid Pocket,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/RPN/,official LineageOS device wiki entry
+LineageOS,a21s,Galaxy A21s,Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/a21s/,official LineageOS device wiki entry
+LineageOS,a3xelte,Galaxy A3 (2016),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/a3xelte/,official LineageOS device wiki entry
+LineageOS,a5xelte,Galaxy A5 (2016),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/a5xelte/,official LineageOS device wiki entry
+LineageOS,a5y17lte,Galaxy A5 (2017),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/a5y17lte/,official LineageOS device wiki entry
+LineageOS,a52q,Galaxy A52 4G,Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/a52q/,official LineageOS device wiki entry
+LineageOS,a52sxq,Galaxy A52s 5G,Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/a52sxq/,official LineageOS device wiki entry
+LineageOS,a7xelte,Galaxy A7 (2016),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/a7xelte/,official LineageOS device wiki entry
+LineageOS,a7y17lte,Galaxy A7 (2017),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/a7y17lte/,official LineageOS device wiki entry
+LineageOS,a71,Galaxy A71,Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/a71/,official LineageOS device wiki entry
+LineageOS,a72q,Galaxy A72,Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/a72q/,official LineageOS device wiki entry
+LineageOS,a73xq,Galaxy A73 5G,Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/a73xq/,official LineageOS device wiki entry
+LineageOS,f62,Galaxy F62,Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/f62/,official LineageOS device wiki entry
+LineageOS,ms013g,Galaxy Grand 2 Duos,Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/ms013g/,official LineageOS device wiki entry
+LineageOS,j7elte,Galaxy J7 (2015),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/j7elte/,official LineageOS device wiki entry
+LineageOS,m20lte,Galaxy M20,Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/m20lte/,official LineageOS device wiki entry
+LineageOS,m52xq,Galaxy M52 5G,Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/m52xq/,official LineageOS device wiki entry
+LineageOS,lt03lte,Galaxy Note 10.1 2014 (LTE),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/lt03lte/,official LineageOS device wiki entry
+LineageOS,n1awifi,Galaxy Note 10.1 Wi-Fi (2014),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/n1awifi/,official LineageOS device wiki entry
+LineageOS,t0lte,Galaxy Note 2 (LTE),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/t0lte/,official LineageOS device wiki entry
+LineageOS,ha3g,Galaxy Note 3 (International 3G),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/ha3g/,official LineageOS device wiki entry
+LineageOS,hlte,Galaxy Note 3 LTE (N9005/P),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/hlte/,official LineageOS device wiki entry
+LineageOS,hltechn,Galaxy Note 3 LTE (N9008V),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/hltechn/,official LineageOS device wiki entry
+LineageOS,hltekor,Galaxy Note 3 LTE (N900K/L/S),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/hltekor/,official LineageOS device wiki entry
+LineageOS,hltetmo,Galaxy Note 3 LTE (N900T/V/W8),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/hltetmo/,official LineageOS device wiki entry
+LineageOS,n5100,Galaxy Note 8.0 (GSM),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/n5100/,official LineageOS device wiki entry
+LineageOS,n5120,Galaxy Note 8.0 (LTE),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/n5120/,official LineageOS device wiki entry
+LineageOS,n5110,Galaxy Note 8.0 (Wi-Fi),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/n5110/,official LineageOS device wiki entry
+LineageOS,crownlte,Galaxy Note 9,Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/crownlte/,official LineageOS device wiki entry
+LineageOS,v1awifi,Galaxy Note Pro 12.2 Wi-Fi,Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/v1awifi/,official LineageOS device wiki entry
+LineageOS,d1,Galaxy Note10,Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/d1/,official LineageOS device wiki entry
+LineageOS,d1x,Galaxy Note10 5G,Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/d1x/,official LineageOS device wiki entry
+LineageOS,d2s,Galaxy Note10+,Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/d2s/,official LineageOS device wiki entry
+LineageOS,d2x,Galaxy Note10+ 5G,Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/d2x/,official LineageOS device wiki entry
+LineageOS,c1s,Galaxy Note20 (4G/5G),Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/c1s/,official LineageOS device wiki entry
+LineageOS,c2s,Galaxy Note20 Ultra (4G/5G),Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/c2s/,official LineageOS device wiki entry
+LineageOS,i9100,Galaxy S II,Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/i9100/,official LineageOS device wiki entry
+LineageOS,d2att,Galaxy S III (AT&T),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/d2att/,official LineageOS device wiki entry
+LineageOS,i9300,Galaxy S III (International),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/i9300/,official LineageOS device wiki entry
+LineageOS,i9305,Galaxy S III (LTE / International),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/i9305/,official LineageOS device wiki entry
+LineageOS,d2spr,Galaxy S III (Sprint),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/d2spr/,official LineageOS device wiki entry
+LineageOS,d2tmo,Galaxy S III (T-Mobile),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/d2tmo/,official LineageOS device wiki entry
+LineageOS,d2vzw,Galaxy S III (Verizon),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/d2vzw/,official LineageOS device wiki entry
+LineageOS,s3ve3gds,Galaxy S III Neo (Dual SIM),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/s3ve3gds/,official LineageOS device wiki entry
+LineageOS,s3ve3gjv,Galaxy S III Neo (Samsung Camera),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/s3ve3gjv/,official LineageOS device wiki entry
+LineageOS,s3ve3gxx,Galaxy S III Neo (Sony Camera),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/s3ve3gxx/,official LineageOS device wiki entry
+LineageOS,beyond1lte,Galaxy S10,Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/beyond1lte/,official LineageOS device wiki entry
+LineageOS,beyondx,Galaxy S10 5G,Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/beyondx/,official LineageOS device wiki entry
+LineageOS,beyond2lte,Galaxy S10+,Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/beyond2lte/,official LineageOS device wiki entry
+LineageOS,beyond0lte,Galaxy S10e,Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/beyond0lte/,official LineageOS device wiki entry
+LineageOS,x1s,Galaxy S20 (4G/5G),Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/x1s/,official LineageOS device wiki entry
+LineageOS,r8s,Galaxy S20 FE (Exynos),Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/r8s/,official LineageOS device wiki entry
+LineageOS,r8q,Galaxy S20 FE (Snapdragon),Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/r8q/,official LineageOS device wiki entry
+LineageOS,z3s,Galaxy S20 Ultra (5G),Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/z3s/,official LineageOS device wiki entry
+LineageOS,y2s,Galaxy S20+ (4G/5G),Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/y2s/,official LineageOS device wiki entry
+LineageOS,r0s,Galaxy S22,Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/r0s/,official LineageOS device wiki entry
+LineageOS,b0s,Galaxy S22 Ultra,Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/b0s/,official LineageOS device wiki entry
+LineageOS,g0s,Galaxy S22+,Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/g0s/,official LineageOS device wiki entry
+LineageOS,dm1q,Galaxy S23,Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/dm1q/,official LineageOS device wiki entry
+LineageOS,jfltexx,"Galaxy S4 (GT-I9505, SGH-I337M, SGH-M919/V)",Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/jfltexx/,official LineageOS device wiki entry
+LineageOS,jfltevzw,Galaxy S4 (SCH-I545),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/jfltevzw/,official LineageOS device wiki entry
+LineageOS,jfltespr,"Galaxy S4 (SCH-R970, SPH-L720)",Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/jfltespr/,official LineageOS device wiki entry
+LineageOS,jflteatt,Galaxy S4 (SGH-I337),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/jflteatt/,official LineageOS device wiki entry
+LineageOS,jactivelte,Galaxy S4 Active,Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/jactivelte/,official LineageOS device wiki entry
+LineageOS,ks01lte,Galaxy S4 LTE-A (GT-I9506),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/ks01lte/,official LineageOS device wiki entry
+LineageOS,serrano3gxx,Galaxy S4 Mini (International 3G),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/serrano3gxx/,official LineageOS device wiki entry
+LineageOS,serranodsdd,Galaxy S4 Mini (International Dual SIM),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/serranodsdd/,official LineageOS device wiki entry
+LineageOS,serranoltexx,Galaxy S4 Mini (International LTE),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/serranoltexx/,official LineageOS device wiki entry
+LineageOS,jfvelte,Galaxy S4 Value Edition (GT-I9515/L),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/jfvelte/,official LineageOS device wiki entry
+LineageOS,k3gxx,Galaxy S5 (International 3G),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/k3gxx/,official LineageOS device wiki entry
+LineageOS,klteactivexx,Galaxy S5 Active (G870F),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/klteactivexx/,official LineageOS device wiki entry
+LineageOS,kltechn,Galaxy S5 LTE (G9006V/8V),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/kltechn/,official LineageOS device wiki entry
+LineageOS,klteaio,Galaxy S5 LTE (G900AZ/S902L),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/klteaio/,official LineageOS device wiki entry
+LineageOS,klte,Galaxy S5 LTE (G900F/M/R4/R7/T/T3/V/W8),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/klte/,official LineageOS device wiki entry
+LineageOS,kltedv,Galaxy S5 LTE (G900I/P),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/kltedv/,official LineageOS device wiki entry
+LineageOS,kltekor,Galaxy S5 LTE (G900K/L/S),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/kltekor/,official LineageOS device wiki entry
+LineageOS,kltekdi,Galaxy S5 LTE (SC-04F/SCL23),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/kltekdi/,official LineageOS device wiki entry
+LineageOS,kltechnduo,Galaxy S5 LTE Duos (G9006W/8W),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/kltechnduo/,official LineageOS device wiki entry
+LineageOS,klteduos,Galaxy S5 LTE Duos (G900FD/MD),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/klteduos/,official LineageOS device wiki entry
+LineageOS,lentislte,Galaxy S5 LTE-A,Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/lentislte/,official LineageOS device wiki entry
+LineageOS,s5neolte,Galaxy S5 Neo,Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/s5neolte/,official LineageOS device wiki entry
+LineageOS,kccat6,Galaxy S5 Plus,Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/kccat6/,official LineageOS device wiki entry
+LineageOS,kltesprsports,Galaxy S5 Sport,Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/kltesprsports/,official LineageOS device wiki entry
+LineageOS,zerofltexx,Galaxy S6,Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/zerofltexx/,official LineageOS device wiki entry
+LineageOS,zeroltexx,Galaxy S6 Edge,Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/zeroltexx/,official LineageOS device wiki entry
+LineageOS,herolte,Galaxy S7,Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/herolte/,official LineageOS device wiki entry
+LineageOS,hero2lte,Galaxy S7 Edge,Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/hero2lte/,official LineageOS device wiki entry
+LineageOS,starlte,Galaxy S9,Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/starlte/,official LineageOS device wiki entry
+LineageOS,star2lte,Galaxy S9+,Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/star2lte/,official LineageOS device wiki entry
+LineageOS,espresso3g,Galaxy Tab 2 7.0 (GSM),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/espresso3g/,official LineageOS device wiki entry
+LineageOS,espressowifi,Galaxy Tab 2 7.0 (Wi-Fi / Wi-Fi + IR),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/espressowifi/,official LineageOS device wiki entry
+LineageOS,lt02ltespr,Galaxy Tab 3 7.0 LTE,Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/lt02ltespr/,official LineageOS device wiki entry
+LineageOS,gtowifi,Galaxy Tab A 8.0 (2019),Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/gtowifi/,official LineageOS device wiki entry
+LineageOS,gta4l,Galaxy Tab A7 10.4 2020 (LTE),Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/gta4l/,official LineageOS device wiki entry
+LineageOS,gta4lwifi,Galaxy Tab A7 10.4 2020 (Wi-Fi),Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/gta4lwifi/,official LineageOS device wiki entry
+LineageOS,gtesqltespr,Galaxy Tab E 8.0 LTE (Sprint),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/gtesqltespr/,official LineageOS device wiki entry
+LineageOS,gtelwifiue,Galaxy Tab E 9.6 (WiFi),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/gtelwifiue/,official LineageOS device wiki entry
+LineageOS,n2awifi,Galaxy Tab PRO 10.1,Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/n2awifi/,official LineageOS device wiki entry
+LineageOS,mondrianwifi,Galaxy Tab Pro 8.4,Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/mondrianwifi/,official LineageOS device wiki entry
+LineageOS,chagalllte,Galaxy Tab S 10.5 LTE,Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/chagalllte/,official LineageOS device wiki entry
+LineageOS,chagallwifi,Galaxy Tab S 10.5 Wi-Fi,Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/chagallwifi/,official LineageOS device wiki entry
+LineageOS,klimtwifi,Galaxy Tab S 8.4 Wi-Fi,Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/klimtwifi/,official LineageOS device wiki entry
+LineageOS,gts28vewifi,Galaxy Tab S2 8.0 Wi-Fi (2016),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/gts28vewifi/,official LineageOS device wiki entry
+LineageOS,gts210ltexx,Galaxy Tab S2 9.7 (LTE),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/gts210ltexx/,official LineageOS device wiki entry
+LineageOS,gts210wifi,Galaxy Tab S2 9.7 (Wi-Fi),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/gts210wifi/,official LineageOS device wiki entry
+LineageOS,gts210vewifi,Galaxy Tab S2 9.7 Wi-Fi (2016),Samsung,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/gts210vewifi/,official LineageOS device wiki entry
+LineageOS,gts4lv,Galaxy Tab S5e (LTE),Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/gts4lv/,official LineageOS device wiki entry
+LineageOS,gts4lvwifi,Galaxy Tab S5e (Wi-Fi),Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/gts4lvwifi/,official LineageOS device wiki entry
+LineageOS,gta4xl,Galaxy Tab S6 Lite (LTE),Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/gta4xl/,official LineageOS device wiki entry
+LineageOS,gta4xlwifi,Galaxy Tab S6 Lite (Wi-Fi),Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/gta4xlwifi/,official LineageOS device wiki entry
+LineageOS,gta4xlswifi,Galaxy Tab S6 Lite 2024 (Wi-Fi),Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/gta4xlswifi/,official LineageOS device wiki entry
+LineageOS,gts7l,Galaxy Tab S7 (LTE),Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/gts7l/,official LineageOS device wiki entry
+LineageOS,gts7lwifi,Galaxy Tab S7 (Wi-Fi),Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/gts7lwifi/,official LineageOS device wiki entry
+LineageOS,gts7xl,Galaxy Tab S7+ (LTE/5G),Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/gts7xl/,official LineageOS device wiki entry
+LineageOS,gts7xlwifi,Galaxy Tab S7+ (Wi-Fi),Samsung,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/gts7xlwifi/,official LineageOS device wiki entry
+LineageOS,tifa,DV9135,SDMC,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/tifa/,official LineageOS device wiki entry
+LineageOS,axolotl,SHIFT6mq,SHIFT,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/axolotl/,official LineageOS device wiki entry
+LineageOS,otter,SHIFTphone 8.0,SHIFT,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/otter/,official LineageOS device wiki entry
+LineageOS,trident,R1,Smartisan,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/trident/,official LineageOS device wiki entry
+LineageOS,ingot,Saga,Solana,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/ingot/,official LineageOS device wiki entry
+LineageOS,pdx203,Xperia 1 II,Sony,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/pdx203/,official LineageOS device wiki entry
+LineageOS,pdx215,Xperia 1 III,Sony,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/pdx215/,official LineageOS device wiki entry
+LineageOS,pdx223,Xperia 1 IV,Sony,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/pdx223/,official LineageOS device wiki entry
+LineageOS,pdx234,Xperia 1 V,Sony,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/pdx234/,official LineageOS device wiki entry
+LineageOS,pdx245,Xperia 1 VI,Sony,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/pdx245/,official LineageOS device wiki entry
+LineageOS,kirin,Xperia 10,Sony,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/kirin/,official LineageOS device wiki entry
+LineageOS,pdx225,Xperia 10 IV,Sony,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/pdx225/,official LineageOS device wiki entry
+LineageOS,mermaid,Xperia 10 Plus,Sony,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/mermaid/,official LineageOS device wiki entry
+LineageOS,pdx235,Xperia 10 V,Sony,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/pdx235/,official LineageOS device wiki entry
+LineageOS,pdx257,Xperia 10 VII,Sony,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/pdx257/,official LineageOS device wiki entry
+LineageOS,pdx206,Xperia 5 II,Sony,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/pdx206/,official LineageOS device wiki entry
+LineageOS,pdx214,Xperia 5 III,Sony,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/pdx214/,official LineageOS device wiki entry
+LineageOS,pdx224,Xperia 5 IV,Sony,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/pdx224/,official LineageOS device wiki entry
+LineageOS,pdx237,Xperia 5 V,Sony,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/pdx237/,official LineageOS device wiki entry
+LineageOS,taoshan,Xperia L,Sony,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/taoshan/,official LineageOS device wiki entry
+LineageOS,nicki,Xperia M,Sony,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/nicki/,official LineageOS device wiki entry
+LineageOS,huashan,Xperia SP,Sony,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/huashan/,official LineageOS device wiki entry
+LineageOS,mint,Xperia T,Sony,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/mint/,official LineageOS device wiki entry
+LineageOS,pollux,Xperia Tablet Z LTE,Sony,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/pollux/,official LineageOS device wiki entry
+LineageOS,pollux_windy,Xperia Tablet Z Wi-Fi,Sony,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/pollux_windy/,official LineageOS device wiki entry
+LineageOS,castor,Xperia Tablet Z2 LTE,Sony,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/castor/,official LineageOS device wiki entry
+LineageOS,castor_windy,Xperia Tablet Z2 Wi-Fi,Sony,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/castor_windy/,official LineageOS device wiki entry
+LineageOS,hayabusa,Xperia TX,Sony,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/hayabusa/,official LineageOS device wiki entry
+LineageOS,tsubasa,Xperia V,Sony,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/tsubasa/,official LineageOS device wiki entry
+LineageOS,suzu,Xperia X,Sony,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/suzu/,official LineageOS device wiki entry
+LineageOS,kugo,Xperia X Compact,Sony,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/kugo/,official LineageOS device wiki entry
+LineageOS,pioneer,Xperia XA2,Sony,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/pioneer/,official LineageOS device wiki entry
+LineageOS,voyager,Xperia XA2 Plus,Sony,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/voyager/,official LineageOS device wiki entry
+LineageOS,discovery,Xperia XA2 Ultra,Sony,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/discovery/,official LineageOS device wiki entry
+LineageOS,akari,Xperia XZ2,Sony,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/akari/,official LineageOS device wiki entry
+LineageOS,xz2c,Xperia XZ2 Compact,Sony,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/xz2c/,official LineageOS device wiki entry
+LineageOS,aurora,Xperia XZ2 Premium,Sony,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/aurora/,official LineageOS device wiki entry
+LineageOS,akatsuki,Xperia XZ3,Sony,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/akatsuki/,official LineageOS device wiki entry
+LineageOS,yuga,Xperia Z,Sony,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/yuga/,official LineageOS device wiki entry
+LineageOS,sirius,Xperia Z2,Sony,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/sirius/,official LineageOS device wiki entry
+LineageOS,z3,Xperia Z3,Sony,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/z3/,official LineageOS device wiki entry
+LineageOS,z3c,Xperia Z3 Compact,Sony,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/z3c/,official LineageOS device wiki entry
+LineageOS,ivy,Xperia Z3+,Sony,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/ivy/,official LineageOS device wiki entry
+LineageOS,karin,Xperia Z4 Tablet LTE,Sony,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/karin/,official LineageOS device wiki entry
+LineageOS,karin_windy,Xperia Z4 Tablet WiFi,Sony,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/karin_windy/,official LineageOS device wiki entry
+LineageOS,sumire,Xperia Z5,Sony,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/sumire/,official LineageOS device wiki entry
+LineageOS,suzuran,Xperia Z5 Compact,Sony,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/suzuran/,official LineageOS device wiki entry
+LineageOS,odin,Xperia ZL,Sony,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/odin/,official LineageOS device wiki entry
+LineageOS,dogo,Xperia ZR,Sony,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/dogo/,official LineageOS device wiki entry
+LineageOS,casuarina,Joy 3,Vsmart,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/casuarina/,official LineageOS device wiki entry
+LineageOS,dopinder,onn. TV Box 4K (2021),Walmart,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/dopinder/,official LineageOS device wiki entry
+LineageOS,kipper,Storm,Wileyfox,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/kipper/,official LineageOS device wiki entry
+LineageOS,crackling,Swift,Wileyfox,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/crackling/,official LineageOS device wiki entry
+LineageOS,wt88047,Redmi 2,Wingtech,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/wt88047/,official LineageOS device wiki entry
+LineageOS,lisa,Xiaomi 11 Lite 5G NE,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/lisa/,official LineageOS device wiki entry
+LineageOS,cupid,Xiaomi 12,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/cupid/,official LineageOS device wiki entry
+LineageOS,zeus,Xiaomi 12 Pro,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/zeus/,official LineageOS device wiki entry
+LineageOS,mayfly,Xiaomi 12S,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/mayfly/,official LineageOS device wiki entry
+LineageOS,unicorn,Xiaomi 12S Pro,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/unicorn/,official LineageOS device wiki entry
+LineageOS,thor,Xiaomi 12S Ultra,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/thor/,official LineageOS device wiki entry
+LineageOS,diting,Xiaomi 12T Pro,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/diting/,official LineageOS device wiki entry
+LineageOS,fuxi,Xiaomi 13,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/fuxi/,official LineageOS device wiki entry
+LineageOS,nuwa,Xiaomi 13 Pro,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/nuwa/,official LineageOS device wiki entry
+LineageOS,shark,Black Shark,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/shark/,official LineageOS device wiki entry
+LineageOS,umi,Mi 10,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/umi/,official LineageOS device wiki entry
+LineageOS,monet,Mi 10 Lite 5G,Xiaomi,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/monet/,official LineageOS device wiki entry
+LineageOS,cmi,Mi 10 Pro,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/cmi/,official LineageOS device wiki entry
+LineageOS,cas,Mi 10 Ultra,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/cas/,official LineageOS device wiki entry
+LineageOS,thyme,Mi 10S,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/thyme/,official LineageOS device wiki entry
+LineageOS,apollon,Mi 10T,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/apollon/,official LineageOS device wiki entry
+LineageOS,gauguin,Mi 10T Lite 5G,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/gauguin/,official LineageOS device wiki entry
+LineageOS,venus,Mi 11,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/venus/,official LineageOS device wiki entry
+LineageOS,renoir,Mi 11 Lite 5G,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/renoir/,official LineageOS device wiki entry
+LineageOS,mars,Mi 11 Pro,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/mars/,official LineageOS device wiki entry
+LineageOS,haydn,Mi 11i,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/haydn/,official LineageOS device wiki entry
+LineageOS,cancro,Mi 3,Xiaomi,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/cancro/,official LineageOS device wiki entry
+LineageOS,libra,Mi 4c,Xiaomi,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/libra/,official LineageOS device wiki entry
+LineageOS,gemini,Mi 5,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/gemini/,official LineageOS device wiki entry
+LineageOS,capricorn,Mi 5s,Xiaomi,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/capricorn/,official LineageOS device wiki entry
+LineageOS,natrium,Mi 5s Plus,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/natrium/,official LineageOS device wiki entry
+LineageOS,sagit,Mi 6,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/sagit/,official LineageOS device wiki entry
+LineageOS,wayne,Mi 6X,Xiaomi,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/wayne/,official LineageOS device wiki entry
+LineageOS,dipper,Mi 8,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/dipper/,official LineageOS device wiki entry
+LineageOS,ursa,Mi 8 Explorer Edition,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/ursa/,official LineageOS device wiki entry
+LineageOS,platina,Mi 8 Lite,Xiaomi,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/platina/,official LineageOS device wiki entry
+LineageOS,equuleus,Mi 8 Pro,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/equuleus/,official LineageOS device wiki entry
+LineageOS,xmsirius,Mi 8 SE,Xiaomi,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/xmsirius/,official LineageOS device wiki entry
+LineageOS,grus,Mi 9 SE,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/grus/,official LineageOS device wiki entry
+LineageOS,davinci,Mi 9T,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/davinci/,official LineageOS device wiki entry
+LineageOS,tissot,Mi A1,Xiaomi,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/tissot/,official LineageOS device wiki entry
+LineageOS,jasmine_sprout,Mi A2,Xiaomi,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/jasmine_sprout/,official LineageOS device wiki entry
+LineageOS,laurel_sprout,Mi A3,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/laurel_sprout/,official LineageOS device wiki entry
+LineageOS,pyxis,Mi CC9,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/pyxis/,official LineageOS device wiki entry
+LineageOS,vela,Mi CC9 Meitu Edition,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/vela/,official LineageOS device wiki entry
+LineageOS,hydrogen,Mi Max,Xiaomi,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/hydrogen/,official LineageOS device wiki entry
+LineageOS,lithium,Mi MIX,Xiaomi,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/lithium/,official LineageOS device wiki entry
+LineageOS,chiron,Mi MIX 2,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/chiron/,official LineageOS device wiki entry
+LineageOS,polaris,Mi MIX 2S,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/polaris/,official LineageOS device wiki entry
+LineageOS,perseus,Mi MIX 3,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/perseus/,official LineageOS device wiki entry
+LineageOS,tucana,Mi Note 10,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/tucana/,official LineageOS device wiki entry
+LineageOS,scorpio,Mi Note 2,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/scorpio/,official LineageOS device wiki entry
+LineageOS,jason,Mi Note 3,Xiaomi,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/jason/,official LineageOS device wiki entry
+LineageOS,zizhan,MIX Fold 2,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/zizhan/,official LineageOS device wiki entry
+LineageOS,beryllium,POCO F1,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/beryllium/,official LineageOS device wiki entry
+LineageOS,lmi,POCO F2 Pro,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/lmi/,official LineageOS device wiki entry
+LineageOS,alioth,POCO F3,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/alioth/,official LineageOS device wiki entry
+LineageOS,munch,POCO F4,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/munch/,official LineageOS device wiki entry
+LineageOS,marble,POCO F5 (Global),Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/marble/,official LineageOS device wiki entry
+LineageOS,mondrian,POCO F5 Pro,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/mondrian/,official LineageOS device wiki entry
+LineageOS,peridot,POCO F6,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/peridot/,official LineageOS device wiki entry
+LineageOS,vermeer,POCO F6 Pro,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/vermeer/,official LineageOS device wiki entry
+LineageOS,miatoll,POCO M2 Pro,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/miatoll/,official LineageOS device wiki entry
+LineageOS,surya,POCO X3 NFC,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/surya/,official LineageOS device wiki entry
+LineageOS,vayu,POCO X3 Pro,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/vayu/,official LineageOS device wiki entry
+LineageOS,xaga,POCO X4 GT,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/xaga/,official LineageOS device wiki entry
+LineageOS,earth,Redmi 12C,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/earth/,official LineageOS device wiki entry
+LineageOS,armani,Redmi 1S,Xiaomi,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/armani/,official LineageOS device wiki entry
+LineageOS,ido,Redmi 3,Xiaomi,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/ido/,official LineageOS device wiki entry
+LineageOS,Mi8937,Redmi 3S,Xiaomi,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/Mi8937/,official LineageOS device wiki entry
+LineageOS,land,Redmi 3S / 3X,Xiaomi,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/land/,official LineageOS device wiki entry
+LineageOS,santoni,Redmi 4(X),Xiaomi,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/santoni/,official LineageOS device wiki entry
+LineageOS,Mi8917,Redmi 4A,Xiaomi,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/Mi8917/,official LineageOS device wiki entry
+LineageOS,onclite,Redmi 7,Xiaomi,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/onclite/,official LineageOS device wiki entry
+LineageOS,Mi439,Redmi 7A,Xiaomi,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/Mi439/,official LineageOS device wiki entry
+LineageOS,lancelot,Redmi 9,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/lancelot/,official LineageOS device wiki entry
+LineageOS,socrates,Redmi K60 Pro,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/socrates/,official LineageOS device wiki entry
+LineageOS,sweet,Redmi Note 10 Pro,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/sweet/,official LineageOS device wiki entry
+LineageOS,rosemary,Redmi Note 10S,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/rosemary/,official LineageOS device wiki entry
+LineageOS,garnet,Redmi Note 13 Pro 5G,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/garnet/,official LineageOS device wiki entry
+LineageOS,kenzo,Redmi Note 3,Xiaomi,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/kenzo/,official LineageOS device wiki entry
+LineageOS,mido,Redmi Note 4,Xiaomi,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/mido/,official LineageOS device wiki entry
+LineageOS,whyred,Redmi Note 5 Pro,Xiaomi,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/whyred/,official LineageOS device wiki entry
+LineageOS,twolip,Redmi Note 6 Pro,Xiaomi,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/twolip/,official LineageOS device wiki entry
+LineageOS,lavender,Redmi Note 7,Xiaomi,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/lavender/,official LineageOS device wiki entry
+LineageOS,violet,Redmi Note 7 Pro,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/violet/,official LineageOS device wiki entry
+LineageOS,ginkgo,Redmi Note 8,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/ginkgo/,official LineageOS device wiki entry
+LineageOS,merlinx,Redmi Note 9,Xiaomi,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/merlinx/,official LineageOS device wiki entry
+LineageOS,Amber,Phone,Yandex,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/Amber/,official LineageOS device wiki entry
+LineageOS,jalebi,Yunique,YU,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/jalebi/,official LineageOS device wiki entry
+LineageOS,lettuce,Yuphoria,YU,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/lettuce/,official LineageOS device wiki entry
+LineageOS,tomato,Yureka,YU,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/tomato/,official LineageOS device wiki entry
+LineageOS,Q25,Q25 Pro,Zinwa,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/Q25/,official LineageOS device wiki entry
+LineageOS,jasmine,AT&T Trek 2 HD,ZTE,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/jasmine/,official LineageOS device wiki entry
+LineageOS,axon7,Axon 7,ZTE,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/axon7/,official LineageOS device wiki entry
+LineageOS,tulip,Axon 7 Mini,ZTE,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/tulip/,official LineageOS device wiki entry
+LineageOS,akershus,Axon 9 Pro,ZTE,,,LineageOS,custom ROM,supported,,https://wiki.lineageos.org/devices/akershus/,official LineageOS device wiki entry
+LineageOS,ham,Z1,ZUK,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/ham/,official LineageOS device wiki entry
+LineageOS,z2_plus,Z2 Plus,ZUK,,,LineageOS,custom ROM,discontinued,,https://wiki.lineageos.org/devices/z2_plus/,official LineageOS device wiki entry

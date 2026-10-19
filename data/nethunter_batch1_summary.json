@@ -1,0 +1,112 @@
+{
+  "database_rows": 560,
+  "inventory_rows": 1771,
+  "unique_device_codenames": 1295,
+  "status_counts": {
+    "Source confirmed": 275,
+    "Unverified candidate": 248,
+    "Abandoned": 26,
+    "Developer claimed": 11
+  },
+  "source_counts": {
+    "Kali NetHunter registry": 275,
+    "GitLab": 131,
+    "GitHub": 154
+  },
+  "inventory_source_counts": {
+    "Kali NetHunter": 275,
+    "LineageOS": 631,
+    "/e/OS": 199,
+    "Ubuntu Touch": 111,
+    "postmarketOS": 555
+  },
+  "top_manufacturers": [
+    [
+      "Samsung",
+      388
+    ],
+    [
+      "Xiaomi",
+      245
+    ],
+    [
+      "Unknown",
+      175
+    ],
+    [
+      "Motorola",
+      159
+    ],
+    [
+      "OnePlus",
+      145
+    ],
+    [
+      "Google",
+      128
+    ],
+    [
+      "LG",
+      103
+    ],
+    [
+      "Sony",
+      101
+    ],
+    [
+      "HTC",
+      33
+    ],
+    [
+      "Lenovo",
+      32
+    ],
+    [
+      "Huawei",
+      31
+    ],
+    [
+      "ASUS",
+      31
+    ],
+    [
+      "Nokia",
+      24
+    ],
+    [
+      "Realme",
+      18
+    ],
+    [
+      "Fairphone",
+      17
+    ],
+    [
+      "Nubia",
+      16
+    ],
+    [
+      "NVIDIA",
+      11
+    ],
+    [
+      "Pine64",
+      11
+    ],
+    [
+      "BQ",
+      10
+    ],
+    [
+      "Nothing",
+      9
+    ]
+  ],
+  "feature_claims": {
+    "monitor_mode": 9,
+    "packet_injection": 8,
+    "hid_gadget": 5,
+    "external_wifi_support": 9,
+    "usb_gadget": 1
+  }
+}

@@ -1,0 +1,344 @@
+manufacturer,device_name,codename,official_variants,official_kernel_ids,official_roms,community_projects,community_statuses,community_features,search_candidates,evidence_urls
+ASUS,ASUS ZenFone Max Pro M1,sdm660,0,,,1,Abandoned,,0,https://github.com/tutaf/kernel_asus_sdm660
+ASUS,Asus Zenfone 2 Laser (720p),z00e,1,z00e-los,LineageOS 13.0,0,,,0,https://github.com/adrenogamer/android_kernel_asus_msm8916
+Google,Google Nexus 10,manta,1,manta,Android 5,0,,,0,https://github.com/jmmmbnnn/kernel_samsung_manta.git
+Google,Google Nexus 4,mako,3,mako; mako-cm,Android 4; Android 5; CyanogenMod 13,0,,,0,https://github.com/binkybear/kernel_msm.git; https://github.com/jcadduono/nethunter_kernel_mako.git
+Google,Google Nexus 5,hammerhead,5,hammerhead; hammerhead-los; hammerhead-caf-los,Android 4.4; Android 5; Android 6; LineageOS 14.1; CAF LineageOS 14.1,0,,,1,https://github.com/binkybear/furnace_kernel_lge_hammerhead.git; https://github.com/binkybear/kernel_msm.git; https://github.com/Re4son/android_kernel_lge_hammerhead; https://github.com/chrisk44/android_kernel_lge_hammerhead.git; https://github.com/mayankmetha/Nethunter-Hammerhead-Kernel
+Google,Google Nexus 5X,bullhead,3,bullhead,Android 6; Android 7.1; Android 8.1,1,Developer claimed,external wifi support; monitor mode,0,https://github.com/binkybear/kernel_msm.git; https://github.com/Re4son/android_kernel_lge_bullhead; https://github.com/LordNikk0n/KaliNetHunter-bullhead-kernel
+Google,Google Nexus 6,shamu,5,shamu; shamu-los,Android 5; Android 6; Android 7.1; LineageOS 14.1; LineageOS 16.0,0,,,1,https://github.com/binkybear/kernel_msm.git; https://github.com/discipuloosho/android_kernel_moto_shamu.git; https://github.com/Re4son/android_kernel_moto_shamu.git; https://github.com/JLynx69/Shamu-kali
+Google,Google Nexus 7 (2012),grouper,1,grouper,Android 4.4,0,,,0,https://github.com/binkybear/android_kernel_asus_grouper.git
+Google,Google Nexus 7 (2013),flo,4,flo; flo-cm,Android 4.4; Android 5; Android 6; CyanogenMod,1,Abandoned,,2,https://github.com/binkybear/kernel_msm.git; https://github.com/binkybear/flo.git; https://github.com/jcadduono/nethunter_kernel_flo.git; https://github.com/jcadduono/nethunter_kernel_flo; https://github.com/0E800/Nexus-7-2013-Flo-Experimental; https://github.com/0E800/kernel_flo_pie_nh
+Google,Google Nexus 9,flounder,3,flounder,Android 5; Android 6; Android 7.1,0,,,0,https://github.com/binkybear/flounder.git; https://github.com/SecurityAddicted/ElementalX-N9-Nethunter.git
+Google,Google Pixel,sailfish,1,sailfish,LineageOS 22.2,0,,,0,https://github.com/willuhmjs/android_kernel_google_marlin
+Google,Google Pixel 11,cubs,0,,,1,Developer claimed,internal wifi support; external wifi support; monitor mode,0,https://github.com/Gajeel420/cubs-gki-rt2800usb
+Google,Google Pixel 3,blueline,2,blueline,Android 12; Android 13,0,,,0,https://github.com/v3rb0se/alynx-nethunter/
+Google,Google Pixel 3 XL,crosshatch,2,crosshatch,Android 12; Android 13,0,,,0,https://github.com/v3rb0se/alynx-nethunter/
+Google,Google Pixel 3a / 3a XL,bonito/sargo,0,,,1,Unverified candidate,monitor mode; packet injection,0,https://github.com/Duhjoker/Mad-Kali-MaxHunter-kernel-prebuilt
+Google,Google Pixel 4 / 4 XL,coral/flame,0,,,1,Unverified candidate,internal wifi support; hid gadget; usb gadget,0,https://github.com/chenyjie/coral-nethunter-kernel
+Google,Google Pixel 4a,sunfish,1,sunfish,Android 12L,2,Unverified candidate; Developer claimed,packet injection; usb gadget; external wifi support; hid gadget,0,https://github.com/V3rB0se/Alynx-nethunter-sunfish; https://github.com/MrBadger183/android_kernel_google_msm-4.14
+Google,Google Pixel 4a 5G,bramble,1,bramble,Android 12L,1,Developer claimed,internal wifi support; monitor mode; packet injection,0,https://github.com/V3rB0se/redbull; https://github.com/Hotelk52339/nethunter_kernel_google_redbull
+Google,Google Pixel 6a,bluejay-los,1,bluejay-los,LineageOS 23.2 (Android 16),0,,,0,https://github.com/RishiRats/bluejay-kali_nethunter
+Google,Google Pixel 7,panther,0,,,1,Unverified candidate,,0,https://github.com/Werq4u8/Pixel-7-panther-kernel-nethunter-cp41.260831.007
+Google,Google Pixel 9 Pro Fold,comet,0,,,1,Unverified candidate,,0,https://github.com/jdawg867/nethunter-kernel
+Google,Google Pixel 9 Pro XL,komodo,0,,,1,Unverified candidate,,0,https://github.com/maniaco13/NH_kernel_pixel9proxl_komodo
+Google,Google Pixel C,dragon,1,dragon,Android 7.1,0,,,0,https://github.com/jcadduono/android_kernel_google_chromeos.git
+Google,Google/Huawei Nexus 6P,angler,4,angler; angler-los,Android 6; Android 7.1; Android 8.1; LineageOS 17.1 & Pixel Experience 10,0,,,2,https://github.com/binkybear/AK-Angler.git; https://github.com/jcadduono/android_kernel_huawei_angler; https://github.com/Re4son/android_kernel_huawei_angler; https://github.com/Re4son/android_kernel_huawei_angler_pixel; https://github.com/DKingAlpha/nethunter_kernel_huawei_angler; https://github.com/DKingAlpha/nougat-angler-kernel-nethunter
+Google,Nexus 5,hammerhead,0,,,1,Developer claimed,monitor mode; packet injection,0,https://github.com/qaran1/nexus5-kali-nethunter
+Google,Nexus 7 (2012),grouper,0,,,1,Abandoned,,0,https://github.com/re4son/android_kernel_asus_grouper_3.0
+Google,Pixel 3a,sargo,0,,,1,Developer claimed,monitor mode; packet injection; hid gadget,0,https://github.com/Nougat-User/sargo_nethunter
+Google,Pixel 3a XL,bonito,0,,,1,Developer claimed,monitor mode; packet injection; hid gadget,0,https://github.com/Nougat-User/sargo_nethunter
+Google,Pixel 4,flame,0,,,1,Unverified candidate,,0,https://github.com/cyberknight777/nethunter_kernel_google_floral
+Google,Pixel 5,redfin,0,,,1,Unverified candidate,,0,https://github.com/Fak3adm1n/Build-Nethunter-kernel-for-redfin
+Google,Pixel 6 Pro,raven,0,,,1,Unverified candidate,,0,https://github.com/ahksoft/Pixel6Pro-Nethunter
+Google,Pixel 6a,bluejay,0,,,1,Unverified candidate,,0,https://github.com/Ashabil/kernel-bluejay
+Google,Pixel 7a,lynx,0,,,1,Unverified candidate,hid gadget,0,https://github.com/HeRrKrUgEr/nethunter-kernel-lynx
+Google,Pixel 8,shiba,0,,,1,Unverified candidate,,0,https://github.com/Trijal08/dragon_device_google_shusky-kernels_5.15
+Google,Pixel 8 Pro,husky,0,,,1,Unverified candidate,,0,https://github.com/Trijal08/dragon_device_google_shusky-kernels_5.15
+Google,Pixel 9 Pro,caiman,0,,,1,Developer claimed,monitor mode; hid gadget,0,https://github.com/shemed-mwangome/nethunter-komodo-usbwifi
+Google,Pixel 9 Pro XL,komodo,0,,,1,Developer claimed,monitor mode; hid gadget,0,https://github.com/shemed-mwangome/nethunter-komodo-usbwifi
+Google,Pixel 9a,tegu,0,,,2,Developer claimed; Unverified candidate,internal wifi support; monitor mode; packet injection,0,https://github.com/GPTmadeit/nethunter-pixel9a-rt2800usb; https://github.com/Flofy-Dev/Pixel_9a_nethunter_kernel
+Google,Pixel XL,marlin,0,,,1,Unverified candidate,,0,https://github.com/Kernels-by-ravindu644/google_kernel_marlin_nethunter
+HTC,HTC 10,htc-pmewl,1,htc-pmewl,HTC 10 Sense 8.0,0,,,0,https://github.com/S1CAR1US/nethunter_kernel_htc_pmewl.git
+HTC,HTC One M7,onem7gpe,1,onem7gpe,Google Play Edition 5.1,0,,,0,https://github.com/lavanoid/android_kernel_htc_m7gpe
+HTC,HTC One M8,htc-m8,0,,,1,Abandoned,,0,https://github.com/darobbe/AnyKernel2-nethunter-Htc-m8
+HTC,HTC One M8,onem8gpe,1,onem8gpe,Google Play Edition 6,0,,,0,https://github.com/lavanoid/android_kernel_htc_m8gpe
+Honor,Honor 9 Lite,hi6250,0,,,1,Developer claimed,monitor mode; packet injection; hid gadget; usb gadget,0,https://github.com/mr-anjaneyam/nethunter-kernel-honor-9-lite
+Huawei,Huawei Honor 5x,kiwi,1,kiwi-cm,CyanogenMod 13,0,,,0,https://github.com/DeadSquirrel01/android_kernel_huawei_kiwi.git
+Huawei,Huawei P9,eva,3,eva-emui; eva-los; eva-ultra,EMUI; LineageOS 16.0; EMUI8/LineageOS16,0,,,0,https://gitlab.com/vvvbbbcz/android_kernel_huawei_hi3650.git; https://github.com/apk0mix5900/android_kernel_huawei_hi3650
+Huawei,Huawei P9 Plus,vienna,3,vienna,MIUI 8; MIUI 9; MIUI 10,0,,,0,https://github.com/5h4d0wb0y/android_kernel_huawei_vienna.git
+LG,G4 (International),h815,0,,,1,Unverified candidate,,0,https://github.com/nepheloid/nethunter_kernel_g4
+LG,LG G2 (AT&T),d800,0,,,1,Developer claimed,,0,https://github.com/cmjester6421/kali_nethunter_lgg2
+LG,LG G2 (Canada),d803,0,,,1,Developer claimed,,0,https://github.com/cmjester6421/kali_nethunter_lgg2
+LG,LG G2 (International),d802,0,,,1,Developer claimed,,0,https://github.com/cmjester6421/kali_nethunter_lgg2
+LG,LG G2 (Korea),f320,0,,,1,Developer claimed,,0,https://github.com/cmjester6421/kali_nethunter_lgg2
+LG,LG G2 (Sprint),ls980,0,,,1,Developer claimed,,0,https://github.com/cmjester6421/kali_nethunter_lgg2
+LG,LG G2 (T-Mobile),d801,0,,,1,Developer claimed,,0,https://github.com/cmjester6421/kali_nethunter_lgg2
+LG,LG G2 (Verizon),vs980,0,,,1,Developer claimed,,0,https://github.com/cmjester6421/kali_nethunter_lgg2
+LG,LG G5 (International),h850,1,h850,Android 7.1 (T-Online),0,,,0,https://github.com/jcadduono/android_kernel_lge_msm8996.git
+LG,LG G5 (T-Mobile),h830,1,h830,Android 7.1 (T-Online),0,,,0,https://github.com/jcadduono/android_kernel_lge_msm8996.git
+LG,LG K10,m216,0,,,1,Developer claimed,external wifi support; monitor mode; packet injection; hid gadget,0,https://github.com/abdotch/nethunter-kernel-for-lg-k10-m216-
+LG,LG K20 Plus,lv517,1,lv517-los,LineageOS 14.1,2,Developer claimed,packet injection; hid gadget,1,https://github.com/robnew/NetHunter_K20plus_arm64_Kernel.git; https://github.com/robnew/NetHunter_K20plus_arm64_Kernel-Source; https://github.com/robnew/nethunter_k20plus_kernel; https://github.com/keskebeu/lgk20plus_pentest_hack
+LG,LG V20,us996,1,us996,Android 7.0,0,,,0,https://github.com/jcadduono/android_kernel_lge_msm8996
+LG,LG V20 (International),h990,5,h990; h990-los,Android 7.1 with dirtysanta patch; Android 8; LineageOS 18.1; LineageOS 19.1; LineageOS 21,0,,,0,https://github.com/Re4son/android_kernel_lge_msm8996; https://github.com/Re4son/android_kernel_lg_h990; https://github.com/yesimxev/android_kernel_lge_msm8996
+LG,LG V20 (T-Mobile),h918,1,h918,Android 7.0,0,,,0,https://github.com/jcadduono/android_kernel_lge_msm8996.git
+LG,LG V30+,h930ds,0,,,1,Unverified candidate,,0,https://github.com/SrDayne/lge_msm8998_h930ds
+LeEco,LeEco Le 2,s2,1,s2-cm,CyanogenMod 14.1,1,Abandoned,,0,https://github.com/nethunter-s2/android_kernel_leeco_s2.git; https://github.com/evost/android_kernel_leeco_msm8996_lineage_kali_nethunter
+LeEco,LeEco Le Pro3,zl1,0,,,1,Abandoned,,0,https://github.com/evost/android_kernel_leeco_msm8996_lineage_kali_nethunter
+Lenovo,Lenovo K8 Note,manning,1,manning,Android 7.1,0,,,0,https://github.com/MotorolaMobilityLLC/kernel-mtk.git
+Lenovo,Lenovo Tab4 10,tbx304,0,,,1,Developer claimed,,0,https://github.com/neternels/android_kernel_lenovo_tbx304-neternels
+Motorola,Moto G (2013),falcon,0,,,1,Unverified candidate,,0,https://github.com/theindicator/NETHUNTER-for-falcon
+Motorola,Moto G 5G Plus / Motorola One 5G,nairo,0,,,1,Unverified candidate,,0,https://github.com/joenyr/nethunterkernel-nairo
+Motorola,Moto G Stylus 5G (2022) / Edge 30 Fusion,milanf,1,milanf-los,LineageOS 23.2 (Android 16),4,Unverified candidate; Developer claimed,,1,https://github.com/TigerClips1/kali-nethunter-milanf-kernel; https://github.com/Madara273/Karui-NetHunter-Kernel-SM7325; https://github.com/xthecreator/milanf-nethunter-kernel; https://github.com/TigerClips1/Kernel-milanf-nethunter-builder; https://github.com/matthewrackley/moto-g-stylus-2022_kali-nh
+Motorola,Moto G8,rav,0,,,1,Developer claimed,hid gadget,0,https://github.com/hir43th/oficial-kernel-kali-nethunter-para-moto-g8-rav-sofiar
+Motorola,Moto G8 Plus,doha,0,,,1,Developer claimed,external wifi support; monitor mode; packet injection; hid gadget,0,https://github.com/harshmukhija699-hash/android_kernel_motorola_doha_nethunter
+Motorola,Moto G8 Power,sofiar,0,,,1,Developer claimed,hid gadget,0,https://github.com/hir43th/oficial-kernel-kali-nethunter-para-moto-g8-rav-sofiar
+Motorola,Moto G82 5G,rhodep,0,,,1,Developer claimed,hid gadget,0,https://github.com/d4rks1d33/moto-g82-kali-nethunter-custom-kernel
+Motorola,Moto One Action,troika,0,,,1,Developer claimed,,0,https://github.com/secpromise-netizen/android_kernel_nethunter_troika
+Motorola,Moto Z,griffin,0,,,1,Abandoned,,0,https://github.com/abdullahgok/tubichu-z-kernel
+Motorola,Motorola Moto G 2015,osprey,2,osprey-los,LineageOS 14.1; LineageOS 15.1,0,,,0,https://github.com/rajeshdubey293/kernel_osprey-cm-14.1; https://github.com/rajeshdubey293/kernel_osprey-oreo
+Motorola,Motorola Moto G5,cedric,2,cedric-los,LineageOS 14.1; LineageOS 15.1,0,,,0,https://github.com/rajeshdubey293/android_kernel_motorola_msm8937; https://github.com/rajeshdubey293/al-ice_cedric.git
+Motorola,Motorola Moto G5 Plus,potter,2,potter-los,LineageOS 14.1; LineageOS 16,1,Unverified candidate,,0,https://github.com/chankruze/potter_kali_kernel; https://github.com/rajeshdubey293/Optimus_Drunk_Potter.git; https://github.com/CarlosRgoku/Nethunter-Kernel-potter
+Motorola,Motorola Moto G6,evert,0,,,1,Abandoned,,0,https://github.com/mapachesantander/Unofficial-Nethunter-Kernel-Evert
+Motorola,Motorola Moto G8 Power,sofiar,0,,,1,Unverified candidate,,0,https://github.com/brunodzogovic/kali-nethunter-kernel-motorola-sofiar
+Motorola,Motorola Moto X2 (2014),victara,1,victara-cm,CyanogenMod 14.1,0,,,0,https://github.com/xchwarze/nethunter-motorola-x2-kernel
+Motorola,Motorola Moto X4,payton,3,payton-los,LineageOS 17.1; LineageOS 20; LineageOS 22.2,0,,,0,https://github.com/ciropom/android_nethunter_kernel_motorola_msm8998.git; https://github.com/yesimxev/android_kernel_motorola_msm8998
+Nokia,Nokia 3.1,es2,1,es2,Android 9.0,0,,,1,https://github.com/yesimxev/android_kernel_nokia_es2.git; https://github.com/yesimxev/android_kernel_nokia_es2_sprout
+Nokia,Nokia 6.1,pl2,4,pl2-los,LineageOS 21; LineageOS 18.1; LineageOS 20,0,,,0,https://github.com/yesimxev/android_kernel_nokia_sdm660
+Nokia,Nokia 6.1 Plus,drg,3,drg-los,LineageOS 18.1; LineageOS 20; LineageOS 21,0,,,0,https://github.com/yesimxev/android_kernel_nokia_sdm660
+Nothing,Nothing Phone (1),spacewar,3,spacewar,AOSP/AOSPA Android 12; AOSP/AOSPA Android 13; AOSP/AOSPA Android 14,2,Developer claimed,internal wifi support; monitor mode; packet injection; hid gadget; usb gadget; external wifi support,2,https://github.com/kimocoder/android_kernel_nothing_sm7325; https://github.com/ilyamen/nothing-phone-1-nethunter-kernel; https://github.com/thw01f/nethunter-spacewar-kernel; https://github.com/Pri-S-Godase/Kali-NetHunter-Pro-Nothing-Phone-1-Spacewar; https://github.com/ExTV/android_kernel_msm-5.4_nothing_sm7325
+Nothing,Nothing Phone (3a) / (3a) Pro,asteroids,0,,,1,Unverified candidate,,0,https://github.com/Tbeard602/nothing-phone-3a-nethunter
+Nubia,Nubia Red Magic 7S Pro,nx709s,0,,,1,Developer claimed,external wifi support; hid gadget,0,https://github.com/piashmsu/nubia-nx709s-kernel
+Nubia,Red Magic 6S Pro,nx669s,0,,,1,Developer claimed,external wifi support; monitor mode; hid gadget; usb gadget,0,https://github.com/piashmsubd/android_kernel_nubia_nx669s_nethunter
+OPPO,OPPO A37,a37,0,,,1,Unverified candidate,,0,https://gitlab.com/shifujowo/nethunter-kernel-a37
+OPPO,OPPO A37 (2016),a37,1,a37-los,LineageOS 17.1,0,,,0,https://github.com/diamant3/kernel_oppo_A37f.git
+OnePlus,5 / 5T,oneplus5,0,,,1,Unverified candidate,,0,https://github.com/simonpunk/nethunter-apk-and-magisk-module
+OnePlus,6 / 6T,oneplus6,0,,,1,Unverified candidate,,0,https://github.com/nuthan923/NetHunter-Enchilada-Oneplus6
+OnePlus,Nord 4,avalon,0,,,1,Developer claimed,external wifi support; usb gadget,0,https://github.com/ruik3z/avalon-firmware
+OnePlus,OnePlus 11 5G,salami,2,salami-oos,OxygenOS 15; OxygenOS 16,0,,,0,https://github.com/nullptr-t-oss/EmberHeart_OnePlus11/releases/download/v1.5.12-r12/EmberHeart_boot.img; https://github.com/nullptr-t-oss/EmberHeart_OnePlus11/releases/download/v2.0.0-r2/EmberHeart_boot.img
+OnePlus,OnePlus 11R,oneplus-11r,0,,,1,Developer claimed,,0,https://github.com/docdry0001/android_kernel_oneplus_11r
+OnePlus,OnePlus 15,Unknown,0,,,1,Unverified candidate,,0,https://github.com/Aroichan/oneplus15-nethunter-kernel
+OnePlus,OnePlus 2,oneplus2,7,oneplus2-oos; oneplus2-cm; oneplus2-los,OxygenOS 2; OxygenOS 3; CyanogenMod 12.1; CyanogenMod 13.0; LineageOS 14.1; LineageOS 15.1; LineageOS 16.0,0,,,0,https://github.com/binkybear/android_kernel_oneplus_msm8994.git; https://github.com/Re4son/android_kernel_oneplus_msm8994.git
+OnePlus,OnePlus 3 / 3T,oneplus3,9,oneplus3-3t-oos; oneplus3-3t-los; oneplus3-oos; oneplus3-v2-oos; oneplus3-los; oneplus3t-los; oneplus3t-oos,OxygenOS 9.0; LineageOS 17.1; OxygenOS 4; OxygenOS 3; OxygenOS; LineageOS; LineageOS 14; LineageOS 15.1,0,,,0,https://github.com/re4son/android_kernel_oneplus_msm8996.git; https://github.com/re4son/android_kerLoukious/nethunter_kernel_oneplus_sdm845nel_oneplus_msm8996_lineageos.git; https://github.com/zanezam/boeffla-kernel-oos-oneplus3.git; https://github.com/binkybear/android_kernel_oneplus_msm8996.git; https://github.com/jcadduono/android_kernel_oneplus_msm8996.git; https://github.com/zanezam/boeffla-kernel-cm-oneplus3.git; https://github.com/flypatriot/boeffla-kernel-los-nethunter-oneplus3T.git
+OnePlus,OnePlus 5 / 5T,cheeseburger/dumpling,0,,,1,Abandoned,,0,https://github.com/prodject/OP5_Nethunter_kernel
+OnePlus,OnePlus 5 / 5T,oneplus5,4,oneplus5-oos; oneplus5-cm; oneplus5-los; oneplus5-los-ksu,OxygenOS 4; CyanogenMod 14; LineageOS 22.2,0,,,1,https://github.com/nethunteros/android_kernel_oneplus_msm8998; https://github.com/seppzer0/zero-kernel; https://github.com/lbgos/oneplus5-nethunter-ath9k-htc
+OnePlus,OnePlus 6,enchilada,0,,,2,Abandoned; Developer claimed,,0,https://github.com/cdizzle97/enchilada-nethunter; https://github.com/sm0k3y13/oneplus-6-nethunter-kernel
+OnePlus,OnePlus 6 / 6T,enchilada/fajita,0,,,4,Unverified candidate,packet injection,0,https://github.com/johanlike/DJY-Oneplus6-or-Oneplus6T-Nethunter-Andrax-Kernel; https://github.com/johanlike/DJY-Nethunter-Andrax-Kernel-Source; https://github.com/acai66/Acai-Oneplus6-or-Oneplus6T-Nethunter-Kernel; https://github.com/acai66/op6-op6t-nethunter-kernel
+OnePlus,OnePlus 6 / 6T,oneplus6,4,oneplus6-oos; oneplus6-los,OxygenOS 10; OxygenOS 11; LineageOS 19.1; LineageOS 22.2,0,,,0,https://github.com/kimocoder/DJY-Nethunter-Andrax-Kernel-Source; https://github.com/kimocoder/android_kernel_oneplus6; https://github.com/Loukious/nethunter_kernel_oneplus_sdm845
+OnePlus,OnePlus 6T,fajita,0,,,2,Developer claimed,,0,https://github.com/autisoid/oneplus_fajita_qualcomm_sdm845_qcacld_injection; https://github.com/hahawhoha187-a11y/nethunter6t
+OnePlus,OnePlus 7,guacamoleb,0,,,1,Unverified candidate,,0,https://github.com/rahulrahuu678-ops/Kali-nethunter-kernel-for-OnePlus-7-GM1901
+OnePlus,OnePlus 7 / 7 Pro / 7T / 7T Pro,oneplus7,5,oneplus7-oos; oneplus7-v2-oos; oneplus7-los-23.2,OxygenOS 9; OxygenOS 10; OxygenOS 11; LineageOS 23.2,0,,,0,https://github.com/Re4son/android_kernel_oneplus_sm8150; https://github.com/Re4son/android_kernel_oneplus_sm8150_draco; https://github.com/kimocoder/nethunter_kernel_oneplus7; https://github.com/V0lk3n/nethunter_kernel_oneplus_sm8150.git
+OnePlus,OnePlus 7T Pro,hotdog,0,,,1,Developer claimed,monitor mode; packet injection; hid gadget,0,https://github.com/jaisummagithub/oneplus-7t-pro-lineageos-nethunter
+OnePlus,OnePlus 8,instantnoodle,0,,,1,Developer claimed,,0,https://github.com/neternels/android_kernel_oneplus_sm8250
+OnePlus,OnePlus 8 / 8T / 8 Pro,oneplus8,2,oneplus8-oos,OxygenOS 11 / Custom A11; OxygenOS 12 / Custom A12,0,,,0,https://github.com/flypatriot/neutrino_kernel_oneplus_sm8250.git; https://github.com/flypatriot/crdroid_12_kernel.git
+OnePlus,OnePlus 8 Pro,instantnoodlep,0,,,1,Developer claimed,,0,https://github.com/neternels/android_kernel_oneplus_sm8250
+OnePlus,OnePlus 8T,kebab,0,,,6,Unverified candidate; Developer claimed,external wifi support; monitor mode; packet injection; hid gadget; usb gadget,0,https://github.com/alexparent062-bit/kernel; https://github.com/Mist3r-N0b0dy/NetHunter_Kernel-OP8T-crDroid12-A16; https://github.com/nickengmann/kernel_oneplus_sm8250_nethunter; https://github.com/app4rreplit-sys/oneplus8t-nethunter_kernel; https://github.com/vip3r-kernels/kernel_oneplus_sm8250; https://github.com/minhtftvn/kebab-nethunter-kernel-a12
+OnePlus,OnePlus 9 / 9 Pro,lemonade,1,lemonade-los,LineageOS,1,Developer claimed,hid gadget,0,https://github.com/varakumar01/Levion_kernel_OP9; https://github.com/hairenjun/android_kernel_oneplus_sm8350-nethunteredition
+OnePlus,OnePlus 9R,lemonades,0,,,1,Unverified candidate,,0,https://github.com/srezvee-hue/oneplus9r-kernel-autobuild
+OnePlus,OnePlus Ace 6T,Unknown,0,,,1,Unverified candidate,,0,https://github.com/Muet-ahup/Ace6T-NetHunter-Kernel
+OnePlus,OnePlus Ace 6T,ce6t,0,,,1,Unverified candidate,hid gadget; usb gadget,0,https://github.com/back475/ce6t-nethunter-kernel
+OnePlus,OnePlus Nord,oneplus-nord,3,oneplus-nord-oos,OxygenOS 11; OxygenOS 12; OxygenOS 16,0,,,0,
+OnePlus,OnePlus Nord N10 5G,billie,0,,,2,Unverified candidate; Developer claimed,,0,https://github.com/jose-dev-tools/OnePlus-Nord-N10-Kali-NetHunter; https://github.com/lordwanggolf/android_kernel_nethunter_billie
+OnePlus,OnePlus Nord N200 5G,dre,0,,,1,Developer claimed,,0,https://github.com/retardog/nethunter_kernel_nord_ac2001
+OnePlus,OnePlus One,oneplus1,7,oneplus1-cm; oneplus1-los,CyanogenMod 12.1; CyanogenMod 13; CyanogenMod 14.1; LineageOS 15.1; LineageOS 16; LineageOS 17.1; LineageOS 18.1,0,,,1,https://github.com/binkybear/AK-OnePone.git; https://github.com/yesimxev/android_kernel_oneplus_msm8974.git; https://github.com/yesimxev/android_kernel_oppo_msm8974.git; https://github.com/WhiteishRat/oneplus1_kernel_nethunter
+OnePlus,OnePlus X,oneplusx,1,oneplusx-cm,CyanogenMod 13,1,Abandoned,,0,https://github.com/jcadduono/nethunter_kernel_onyx.git; https://github.com/lvlrt/nethunter_kernel_oneplusx_cm
+OnePlus,OnePlus-9Pro,lemonadep,1,lemonadep_matrixx,Lineage,0,,,0,https://github.com/Madara273/Sakura_Kernel_OP9Pro
+OnePlus,Oneplus 2,oneplus2,0,,,1,Abandoned,,0,https://github.com/xNNism/aosp_nethunter-kernel_oneplus_msm8994
+OnePlus,Oneplus 5T,dumpling,0,,,1,Developer claimed,internal wifi support; packet injection,0,https://github.com/zeusricote/kernel-dumpling
+Realme,Realme 5 / 5i / 5s,rmx1911,1,rmx1911-cos,Corvus vS4.1-Eclipse,0,,,0,https://github.com/mikhailsimon/nethunter-r5x
+Realme,Realme 5 Pro,rmx1971,1,rmx1971,Android 12,0,,,0,https://github.com/V3rB0se/Alynx-RMX1971
+Realme,Realme 5 Pro,rmx1971-rui2,1,rmx1971-rui2,Android 16 (RUI2),0,,,0,https://github.com/halfclub58/rmx1971_kernel.git
+Realme,Realme 6 / 6i / 7 (RM6785),rm6785,0,,,1,Abandoned,,0,https://github.com/kirito6785/kali-nethunter-kernel-for-only-rm6785-
+Realme,Realme 9 Pro 5G,oscar,0,,,1,Unverified candidate,external wifi support; usb gadget,0,https://github.com/sirt-sirt/oscar-nethunter-kernel
+Realme,Realme C15 Mediatek,rmx2180,1,rmx2180-los-ksun,LineageOS 17.1,0,,,1,https://github.com/Frostleaft07/android_kernel_realme_mt6765; https://github.com/Frostleaft07/Nethunter_C15
+Realme,Realme C3 / Narzo 10A,rmx2020,0,,,2,Developer claimed,internal wifi support; external wifi support; packet injection; hid gadget; usb gadget,0,https://github.com/ShorterKing/ShorterKing-Nethunter-Kernel-Realme-RMX2020-27; https://github.com/neternels/android_kernel_realme_rmx2020
+Realme,Realme X,rmx1901,0,,,1,Developer claimed,internal wifi support; packet injection; usb gadget,0,https://github.com/ishashanknigam/kernel-realme-RMX1901
+Realme,Realme X7 Max 5G,rmx3031,1,rmx3031,Android 13 and firmware F.13 and EX01,0,,,0,https://github.com/dek0der/kernel_realme_RMX3031
+Samsung,Galaxy A13 4G,a137f,0,,,2,Developer claimed; Abandoned,,0,https://github.com/yesimxev/android_kernel_samsung_a137; https://github.com/ravindu644/android_kernel_nethunter_sm-a137f
+Samsung,Galaxy A15,a15,0,,,1,Developer claimed,,0,https://github.com/spidlerman/nethunter_kernel_galaxya15
+Samsung,Galaxy A22 5G,a22x,0,,,1,Developer claimed,hid gadget,0,https://github.com/beronathan9-sudo/kernel_a225f_nethunter
+Samsung,Galaxy A30s,a30s,0,,,1,Developer claimed,,0,https://github.com/skillar369/galaxy_a30s_nethunter_kernel
+Samsung,Galaxy A5 (2017),a5y17lte,0,,,1,Unverified candidate,,0,https://github.com/cycoslave/a5y17lte-kali-nethunter
+Samsung,Galaxy A51,a51,0,,,2,Developer claimed,external wifi support; hid gadget,0,https://github.com/leonidas20145/lancer-kernel-galaxy-a51-kernel; https://github.com/valentinstars/vsthunterkernel
+Samsung,Galaxy A52,a52q,0,,,1,Developer claimed,,0,https://github.com/azeastro/samsung_kernel_sm7125
+Samsung,Galaxy A52s 5G,a52sxq,0,,,1,Developer claimed,,0,https://github.com/markwatney04/nethunter_kernel_a52sxq_linageos_23.2
+Samsung,Galaxy A71,a71,0,,,1,Developer claimed,monitor mode; packet injection; hid gadget,0,https://github.com/Nougat-User/a71_nethunter
+Samsung,Galaxy A72,a72q,0,,,2,Unverified candidate,,0,https://gitlab.com/vakula2004/a72q-nethunter-kernel; https://github.com/vakula2004/kernel_a72q
+Samsung,Galaxy A8 (2018),jackpotlte,0,,,1,Developer claimed,,0,https://github.com/younesilbcher/a530f-nethunter-kernel
+Samsung,Galaxy J6,j6lte,0,,,1,Abandoned,,0,https://github.com/L4FeeR/j6lte-nethunter-kernel
+Samsung,Galaxy J7,j7elte,0,,,2,Unverified candidate,,0,https://github.com/Anonymop1/j7xelte-nethunter-rom1; https://github.com/Anonymop1/j7xelte-nethunter-rom
+Samsung,Galaxy J7 Prime,on7xelte,0,,,1,Developer claimed,monitor mode; packet injection; hid gadget,0,https://github.com/ahmadkhan-git/android_kernel_samsung_on7xelte
+Samsung,Galaxy J8 (2018),j8y18lte,0,,,1,Abandoned,,0,https://github.com/abhishektor55/android_nethunter_kernel_samsung_j8y18lte
+Samsung,Galaxy M11,m11q,0,,,1,Developer claimed,,0,https://github.com/areuhack/nethunter_kernel_samsung_m11q
+Samsung,Galaxy M12,m127f,0,,,1,Developer claimed,external wifi support; monitor mode; packet injection; hid gadget,0,https://github.com/why4m3/nethunter-kernel-m127f
+Samsung,Galaxy M20,m20lte,0,,,1,Developer claimed,hid gadget; usb gadget,0,https://github.com/muhanmed-aksu/samsung-m20-hid-kernel
+Samsung,Galaxy M30s,m30s,0,,,1,Developer claimed,,0,https://github.com/payal-sys/m30s-nethunter-kernel
+Samsung,Galaxy Note 10 Plus (Exynos),d2s,0,,,1,Unverified candidate,,0,https://github.com/Tkpointz/exynos9820-25_kernel
+Samsung,Galaxy Note 4,treltexx,0,,,1,Unverified candidate,,0,https://github.com/PhilZ-cwm6/nethunter_kernel_trlte
+Samsung,Galaxy Note 4 (Qualcomm),trltexx,0,,,1,Unverified candidate,,0,https://github.com/PhilZ-cwm6/nethunter_kernel_trlte
+Samsung,Galaxy Note 9,crownlte,0,,,1,Abandoned,,0,https://github.com/Tkpointz/exynos9810_crownlte_kernel
+Samsung,Galaxy Note Edge,tblte,0,,,1,Developer claimed,,0,https://github.com/xnnism/noteedge-nethunter_kernel
+Samsung,Galaxy Note10 Lite,r7,0,,,1,Developer claimed,,0,https://github.com/abusdeen1991/note10lite-kernel
+Samsung,Galaxy S10,beyond1lte,0,,,1,Developer claimed,internal wifi support; external wifi support; packet injection; hid gadget; usb gadget,0,https://github.com/Kernels-by-ravindu644/samsung_kernel_exynos9820_stockrom
+Samsung,Galaxy S20 Ultra,z3s,0,,,1,Developer claimed,external wifi support; monitor mode; hid gadget; usb gadget,0,https://github.com/stanleysvk87/s20-nethunter-port
+Samsung,Galaxy S20 Ultra (5G),z3s,0,,,1,Unverified candidate,,0,https://github.com/ben443/Nethunter_kernel_samsung_exynos990
+Samsung,Galaxy S20 Ultra (Exynos),z3s,0,,,1,Developer claimed,external wifi support,0,https://github.com/WhimsyGiga/Samsung-S20-ultra-exynos-nethunter-kernel
+Samsung,Galaxy S21 Ultra,p3s,0,,,1,Developer claimed,hid gadget,0,https://github.com/shandongtlb/kernel_samsung_sm8350_s21u
+Samsung,Galaxy S4,jflte,0,,,1,Developer claimed,packet injection,0,https://github.com/fabiocogno/nethunter-jfltexx-los16
+Samsung,"Galaxy S4 (GT-I9505, SGH-I337M, SGH-M919/V)",jfltexx,0,,,1,Developer claimed,packet injection,0,https://github.com/fabiocogno/nethunter-jfltexx-los16
+Samsung,Galaxy S5 Plus,kccat6,0,,,1,Unverified candidate,,0,https://github.com/jcadduono/nethunter_kernel_kccat6
+Samsung,Galaxy S9 / S9+,starlte,1,starlte-los,LineageOS 20,2,Unverified candidate,,2,https://github.com/v0lk3n/nethunter_kernel_samsung_exynos9810.git; https://gitlab.com/mildg0d/exynos9810_starlte_kernel; https://github.com/JimmyF-web/https-github.com-V0lk3n-nethunter_kernel_samsung_exynos9810; https://github.com/Tkpointz/exynos9810_starlte_kernel; https://github.com/ouroboros420/android_kernel_samsung_exynos9810
+Samsung,Galaxy Tab A 8.0 (2019),gta3xlwifi,0,,,1,Developer claimed,,0,https://github.com/scrattatattat/gta3xlwifi-nethunter
+Samsung,Galaxy Tab A7 Lite,gta7lite,0,,,1,Developer claimed,external wifi support; monitor mode; packet injection; hid gadget,0,https://github.com/phoenixaegis/nethunter-sm-t220
+Samsung,Galaxy Tab A8 10.5 (2021),gta8,0,,,1,Developer claimed,,0,https://github.com/eetuheino03/kali-nethunter-kernel-sm-x200
+Samsung,Galaxy Tab A9 LTE,sm-x115,0,,,2,Developer claimed,,0,https://github.com/anmol6002/kernel_smx115_nethunter; https://github.com/anmol6002/nethunter-kernel-smx115
+Samsung,Galaxy Tab S3 LTE,gts3llte,0,,,1,Abandoned,,0,https://github.com/pinnace/sm-t825
+Samsung,Galaxy Tab S6 Lite (LTE),gta4xl,0,,,1,Unverified candidate,,0,https://github.com/mohammedddd5/nethunter-kernel-gta4xl
+Samsung,Galaxy Tab S6 Lite (WiFi),gts6lwifi,0,,,1,Developer claimed,,0,https://github.com/jakkunight/gts6lwifi-custom-kernel
+Samsung,Galaxy XCover 4,xcover4lte,0,,,1,Developer claimed,hid gadget,0,https://github.com/bspippi1337/blckswan-xcover4s-nethunter-kernel
+Samsung,Samsung Exynos 1380 devices,s5e8835,0,,,1,Unverified candidate,,0,https://github.com/TheBizarreAbhishek/android_kernel_samsung_s5e8835
+Samsung,Samsung Galaxy A01,a01,0,,,1,Abandoned,,0,https://github.com/ravindu644/kernel_samsung_a01
+Samsung,Samsung Galaxy A05,a05,0,,,2,Unverified candidate,,0,https://github.com/amirtubayi-HACK/nethunter-kernel-a05; https://github.com/kllr98331-maker/a05-kernel-nethunter
+Samsung,Samsung Galaxy A10,a10,0,,,2,Abandoned; Unverified candidate,,0,https://github.com/fast50/NethunterKernel-Galaxy-A105xxx; https://github.com/mwafik2002/Nethunter-Kernel-Exynos7885
+Samsung,Samsung Galaxy A12,a12,0,,,1,Unverified candidate,,0,https://github.com/greenxhatzgreyty/samsung-a127f
+Samsung,Samsung Galaxy A14,a14,0,,,1,Unverified candidate,,0,https://github.com/xkzetsu2/a14-nethunter-kernel
+Samsung,Samsung Galaxy A21s,a21s,0,,,2,Abandoned; Unverified candidate,,0,https://github.com/BasGame1/nethunter_kernel_a21s; https://github.com/karamdev1/nethunter_kernel_samsung_a21s
+Samsung,Samsung Galaxy A23 (SM-A235F),a23,0,,,1,Unverified candidate,,0,https://github.com/karamdev1/nethunter_kernel_samsung_a235f
+Samsung,Samsung Galaxy A32 / A22 / A22s,a32/a22,0,,,1,Developer claimed,internal wifi support; monitor mode; packet injection; hid gadget; usb gadget,0,https://github.com/karamdev1/nethunter_kernel_samsung_mt6768
+Samsung,Samsung Galaxy A5 (2015),a5ulte,2,a5ulte-cm; a5ulte-tw,CyanogenMod 13; TouchWiz 6.0,0,,,0,https://github.com/DeadSquirrel01/nethunter-kernel-a5ulte.git
+Samsung,Samsung Galaxy A5 (2016),a5xelte,1,a5xelte-tw,TouchWiz Grace,0,,,1,https://github.com/Re4son/android_kernel_samsung-a5xelte; https://github.com/jeanphilippelaflammme/kernel-nethunter-2020.2-rc1-a5xelte-nougat
+Samsung,Samsung Galaxy A7 (2016),a7xelte,1,a7xelte-los,LineageOS 18.1,0,,,0,https://github.com/yesimxev/android_kernel_samsung_universal7580
+Samsung,Samsung Galaxy A8 (a8elte),a8elte,0,,,1,Abandoned,,0,https://github.com/DeadSquirrel01/nethunter-kernel-a8elte
+Samsung,Samsung Galaxy J5 3G (2015),j53g,1,j53g-los,LineageOS 14.1,0,,,0,https://github.com/djkido316/nethunter-kernel_j5
+Samsung,Samsung Galaxy J5 LTE (2015),j5lte,1,j5lte-los,LineageOS 14.1,0,,,0,https://github.com/djkido316/nethunter-kernel_j5
+Samsung,Samsung Galaxy J5 NFC LTE (2015),j5nlte,1,j5nlte-los,LineageOS 14.1,0,,,0,https://github.com/djkido316/nethunter-kernel_j5
+Samsung,Samsung Galaxy J7 Neo,j7velte,0,,,1,Unverified candidate,,0,https://github.com/asesoriaogam-collab/nethunter-kernel-j701m
+Samsung,Samsung Galaxy J7 Prime,on7xlte,1,on7xlte-oui,One UI,0,,,0,https://github.com/Thiviyan/KRAKEN_7870_Nethunter
+Samsung,Samsung Galaxy J7 Pro,j7y17lte,1,j7y17lte-oui,One UI,0,,,0,https://github.com/Thiviyan/KRAKEN_7870_Nethunter
+Samsung,Samsung Galaxy J8 (2018),j8y18lte,0,,,1,Unverified candidate,,0,https://gitlab.com/Adrilaw/android_kernel_samsung_j8y18lte
+Samsung,Samsung Galaxy M11,m11q,0,,,1,Developer claimed,external wifi support; packet injection; hid gadget; usb gadget,0,https://github.com/plabonroyofficial/Kali-NetHunter-Kernel-Galaxy-M11-EvoX
+Samsung,Samsung Galaxy M52 5G,m52xq,0,,,1,Abandoned,packet injection,0,https://github.com/RebertiCS/M52-NetHunter-Kernel
+Samsung,Samsung Galaxy Note 10 Plus,d2s,0,,,1,Developer claimed,monitor mode; hid gadget,0,https://github.com/pho5nix/d2s-los23-nethunter-kernel
+Samsung,Samsung Galaxy Note 3,hlte,16,hlte-can-cm; hlte-can-tw; hlte-dcm-tw; hlte-eur-cm; hlte-eur-tw; hlte-eur-los; hlte-kdi-tw; hlte-kor-cm; hlte-kor-tw; hlte-spr-cm; hlte-spr-tw; hlte-vzw-tw,"CyanogenMod 12 (Canada, Mexico, and T-Mobile); CyanogenMod 13 (Canada, Mexico, and T-Mobile); TouchWiz 5.0 (Canada, Mexico, and T-Mobile); TouchWiz 5.0 (Japanese NTT Docomo); CyanogenMod 12 (International / European); CyanogenMod 13 (International / European); TouchWiz 5.0 (International / European); LineageOS 14.1 (International / European); CyanogenMod 12 (Korean); CyanogenMod 13 (Korean); TouchWiz 5.0 (Korean); CyanogenMod 12 (Sprint); CyanogenMod 13 (Sprint); TouchWiz 5.0 (Sprint); TouchWiz 5.0 (Verizon)",0,,,1,https://github.com/jcadduono/idleKernel-note3.git; https://github.com/0x4E0x650x6F/android_kernel_samsung_msm8974.git; https://github.com/majid10243/nethunter-hlte-build
+Samsung,Samsung Galaxy Note 7,gracelte,2,gracelte; graceltekor,Grace UI,0,,,0,https://github.com/jcadduono/android_kernel_samsung_universal8890.git; https://github.com/jcadduono/android_kernel_samsung_universal8890/commits
+Samsung,Samsung Galaxy Note 8,greatlte,0,,,1,Unverified candidate,,0,https://github.com/Taha-Sheikh032/Note-8-nethunter-kernel
+Samsung,Samsung Galaxy Note20 Ultra (Exynos),c2s,1,c2s-oui-ksu,One UI 5.1,1,Developer claimed,external wifi support; packet injection; hid gadget,0,https://github.com/MocLG/android_kernel_samsung_exynos990_nethunter
+Samsung,Samsung Galaxy S10,beyond1lte,3,beyond1lte-los,LineageOS 21; LineageOS 22.2; LineageOS 23.2,0,,,2,https://github.com/v0lk3n/nethunter_kernel_samsung_exynos9820.git; https://github.com/SomewhatAwake/exynos9820-beyond1lte-ksu-nh; https://github.com/Gendata666/nethunter-kernel-exynos9820-los23
+Samsung,Samsung Galaxy S10 5G,beyondx,1,beyondx-los,LineageOS 23.2,0,,,0,https://github.com/v0lk3n/nethunter_kernel_samsung_exynos9820.git
+Samsung,Samsung Galaxy S10+,beyond2lte,1,beyond2lte-los,LineageOS 23.2,1,Unverified candidate,external wifi support; monitor mode; packet injection; hid gadget; usb gadget,3,https://github.com/v0lk3n/nethunter_kernel_samsung_exynos9820.git; https://github.com/muhammadfikri-dev/laksanasoft-enterprise-beyond2lte-kernel; https://github.com/muhammadfikri-dev/laksanasoft-nethunter-kernel; https://github.com/muhammadfikri-dev/nethunter-kernel-s10plus; https://github.com/SKyLiNe1980/GemsterKernel
+Samsung,Samsung Galaxy S10e,beyond0lte,1,beyond0lte-los,LineageOS 23.2,0,,,1,https://github.com/v0lk3n/nethunter_kernel_samsung_exynos9820.git; https://github.com/FabulaNox/nethunter-s10e-fix
+Samsung,Samsung Galaxy S10e (SM-G970N),beyond0lte,0,,,1,Developer claimed,external wifi support; packet injection; hid gadget,0,https://github.com/unreliablecode/ArtisanROM-PomPomSU-NetHunter
+Samsung,Samsung Galaxy S20 FE 5G (Snapdragon),r8q,5,r8q-oui; r8q-los,One UI 2.5; One UI 3.0; One UI 4.0; One UI 5.0; LineageOS 23.0,1,Unverified candidate,,2,https://github.com/Svirusx/Nethunter-Kernel-S20_FE_5G.git; https://github.com/Svirusx/Nethunter_LineageOS_Samsung_S20FE5G_sm8250.git; https://github.com/Svirusx/Nethunter-Kernel-S20_FE_5G; https://github.com/IslomTI/Nethunter-S20-FE-5G-G78XX; https://github.com/hendramanudinata03/NetHunter_samsung_r8q
+Samsung,Samsung Galaxy S4,jflte,2,jfltexx-cm,CyanogenMod 13; CyanogenMod 14.1,0,,,0,https://github.com/semsevens/nethunter_kernel_jfltexx.git; https://github.com/fasheng/nethunter_kernel_jfltexx.git
+Samsung,Samsung Galaxy S5,klte,16,klte-los; klte-tw; klte-chn-los; klte-chnduo-los; klte-duos-los; klte-duos-tw; klte-kdi-los; klte-kdi-tw; klte-kor-los; klte-skt-tw; klte-spr-los; klte-spr-tw; klte-usc-tw; klte-vzw-tw,"LineageOS 14.1 (GSM); TouchWiz 5.1 (GSM); TouchWiz 6.0 (GSM); LineageOS 14.1 (China); LineageOS 14.1 (China Duos); LineageOS 14.1 (LTE Duos); TouchWiz 5.1 (LTE Duos); LineageOS 14.1 (Japan); TouchWiz 5.1 (Japan); LineageOS 14.1 (Korea); TouchWiz 5.1 (Korea); TouchWiz 6.0 (Korea); LineageOS 14.1 (US Sprint, UK Vodafone, and Oceanic); TouchWiz 5.1 (US Sprint, UK Vodafone, and Oceanic); TouchWiz 5.1 (US Cellular); TouchWiz 5.1 (US Verizon)",0,,,1,https://github.com/jcadduono/android_kernel_samsung_msm8974.git; https://github.com/jcadduono/nethunter_kernel_klte.git; https://github.com/amahlaka/android_kernel_samsung_klte_nethunter
+Samsung,Samsung Galaxy S5 LTE Duos,klteduos,0,,,1,Unverified candidate,,0,https://github.com/syfaldhbly38-ux/NetHunter-kernel-for-klteduos
+Samsung,Samsung Galaxy S5 Mini,kminilte,3,kminilte-los,LineageOS 14.1; LineageOS 15.0; LineageOS 16.0,0,,,0,https://github.com/yesimxev/android_kernel_samsung_kminilte.git
+Samsung,Samsung Galaxy S6,zeroflte,2,zeroflte-los; zeroflte-tw,LineageOS 14.1; Android 7.0,0,,,0,https://github.com/XXH3X/Exynos7420_Nethunter; https://github.com/XXH3X/Ultimate-Kali
+Samsung,Samsung Galaxy S6 Edge,zerolte,2,zerolte-los; zerolte-tw,LineageOS 14.1; Android 7.0,0,,,0,https://github.com/XXH3X/Exynos7420_Nethunter; https://github.com/XXH3X/Ultimate-Kali
+Samsung,Samsung Galaxy S7,herolte,6,herolte-tw; herolte-los; herolte-oui; herolte-kor-tw,TouchWiz 6.0; TouchWiz Grace; LineageOS 14.1; LineageOS 16.0; One UI 1.0,0,,,0,https://github.com/jcadduono/android_kernel_samsung_universal8890; https://github.com/Svirusx/NetHunter-s7-kernel-StockOreo.git; https://github.com/Svirusx/NetHunter-s7-kernel-LineageOS14.1.git; https://github.com/Svirusx/Nethunter-s7-kernel-LineageOS16.0.git; https://github.com/Svirusx/Nethunter-s7-kernel-WirusMOD-AiO.git
+Samsung,Samsung Galaxy S7 (flat),herolte,0,,,1,Abandoned,,0,https://github.com/syzh120/nethunter-kernel
+Samsung,Samsung Galaxy S7 Edge,hero2lte,6,hero2lte-tw; hero2lte-los; hero2lte-oui; hero2lte-kor-tw,TouchWiz 6.0; TouchWiz Grace; LineageOS 14.1; LineageOS 16.0; One UI 1.0,0,,,0,https://github.com/jcadduono/android_kernel_samsung_universal8890; https://github.com/Svirusx/NetHunter-s7-kernel-StockOreo.git; https://github.com/Svirusx/NetHunter-s7-kernel-LineageOS14.1.git; https://github.com/Svirusx/Nethunter-s7-kernel-LineageOS16.0.git; https://github.com/Svirusx/Nethunter-s7-kernel-WirusMOD-AiO.git
+Samsung,Samsung Galaxy S8,dreamlte,0,,,1,Developer claimed,packet injection; hid gadget,0,https://github.com/shainahum12-cloud/android_kernel_samsung_dreamlte_nethunter
+Samsung,Samsung Galaxy S9+,star2lte,1,star2lte-los,LineageOS 20,0,,,0,https://github.com/mylesgoose/android_kernel_samsung_exynos9810.git
+Samsung,Samsung Galaxy Tab S4 LTE,gts4llte,1,gts4llte,Android 8.1,0,,,0,https://github.com/Re4son/gts4lwifi
+Samsung,Samsung Galaxy Tab S4 WiFi,gts4lwifi,1,gts4lwifi,Android 8.1,0,,,0,https://github.com/Re4son/gts4lwifi
+Sony,Sony Xperia 10 II,pdx201,1,pdx201-los,LineageOS 20,0,,,0,https://github.com/lineageos-on-pdx201/android_kernel_sony_sm6125
+Sony,Sony Xperia 10 V,pdx235,1,pdx235-los,LineageOS 23.2,0,,,0,https://github.com/Tom60chat/android_kernel_sony_sm6375
+Sony,Sony Xperia XZ2,xz2,0,,,1,Unverified candidate,,0,https://github.com/salk-cell/nethunter-kernel-xz2
+Sony,Sony Xperia Z,yuga,1,yuga-cm,CyanogenMod 13,0,,,0,https://github.com/daedroza/nethunter_kernel_apq8064.git
+Sony,Sony Xperia Z1,honami,2,honami-los,LineageOS 13.1; LineageOS 16,0,,,0,https://github.com/Re4son/android_kernel_Hanomi.git
+Sony,Sony Xperia Z3 (z3s),z3s,0,,,1,Developer claimed,packet injection,0,https://github.com/namegar/nethunter-z3s-kernel
+Sony,Sony Xperia Z5 Compact,suzuran,1,suzuran-los,LineageOS 14.1,0,,,0,https://github.com/Re4son/android_kernel_sony_msm8994
+Sony,Sony Xperia ZR,dogo,1,dogo-cm,CyanogenMod 13,0,,,0,https://github.com/daedroza/nethunter_kernel_apq8064.git
+Sony,Xperia 10,kirin,0,,,1,Developer claimed,hid gadget,0,https://github.com/gibait/pdx201-nethunter-kernel-builder-docker
+Sony,Xperia 10 II,pdx201,0,,,2,Developer claimed; Unverified candidate,hid gadget,0,https://github.com/gibait/pdx201-nethunter-kernel-builder-docker; https://github.com/howfan31/kali-nethunter-2026.2-pdx201-los-thirteen-full-repaired
+Sony,Xperia SP,huashan,0,,,1,Abandoned,,0,https://github.com/haleem254/nethuntersp
+Ulefone,Ulefone Armor 34+,armor34plus,1,armor34plus-stock,Stock Android 16 (MT6878 / Dimensity 7300),1,Unverified candidate,,0,https://gitlab.com/art0181/android_kernel_ulefone_armor34plus_gki.git; https://gitlab.com/art0181/android_kernel_ulefone_armor34plus_gki
+Xiaomi,Mi 10,umi,0,,,1,Developer claimed,,0,https://github.com/dylanmurzello/kali_kernel_mi10
+Xiaomi,Mi 11,venus,0,,,1,Developer claimed,,0,https://github.com/shandongtlb/kernel_xiaomi_sm8350_m11
+Xiaomi,Mi 8,dipper,0,,,1,Developer claimed,external wifi support; monitor mode; hid gadget,0,https://github.com/mamilux/mi8-nethunter-project
+Xiaomi,Mi 9,cepheus,0,,,1,Developer claimed,,0,https://github.com/k0d14k/mi_9_cepheus_kali_nethunter_setup
+Xiaomi,Mi A1,tissot,0,,,1,Unverified candidate,,0,https://github.com/prorooter007/Nethunter_Kernel_Xiaomi_msm8953
+Xiaomi,Mi A2 Lite,daisy,0,,,1,Unverified candidate,,0,https://github.com/AzeAstro/miA2Lite_kernel
+Xiaomi,Mi MIX 3,perseus,0,,,1,Unverified candidate,,0,https://github.com/kamstartech/perseus-kernel-modules
+Xiaomi,Mi Pad 4,clover,0,,,1,Unverified candidate,,0,https://github.com/DevKyurria/nethunter_kernel_xiaomi_clover
+Xiaomi,POCO F1,beryllium,0,,,1,Unverified candidate,,0,https://github.com/hmonojit/Poco-F1-Dual-Boot-Nethunter-Pro-Android-13
+Xiaomi,POCO F4 GT,ingres,0,,,1,Developer claimed,external wifi support; monitor mode,0,https://github.com/ruik3z/avalon-ingres
+Xiaomi,POCO F5,marble,0,,,1,Developer claimed,,0,https://github.com/weiguangtwk/cursed_melt_kernel_marble_patch
+Xiaomi,POCO F5 (Global),marble,0,,,1,Unverified candidate,,0,https://github.com/PARADOX-X20/kernel_xiaomi_sm8450
+Xiaomi,POCO F6,peridot,0,,,1,Developer claimed,,0,https://github.com/malayalicoding/poco-f6-nethunter-kernel
+Xiaomi,POCO M2 Pro,gram,0,,,2,Unverified candidate; Developer claimed,,0,https://github.com/0x1k4rt1k/miatoll-nethunter-boot; https://github.com/clarencelol/kernel_xiaomi_sm6250
+Xiaomi,POCO M4 5G,light,0,,,1,Developer claimed,external wifi support; monitor mode; hid gadget; usb gadget,0,https://github.com/n3tm4t3/poco-m4-5g-nethunter
+Xiaomi,POCO X5 5G,moonstone,0,,,1,Developer claimed,external wifi support; monitor mode; packet injection; hid gadget; usb gadget,0,https://github.com/edbastida/Kernel_Stone_DarkHuntermoon-Reborn
+Xiaomi,POCO X5 5G / Redmi Note 12 5G (crDroid 12),stone-crdroid12,1,stone-crdroid12,crDroid12 Android 16,0,,,0,https://github.com/harifhaqim/crdroid_nethunter_stone
+Xiaomi,Pocophone F1,beryllium,0,,,2,Developer claimed; Unverified candidate,external wifi support,0,https://github.com/CyberRider69/nethunter-evolutionx-beryllium-no-kernel; https://github.com/DX4GREY/kernel_xiaomi_sdm845
+Xiaomi,Redmi 10C,fog,0,,,1,Developer claimed,,0,https://github.com/dante-1993/redmi-10c-fog-kernel-4.19.325
+Xiaomi,Redmi 1S,armani,1,armani,Redmi 1S for stock Android,0,,,1,https://github.com/daedroza/nethunter_kernel_xiaomi_armani
+Xiaomi,Redmi 4A,rolex,0,,,1,Abandoned,,0,https://github.com/Thiviyan/-Xiaomi-Redmi-4A-Nethunter
+Xiaomi,Redmi 5,rosy,0,,,2,Unverified candidate,,0,https://github.com/hellojonh9955/rosy-android14ksu-nethunter-kernel; https://github.com/p3h3n9-pr0j3ct/NetHunter-vince-R-FINAL
+Xiaomi,Redmi 5 Plus,vince,0,,,4,Unverified candidate; Abandoned,,0,https://github.com/kotkaaja/NetHunter-kernel-vince-R-by-p3h3n9-Remake; https://github.com/p3h3n9-pr0j3ct/NetHunter-vince-R-FINAL; https://github.com/kitkat-rek777013/kernel-nethunter-vince-krypton-based; https://github.com/rek777013/kali_nethunter_kernel_vince
+Xiaomi,Redmi 5A,riva,0,,,1,Developer claimed,,0,https://github.com/shorterking/kali-nethunter-redmi5a-kernel
+Xiaomi,Redmi 8,olive,0,,,1,Unverified candidate,,0,https://github.com/leoshanumber69/AkameKernel-NetHunter
+Xiaomi,Redmi 9 / 9 Prime,lancelot,0,,,3,Unverified candidate; Developer claimed,,0,https://github.com/deepcomon/kernel-nethunter-for-Redmi-9A; https://github.com/Neternels/NetHunter-MT6768; https://github.com/imranbendjaballah/nethunter_kernel_lancelot
+Xiaomi,Redmi K20 Pro,raphael,0,,,1,Abandoned,,0,https://github.com/DOITfit/Redmi-K20Pro-Nethunter-Project
+Xiaomi,Redmi Note 10 Lite,miatoll,0,,,1,Developer claimed,,0,https://github.com/clarencelol/kernel_xiaomi_sm6250
+Xiaomi,Redmi Note 10 Pro,sweet,0,,,3,Developer claimed,monitor mode; packet injection; hid gadget; external wifi support; usb gadget,0,https://github.com/piwwing23/sweet-kernel-NetHunter; https://github.com/kirilltank/kernel-xiaomi_sm6150; https://github.com/h-curio/redmi-note10pro-nethunter-h-curio
+Xiaomi,Redmi Note 10 Pro Max,sweetin,0,,,1,Developer claimed,external wifi support; monitor mode; packet injection; hid gadget; usb gadget,0,https://github.com/kirilltank/kernel-xiaomi_sm6150
+Xiaomi,Redmi Note 11 spes,spes_matrixx,1,spes_matrixx,AOSPA,0,,,0,https://github.com/Madara273/Redmi-Note-11-Kernel
+Xiaomi,Redmi Note 13 Pro 5G,garnet,0,,,1,Developer claimed,,0,https://github.com/bollustrado/nethunter_kernel_xiaomi_garnet
+Xiaomi,Redmi Note 4G,dior,0,,,1,Developer claimed,,0,https://github.com/vip3r-kernels/kernel_source_n_dior
+Xiaomi,Redmi Note 6 Pro,tulip,0,,,2,Unverified candidate; Abandoned,,0,https://github.com/satana666luciferka/KERNEL-NETHUNTER-REDMI-NOTE-6-PRO; https://github.com/satana666luciferka/redmi-note-6-pro-kernel-nethunter-HELLP
+Xiaomi,Redmi Note 7,lavender,0,,,2,Unverified candidate,,0,https://github.com/Postcard7952/Lavender-Nethunter; https://github.com/sauravsinha239/nethunter-lavender
+Xiaomi,Redmi Note 7 Pro,violet,0,,,1,Unverified candidate,,0,https://github.com/ryzen-kernel/nethunter_kernel_xiaomi_violet
+Xiaomi,Redmi Note 8,ginkgo,2,ginkgoa13; ginkgoa16,ArrowOS 13; LineageOS 23.2,0,,,4,https://github.com/ikteach/ginkgo_kernel.git; https://github.com/ikteach/ginkgo_nethunter_kernel.git; https://github.com/medlam1981/ginkgo_nethunter_kernel; https://github.com/Neternels/NetHunter-Ginkgo; https://github.com/Team-420/NetHunter-ginkgo; https://github.com/Anonym3310/AkameKernel-ginkgo
+Xiaomi,Redmi Note 8 Pro,begonia,0,,,4,Unverified candidate; Developer claimed,external wifi support; monitor mode; hid gadget; usb gadget,0,https://github.com/tarq04125-lang/begonia-nethunter-kernel1; https://github.com/tarq04125-lang/begonia-nethunter-kernel2; https://github.com/peppedb92-dotcom/begonia-nethunter-kernel; https://github.com/Anonym3310/AkameKernel-begonia
+Xiaomi,Redmi Note 8T,willow,0,,,1,Unverified candidate,,0,https://github.com/vaginessa/Cuh-Nethunter-Kernel-willow
+Xiaomi,Redmi Note 9,merlinx,0,,,3,Developer claimed; Unverified candidate,internal wifi support; monitor mode; external wifi support; packet injection; hid gadget; usb gadget,0,https://github.com/killindodo/merlin-net-hunter-kernel-MT7601U-WiFi-Adapter-Support-; https://github.com/ritikthakur22/nethunter-kernel-merlin; https://github.com/Neternels/NetHunter-MT6768
+Xiaomi,Redmi Note 9 Pro,joyeuse,0,,,6,Unverified candidate; Abandoned; Developer claimed,external wifi support; hid gadget,0,https://github.com/0x1k4rt1k/miatoll-nethunter-boot; https://github.com/dhiimr/NHunter_Joyeuse; https://github.com/dhiimr/nethunter_note9pro; https://github.com/Anonym3310/AkameKernel-joyeuse; https://github.com/clarencelol/kernel_xiaomi_sm6250; https://github.com/naster17/nethunter-kernels
+Xiaomi,Redmi Note 9 Pro Max,excalibur,0,,,2,Unverified candidate; Developer claimed,,0,https://github.com/0x1k4rt1k/miatoll-nethunter-boot; https://github.com/clarencelol/kernel_xiaomi_sm6250
+Xiaomi,Redmi Note 9S,curtana,0,,,2,Unverified candidate; Developer claimed,,0,https://github.com/0x1k4rt1k/miatoll-nethunter-boot; https://github.com/clarencelol/kernel_xiaomi_sm6250
+Xiaomi,Xiaomi 11 Lite 5G NE,lisa,0,,,1,Unverified candidate,external wifi support; monitor mode; hid gadget; usb gadget,0,https://github.com/Kirolos124/NH-Lisa
+Xiaomi,Xiaomi 11T Pro,vili,0,,,1,Unverified candidate,,0,https://github.com/dinelo/vili-nethunter-kernel
+Xiaomi,Xiaomi Mi 10T Lite / Redmi Note 9 Pro 5G,gauguin,0,,,1,Abandoned,,0,https://github.com/Dqdd/gauguin_nethunter_kernel
+Xiaomi,Xiaomi Mi 10i 5G,gauguinpro,0,,,1,Unverified candidate,,0,https://github.com/mashunterbd/Nethunter_kernel_Gauguinpro
+Xiaomi,Xiaomi Mi 3 / Mi 4,cancro,1,cancro-cm,CyanogenMod 13,0,,,0,https://github.com/binkybear/android_kernel_xiaomi_cancro.git
+Xiaomi,Xiaomi Mi 8,dipper,0,,,1,Developer claimed,monitor mode; packet injection; hid gadget,0,https://github.com/TsingPeng03/Mi8-Nethunter-Project
+Xiaomi,Xiaomi Mi 8 Lite,platina,0,,,1,Unverified candidate,packet injection; usb gadget,0,https://github.com/almost-nowhere/platina-ksunext-nethunter
+Xiaomi,Xiaomi Mi 9,cepheus,0,,,2,Developer claimed,monitor mode; packet injection; hid gadget; usb gadget,0,https://github.com/shandongtlb/MI9-Nethunter-Project; https://github.com/xxoolm/kernel_xiaomi_sm8150_nethunter
+Xiaomi,Xiaomi Mi 9 Lite / CC9,pyxis,2,pyxis-los,LineageOS 21; LineageOS 22.2,0,,,0,https://github.com/yesimxev/android_kernel_xiaomi_sdm710
+Xiaomi,Xiaomi Mi 9 cepheus (PixelOS 15),cepheus,1,cepheus-pos,PixelOS 15,0,,,2,https://github.com/k0d14k/kernel_xiaomi_cepheus; https://github.com/ibaoly/kernel_xiaomi_cepheus; https://github.com/asna80/android_kernel_xiaomi_cepheus_MI9
+Xiaomi,Xiaomi Mi 9T,davinci,1,davinci-miui,MIUI Global 11,0,,,1,https://github.com/Re4son/android_kernel_xiaomi_davinci_hasty; https://github.com/KoraiLabs/davinci-nethunter-21
+Xiaomi,Xiaomi Mi A2,jasmine-sprout,1,jasmine-sprout-los,LineageOS 22.1,0,,,0,https://github.com/mr00k3/jasmine_sprout_nethunter
+Xiaomi,Xiaomi Mi A3,laurel-sprout,6,laurel-sprout-los,LineageOS 18.1; LineageOS 19.1; LineageOS 20; LineageOS 21; LineageOS 22; LineageOS 23.2,0,,,1,https://github.com/yesimxev/android_kernel_xiaomi_laurel_sprout; https://github.com/yesimxev/android_kernel_laurel_sprout; https://github.com/yesimxev/android_kernel_xiaomi_sm6125; https://github.com/CaliBerrr/NetHunter_laurel_sprout
+Xiaomi,Xiaomi Mi Max 2,oxygen,0,,,1,Unverified candidate,,0,https://github.com/grzegorzpalczynski6-boop/Build-NetHunter-kernel-for-Xiaomi-Mi-Max-2
+Xiaomi,Xiaomi Mi Max 3,nitrogen,0,,,1,Abandoned,,0,https://github.com/Jemacivan/nitrogen-kernel
+Xiaomi,Xiaomi Mi8937 family,mi8937,0,,,1,Developer claimed,,0,https://github.com/mdkwork/nethunter_xiaomi_kernel_mi8937
+Xiaomi,Xiaomi MiPad 1,mocha,2,mocha-cm,CyanogenMod 11; CyanogenMod 12.1,0,,,1,https://github.com/RahulTheVirus/mocha-kernels.git; https://github.com/InfidelRahul/mocha-kernels
+Xiaomi,Xiaomi POCO F1,beryllium,0,,,1,Developer claimed,internal wifi support; monitor mode; packet injection,0,https://github.com/DX4GREY/android_kernel_xiaomi_sdm845
+Xiaomi,Xiaomi POCO F6,peridot,0,,,1,Unverified candidate,,0,https://github.com/pancikula69/peridot-nethunter-kernel
+Xiaomi,Xiaomi POCO X2 / Redmi K30,phoenix,0,,,2,Unverified candidate,,0,https://github.com/MDXWAJID/phoenix-nethunter-kernel; https://github.com/MDXWAJID/poco-x2-nethunter-kernel
+Xiaomi,Xiaomi Pad 6,pipa,0,,,1,Developer claimed,,0,https://github.com/ruik3z/kernel-pipa
+Xiaomi,Xiaomi Poco X3 NFC (PixelOS),surya-16,1,surya-16,PixelOS Android 16 QPR2,0,,,0,https://github.com/dr1408/kernel_xiaomi_surya_16
+Xiaomi,Xiaomi Pocophone F1,beryllium,2,beryllium; beryllium-los,Xiaomi Pocophone F1 for stock Android; LineageOS 21,0,,,2,https://github.com/Strix-Vyxlor/android_kernel_xiaomi_sdm845; https://github.com/KekHunterOS/android_kernel_beryllium; https://github.com/Team-420/android_kernel_xiaomi_sdm845
+Xiaomi,Xiaomi Pocophone F3,alioth,1,alioth-los-ksu,Android 14,0,,,1,https://github.com/Hani-K/Bifr0st.git; https://github.com/echo-tester/build_kernel
+Xiaomi,Xiaomi Pocophone X3 NFC,surya,1,surya-los,LineageOS 20,0,,,3,https://github.com/r0ttenbeef/android_kernel_xiaomi_surya; https://github.com/dr1408/kernel_xiaomi_surya_nethunter; https://github.com/zulfi0/surya_kernel_nethunter_docker; https://github.com/entrysky/kernel_kali_nethunter_xiaomi_surya
+Xiaomi,Xiaomi Pocophone X3 Pro,vayu,1,vayu,Xiaomi Pocophone X3 Pro for stock Android,0,,,4,https://github.com/sozibkhanshox-crypto/Vayu_nethunter_build; https://github.com/sozibkhanshox-crypto/vayu-nethunter-build; https://github.com/cyberknight777/nethunter_kernel_xiaomi_vayu; https://github.com/lair-nula/NetHunter-PocoX3-Pro-Vayu
+Xiaomi,Xiaomi Redmi 10C,fog,0,,,1,Unverified candidate,,0,https://github.com/anomaly-4rc/android_kernel_xiaomi_fog-nethunter
+Xiaomi,Xiaomi Redmi 15,creek,0,,,1,Unverified candidate,internal wifi support; packet injection,0,https://github.com/dr1408/Creek_Nethunter
+Xiaomi,Xiaomi Redmi 3 / 3 Pro,ido,1,ido-los,LineageOS 14.1,0,,,1,https://github.com/ariafan/ido_kernel-kali.git; https://github.com/l33tnoob/ido_kernel-kali
+Xiaomi,Xiaomi Redmi 4 / 4X,santoni,0,,,1,Unverified candidate,,0,https://github.com/MomboteQ/hackphone_kernel_xiaomi_msm8937
+Xiaomi,Xiaomi Redmi 4 Prime,markw,2,markw-los,LineageOS 15.1; LineageOS 16,0,,,0,https://github.com/fasheng/nethunter_kernel_msm8953_markw
+Xiaomi,Xiaomi Redmi 4/4X,santoni,2,santoni-miui; santoni-vos,MIUI 9.0; VoltageOS 2.x (A13),0,,,0,https://github.com/DroidKali/santoni_kernel_nethunter.git; https://github.com/MomboteQ/hackphone_kernel_xiaomi_msm8937
+Xiaomi,Xiaomi Redmi 5A,riva,1,riva-los,crDroid Android 14,0,,,0,https://github.com/ShorterKing/Nethunter-Kernel-Redmi5A-Riva
+Xiaomi,Xiaomi Redmi 6 Pro,sakura,2,sakura-los,LineageOS,0,,,0,https://github.com/dek0der/nethunter_kernel_redmi_6_pro_sakura
+Xiaomi,Xiaomi Redmi 8 / 8A / 7A (SDM439),olive/olivelite/olivewood/pine,0,,,1,Unverified candidate,,0,https://github.com/atsauban/android_kernel_xiaomi_sdm439
+Xiaomi,Xiaomi Redmi 8A,olivelite,0,,,1,Developer claimed,external wifi support; packet injection; hid gadget; usb gadget,0,https://github.com/wolfxalpha4/nethunter-kernel-olivelite
+Xiaomi,Xiaomi Redmi 8A Dual,olivelite,0,,,1,Unverified candidate,,0,https://gitlab.com/sunilkumardasdev/redmi-8a-dual-nethunter-kernel
+Xiaomi,Xiaomi Redmi 9 Power,lime,0,,,1,Developer claimed,external wifi support; monitor mode; packet injection; hid gadget,0,https://github.com/l3tchupkt/redmi9power-nethunter-kernel
+Xiaomi,Xiaomi Redmi 9C NFC,angelican,0,,,1,Unverified candidate,,0,https://gitlab.com/edmondseropyan6/nethunter_kernel_xiaomi_angelican
+Xiaomi,Xiaomi Redmi Note 10 Pro,sweet,0,,,2,Developer claimed; Unverified candidate,external wifi support; monitor mode; packet injection; hid gadget; usb gadget,0,https://github.com/RiasJ1Dar/sweet-nethunter-kernel; https://gitlab.com/RiasJ1Dar/sweet-nethunter-kernel
+Xiaomi,Xiaomi Redmi Note 11 (fleur),fleur,0,,,1,Unverified candidate,,0,https://github.com/Sudarshanb789/fleur-nethunter-kernel
+Xiaomi,Xiaomi Redmi Note 4 / 4X,mido,0,,,2,Abandoned; Unverified candidate,,0,https://github.com/chkndrp/device_xiaomi_mido-nethunter-kernel; https://github.com/linlinger/kernel_xiaomi_mido
+Xiaomi,Xiaomi Redmi Note 4X,mido,2,mido-pe11; mido-los,Pixel Experience; LineageOS kernel with NetHunter features enabled,0,,,4,https://github.com/linlinger/kernel_xiaomi_mido.git; https://github.com/Serp3n7/kernel_xiaomi_mido.git; https://github.com/Serp3n7/Astraea-kernel-mido; https://github.com/p3h3n9-pr0j3ct/NetHunter-mido-SL-FINAL; https://github.com/p3h3n9-pr0j3ct/NetHunter-mido-Q-FINAL; https://github.com/p3h3n9-pr0j3ct/NetHunter-mido-R-FINAL
+Xiaomi,Xiaomi Redmi Note 5 Pro,whyred,1,whyred-los,LineageOS 18.1,0,,,2,https://github.com/notatallnic189/whyred-nethunter-kernel; https://github.com/notatallnic189/nethunter-kernel-ci; https://github.com/Redfern89/android_kernel_xiaomi_sdm660-nethunter
+Xiaomi,Xiaomi Redmi Note 6 Pro,tulip,1,tulip,Android 11,0,,,0,
+Xiaomi,Xiaomi Redmi Note 7,lavender,0,,,1,Unverified candidate,,0,https://github.com/sauravsinha239/Nethunter_kernel_lavender
+Xiaomi,Xiaomi Redmi Note 8,ginkgo,0,,,1,Developer claimed,internal wifi support; monitor mode; packet injection; hid gadget; usb gadget,0,https://github.com/medlam1981/ginkgo_ai_kernel
+Xiaomi,Xiaomi Redmi Note 8 Pro,begonia,0,,,6,Developer claimed; Unverified candidate,external wifi support; monitor mode; hid gadget; usb gadget; packet injection,0,https://github.com/artnigman-art/begonia-nethunter-kernel; https://github.com/bhindasinghcommunications123-sketch/begonia-nethunter-kernel; https://github.com/fxritadicc/begonia-kali_nethunter-kernel; https://github.com/tarq04125-lang/begonia-nethunter-kernel; https://github.com/tarq04125-lang/begonia-NetHunter-Kernel-A14; https://github.com/Thirushub/begonia-nethunter-kernel
+Xiaomi,Xiaomi Redmi Note 9S,curtana,0,,,1,Developer claimed,internal wifi support; external wifi support; monitor mode; packet injection; hid gadget; usb gadget,0,https://github.com/Saamitk/NetHunter-Kernel-Kit-Xiaomi-Redmi-Note-9S-curtana-
+Xiaomi,Xiaomi Redmi Note 9S/Pro,miatoll,1,miatoll-crdroid-15.0,crDroid 15.0,0,,,1,https://github.com/crdroidandroid/android_kernel_xiaomi_sm6250.git; https://github.com/AyusmanNanda/Nethunter-relese-miatoll
+Xiaomi,Xiaomi device (cas),cas,0,,,1,Unverified candidate,,0,https://github.com/fahmigk/cas-nethunter-kernel
+Xiaomi,Xiaomi device (sunny),sunny,0,,,1,Unverified candidate,,0,https://github.com/Neternels/android_kernel_xiaomi_sunny
+Xiaomi,Xiaomi device (sunstone/moonstone),sunstone/moonstone,0,,,2,Unverified candidate,,0,https://github.com/dare-devil-ex/kernel_xiaomi_stone; https://github.com/Adithyancoder/Stone-kernel-Nethunter-17
+Xiaomi,Xiaomi juice,juice,0,,,1,Developer claimed,,0,https://github.com/jemacivan/android_nethunter_kernel_xiaomi_juice
+ZTE,ZTE Axon 7,ailsa-ii,1,ailsa-ii,Android 6,0,,,0,https://github.com/jcadduono/android_kernel_zte_msm8996.git
+vivo,vivo iQOO Neo 9,neo9,0,,,1,Unverified candidate,,0,https://github.com/meoflii/nethunter-kernel-neo9
+Unknown,F(x)tec Pro1 X,pro1x,0,,,1,Developer claimed,monitor mode; hid gadget; usb gadget,0,https://github.com/xokitten999/pro1x-nethunter-kernel
+Unknown,Jiayu S3 Advanced,jiayus3a,1,jiayus3a,Android 6,0,,,0,https://github.com/DKingCN/android_kernel_jiayu_s3_h560.git
+Unknown,Nubia Z17,nx563j,1,nx563j-los,LineageOS 22.2,1,Abandoned,,0,https://github.com/luckylca/android_kernel_nubia_msm8998_nethunter; https://github.com/HiterretiH/nx589j_nougat_kernel_nethunter
+Unknown,Planet Computers Gemini PDA,gemini4g,6,gemini4g-p1; gemini4g-p2; gemini4g-p3,Android 7.1 Boot Partition 1; Android 8.1 Boot Partition 1; Android 7.1 Boot Partition 2; Android 8.1 Boot Partition 2; Android 7.1 Boot Partition 3; Android 8.1 Boot Partition 3,0,,,0,https://github.com/Re4son/gemini-kali-linux-kernel-3.18
+Unknown,TicWatch Pro / Pro 4G/LTE / Pro 2020,ticwatchpro,1,ticwatchpro,Wear OS 2.29,0,,,0,https://github.com/yesimxev/msm-catfish-9.0-wear-os
+Unknown,TicWatch Pro 3 GPS/LTE / Pro 3 Ultra GPS/LTE,ticwatchpro3,1,ticwatchpro3,OneOS (Wear OS 2.44),0,,,0,https://github.com/yesimxev/mobvoi-ticwatch-kernel
+Unknown,Unknown,Unknown,0,,,14,Developer claimed; Unverified candidate; Abandoned,external wifi support; packet injection; monitor mode,0,https://github.com/ahmed-alnassif/GKID-Kernels; https://github.com/arouf0/nethunter-kernel; https://github.com/beronathan9-sudo/nethunter-kernel; https://github.com/DEADMAN610716/my-nethunter-kernel; https://github.com/deviljin05/GKI-NETHUNTER-KERNEL; https://github.com/deviljin05/GKI-NETHUNTER-KERNEL-5.10-REDEFINED; https://github.com/deviljin05/GKI-NETHUNTER-KERNEL-WITH-DRIVER-2; https://github.com/deviljin05/Kali-nethunter-kernel-gki-5.10; https://github.com/deviljin05/Kali-nethunter-kernel-testing-phase-; https://github.com/deviljin05/kali-nethunter-kernel-testing-phase-2-; https://github.com/MechRocker/kernel-nethunter; https://github.com/portuguezhj34-spec/Nethunter-kernel; https://github.com/secretoryx/nethunter-kernel; https://github.com/zahirrayhan/Nethunter-Kernel
+Unknown,Unknown,lilium/chime,0,,,1,Unverified candidate,,0,https://github.com/agussaepul0-cloud/kernel-lilium-chime-nethunter-RT5370
+Unknown,Yu Yunique,jalebi,1,jalebi-los,LineageOS 14.1,0,,,0,https://github.com/thelazyindian/kernel_8916.git
+Unknown,nVidea Shield Tablet,shieldtablet,2,shieldtablet,Android 6.0; Android 7.1,0,,,0,https://github.com/jcadduono/android_kernel_nvidia_shield.git; https://github.com/SecurityAddicted/android_kernel_nvidia_shieldtablet
