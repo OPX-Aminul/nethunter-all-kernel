@@ -14,7 +14,7 @@ The machine-readable result is `data/nethunter_master.csv`. The website payload 
 | Per-device search discoveries | 55 |
 | Distinct source repositories | 487 |
 | Device/codename groups in the catalog | 343 |
-| Canonical device cards on the website | 313 |
+| Canonical device cards on the website | 311 |
 | Records with a direct binary or release asset | 37 |
 | Devices with at least one direct file | 32 |
 | Developer-reported boot | 5 |
@@ -81,7 +81,7 @@ Direct assets are attached for all five rows. The website now recommends clarenc
 
 The site now exposes:
 
-- 313 canonical device cards
+- 311 canonical device cards
 - 640 kernel records
 - 487 source repositories
 - 32 devices with a direct file

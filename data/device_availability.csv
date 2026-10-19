@@ -29,11 +29,11 @@ Galaxy S10e,beyond0lte,Samsung,3,0,3,0,5,1,0,2026-10-13,unreliablecode
 Pixel 4a 5G,bramble,Google,2,0,2,0,0,0,0,2026-10-16,Hotelk52339
 Realme X,rmx1901,Realme,1,0,1,0,0,0,0,2026-10-03,ishashanknigam
 Redmi Note 8,ginkgo,Xiaomi,7,0,7,0,7,4,0,2026-09-13,medlam1981
-Unknown,unknown,Unknown,14,0,14,0,122,2,0,2026-10-19,ahmed-alnassif
+Generic GKI kernel,gki,Unknown,14,0,14,0,122,2,0,2026-10-19,ahmed-alnassif
 Realme C3 / Narzo 10A,rmx2020,Realme,2,0,2,0,2,1,0,2026-10-19,ShorterKing
 Redmi 9 Power,lime,Xiaomi,1,0,1,0,1,1,0,2026-09-25,l3tchupkt
 POCO F1,beryllium,Xiaomi,2,0,2,0,1,1,0,2026-10-07,DX4GREY
-9 Lite,hi6250,Honor,1,0,1,0,1,1,0,2026-10-17,mr-anjaneyam
+Honor 9 Lite,hi6250,Honor,1,0,1,0,1,1,0,2026-10-17,mr-anjaneyam
 Pixel 4a,sunfish,Google,3,0,3,0,5,3,0,2026-10-18,MrBadger183
 Redmi 8A,olivelite,Xiaomi,1,0,1,0,2,1,0,2026-10-18,wolfxalpha4
 Galaxy S10,beyond1lte,Samsung,6,0,6,0,28,5,0,2026-09-16,Kernels-by-ravindu644
@@ -56,7 +56,7 @@ Nord 4,avalon,OnePlus,1,0,1,0,1,1,0,2026-07-06,ruik3z
 Xperia Z3 (z3s),z3s,Sony,1,0,1,0,0,0,0,2026-09-20,namegar
 Galaxy S4,jflte,Samsung,3,0,3,0,18,1,0,2026-10-13,fabiocogno
 "Galaxy S4 (GT-I9505, SGH-I337M, SGH-M919/V)",jfltexx,Samsung,1,0,1,0,0,0,0,2026-10-13,fabiocogno
-OnePlus 5 / 5T,oneplus5,OnePlus,5,0,5,0,27,3,0,2026-08-09,lbgos
+OnePlus 5 / 5T,oneplus5,OnePlus,6,0,6,0,27,3,0,2026-08-09,lbgos
 juice,juice,Xiaomi,1,1,0,1,1,1,1,2024-01-29,Jemacivan
 OnePlus 8 Pro,instantnoodlep,OnePlus,1,1,0,2,2,1,2,2026-09-14,Neternels
 K20 Plus,lv517,LG,4,1,3,2,2,1,2,2026-07-20,robnew
@@ -77,7 +77,7 @@ Galaxy Note10 Lite,r7,Samsung,1,0,1,0,0,0,0,2026-02-22,abusdeen1991
 Galaxy Tab A 8.0 (2019),gta3xlwifi,Samsung,1,0,1,0,0,0,0,2026-08-16,scrattatattat
 Galaxy Tab A9 LTE,sm-x115,Samsung,2,1,1,2,3,1,2,2026-06-02,Anmol6002
 Galaxy XCover 4,xcover4lte,Samsung,1,0,1,0,0,0,0,2026-04-28,bspippi1337
-K10,m216,LG,1,0,1,0,0,0,0,2026-06-12,AbdoTCH
+LG K10,m216,LG,1,0,1,0,0,0,0,2026-06-12,AbdoTCH
 Mi8937 family,mi8937,Xiaomi,1,0,1,0,0,0,0,2026-01-26,mdkwork
 Nexus 5,hammerhead,Google,7,0,7,0,0,0,0,2026-09-26,Qaran1
 OnePlus 11R,oneplus-11r,OnePlus,1,0,1,0,0,0,0,2026-05-17,docdry0001
@@ -109,31 +109,26 @@ Galaxy Tab A8 10.5 (2021),gta8,Samsung,1,0,1,0,0,0,0,2024-03-13,Eetuheino03
 Redmi Note 4G,dior,Xiaomi,1,0,1,0,0,0,0,2024-12-25,ViP3R-KERNELs
 Galaxy J7 Prime,on7xelte,Samsung,1,0,1,0,0,0,0,2024-11-16,ahmadkhan-git
 Nexus 5X,bullhead,Google,4,0,4,0,0,0,0,2020-12-03,LordNikk0n
-G2,d802,LG,1,0,1,0,0,0,0,2020-12-17,cmjester6421
 G2 (AT&T),d800,LG,1,0,1,0,0,0,0,2020-12-17,cmjester6421
 G2 (Canada),d803,LG,1,0,1,0,0,0,0,2020-12-17,cmjester6421
 G2 (Korea),f320,LG,1,0,1,0,0,0,0,2020-12-17,cmjester6421
 G2 (Sprint),ls980,LG,1,0,1,0,0,0,0,2020-12-17,cmjester6421
 G2 (T-Mobile),d801,LG,1,0,1,0,0,0,0,2020-12-17,cmjester6421
 G2 (Verizon),vs980,LG,1,0,1,0,0,0,0,2020-12-17,cmjester6421
+LG G2,d802,LG,1,0,1,0,0,0,0,2020-12-17,cmjester6421
 Galaxy S20 FE 5G,r8q,Samsung,8,0,8,0,10,5,0,2026-10-18,Svirusx
 OnePlus 7 / 7 Pro / 7T / 7T Pro,oneplus7,OnePlus,5,0,5,0,30,1,0,Unknown,Re4son
 Redmi 4/4X,santoni,Xiaomi,2,0,2,0,2,1,0,Unknown,santoni
 Redmi Note 4X,mido,Xiaomi,6,0,6,0,2,2,0,2024-04-11,linlinger
-3.1,es2,Nokia,2,0,2,0,0,0,0,2020-03-13,yesimxev
+Nokia 3.1,es2,Nokia,2,0,2,0,0,0,0,2020-03-13,yesimxev
 Xperia Z,yuga,Sony,1,0,1,0,30,1,0,Unknown,Daedroza
 Xperia ZR,dogo,Sony,1,0,1,0,30,1,0,Unknown,Daedroza
 Moto X4,payton,Motorola,3,0,3,0,1,1,0,Unknown,ciropom
 Galaxy A5 (2015),a5ulte,Samsung,2,0,2,0,0,0,0,Unknown,DeadSquirrel01
-V20,h990,LG,5,0,5,0,24,1,0,Unknown,Re4son
+LG V20,h990,LG,5,0,5,0,24,1,0,Unknown,Re4son
 Nexus 7 (2013),flo,Google,7,0,7,0,6,2,0,2024-08-23,jcadduono
-P9,eva,Huawei,3,0,3,0,1,1,0,Unknown,apk0mix5900
-10,htc-pmewl,HTC,1,0,1,0,0,0,0,Unknown,S1CAR1US
-5x,kiwi,Huawei,1,0,1,0,0,0,0,Unknown,DeadSquirrel01
-6.1,pl2,Nokia,4,0,4,0,0,0,0,Unknown,yesimxev
-6.1 Plus,drg,Nokia,3,0,3,0,0,0,0,Unknown,yesimxev
+Huawei P9,eva,Huawei,3,0,3,0,1,1,0,Unknown,apk0mix5900
 Axon 7,ailsa-ii,ZTE,1,0,1,0,0,0,0,Unknown,jcadduono
-G5,h850,LG,1,0,1,0,0,0,0,Unknown,jcadduono
 G5 (T-Mobile),h830,LG,1,0,1,0,0,0,0,Unknown,jcadduono
 Galaxy A5 (2016),a5xelte,Samsung,2,0,2,0,0,0,0,2023-11-13,Re4son
 Galaxy A7 (2016),a7xelte,Samsung,1,0,1,0,0,0,0,Unknown,yesimxev
@@ -155,9 +150,13 @@ Galaxy S9 / S9+,starlte,Samsung,5,0,5,0,3,2,0,2026-08-21,v0lk3n
 Galaxy S9+,star2lte,Samsung,1,0,1,0,0,0,0,Unknown,mylezgoose
 Galaxy Tab S4 LTE,gts4llte,Samsung,1,0,1,0,30,1,0,Unknown,Re4son
 Galaxy Tab S4 WiFi,gts4lwifi,Samsung,1,0,1,0,30,1,0,Unknown,Re4son
+HTC 10,htc-pmewl,HTC,1,0,1,0,0,0,0,Unknown,S1CAR1US
+Huawei 5x,kiwi,Huawei,1,0,1,0,0,0,0,Unknown,DeadSquirrel01
 Jiayu S3 Advanced,jiayus3a,Unknown,1,0,1,0,0,0,0,Unknown,DKingCN
 K8 Note,manning,Lenovo,1,0,1,0,3,1,0,Unknown,Byom Dwivedi
 LeEco Le 2,s2,Unknown,2,0,2,0,0,0,0,2020-03-27,Rishabh Rao
+LG G5,h850,LG,1,0,1,0,0,0,0,Unknown,jcadduono
+LG V20,us996,LG,1,0,1,0,0,0,0,Unknown,jcadduono
 Mi 3 / Mi 4,cancro,Xiaomi,1,0,1,0,0,0,0,Unknown,Binkybear
 Mi 9 Lite / CC9,pyxis,Xiaomi,2,0,2,0,0,0,0,Unknown,yesimxev
 Mi 9T,davinci,Xiaomi,2,0,2,0,0,0,0,2026-09-05,Re4son
@@ -173,6 +172,8 @@ Nexus 4,mako,Google,3,0,3,0,30,1,0,Unknown,Binkybear
 Nexus 6,shamu,Google,6,0,6,0,0,0,0,2021-05-24,Binkybear
 Nexus 7 (2012),grouper,Google,2,0,2,0,0,0,0,2023-06-09,Binkybear
 Nexus 9,flounder,Google,3,0,3,0,0,0,0,Unknown,Binkybear
+Nokia 6.1,pl2,Nokia,4,0,4,0,0,0,0,Unknown,yesimxev
+Nokia 6.1 Plus,drg,Nokia,3,0,3,0,0,0,0,Unknown,yesimxev
 Nubia Z17,nx563j,Unknown,2,0,2,0,0,0,0,2019-10-15,luckylca
 nVidea Shield Tablet,shieldtablet,Unknown,2,0,2,0,0,0,0,Unknown,jcadduono
 One M7,onem7gpe,HTC,1,0,1,0,0,0,0,Unknown,Lavanoid
@@ -180,7 +181,7 @@ One M8,onem8gpe,HTC,1,0,1,0,0,0,0,Unknown,Lavanoid
 OnePlus 11 5G,salami,OnePlus,2,0,2,0,0,0,0,Unknown,nullptr-t-oss
 OnePlus 2,oneplus2,OnePlus,8,0,8,0,0,0,0,2019-02-24,Binkybear
 OnePlus 3 / 3T,oneplus3,OnePlus,9,0,9,0,0,0,0,Unknown,Re4son
-OnePlus 6 / 6T,oneplus6,OnePlus,4,0,4,0,1,1,0,Unknown,kimocoder
+OnePlus 6 / 6T,oneplus6,OnePlus,5,0,5,0,1,1,0,2026-05-29,kimocoder
 OnePlus 8 / 8T / 8 Pro,oneplus8,OnePlus,2,0,2,0,3,1,0,Unknown,flyP@TR!0T
 OnePlus One,oneplus1,OnePlus,8,0,8,0,24,3,0,2019-08-01,Binkybear
 OnePlus X,oneplusx,OnePlus,2,0,2,0,0,0,0,2016-09-20,jcadduono
@@ -209,7 +210,6 @@ Redmi Note 9S/Pro,miatoll,Xiaomi,2,0,2,0,0,0,0,2025-05-23,jolucas245
 TicWatch Pro / Pro 4G/LTE / Pro 2020,ticwatchpro,Unknown,1,0,1,0,0,0,0,Unknown,yesimxev
 TicWatch Pro 3 GPS/LTE / Pro 3 Ultra GPS/LTE,ticwatchpro3,Unknown,1,0,1,0,0,0,0,Unknown,yesimxev
 Ulefone Armor 34+,armor34plus,Ulefone,2,0,2,0,0,0,0,2026-10-10,art0181
-V20,us996,LG,1,0,1,0,0,0,0,Unknown,jcadduono
 V20 (T-Mobile),h918,LG,1,0,1,0,0,0,0,Unknown,jcadduono
 Xperia 10 V,pdx235,Sony,1,0,1,0,1,1,0,Unknown,Tom60chat
 Xperia Z1,honami,Sony,2,0,2,0,0,0,0,Unknown,Re4son
@@ -217,7 +217,7 @@ Xperia Z5 Compact,suzuran,Sony,1,0,1,0,0,0,0,Unknown,Re4son
 Yu Yunique,jalebi,Unknown,1,0,1,0,0,0,0,Unknown,Satyabrat Sahoo
 Zenfone 2 Laser (720p),z00e,ASUS,1,0,1,0,0,0,0,Unknown,adrenogamer
 OnePlus 6 / 6T,enchilada/fajita,OnePlus,4,0,4,0,8,1,0,2026-10-11,johanlike
-11 Lite 5G NE,lisa,Xiaomi,1,0,1,0,0,0,0,2026-09-27,Kirolos124
+Xiaomi 11 Lite 5G NE,lisa,Xiaomi,1,0,1,0,0,0,0,2026-09-27,Kirolos124
 Pixel 4 / 4 XL,coral/flame,Google,1,0,1,0,1,1,0,2026-09-30,chenyjie
 Pixel 3a / 3a XL,bonito/sargo,Google,1,0,1,0,0,0,0,2026-05-23,Duhjoker
 Redmi 15,creek,Xiaomi,1,0,1,0,1,1,0,2026-10-05,dr1408
@@ -226,11 +226,10 @@ Realme 9 Pro 5G,oscar,Realme,1,0,1,0,1,1,0,2026-09-19,sirt-sirt
 Mi 8 Lite,platina,Xiaomi,1,0,1,0,1,1,0,2026-10-12,almost-nowhere
 device (sunny),sunny,Xiaomi,1,0,1,0,7,1,0,2026-09-08,Neternels
 Pixel 7a,lynx,Google,1,0,1,0,4,1,0,2026-09-27,HeRrKrUgEr
-5 / 5T,oneplus5,OnePlus,1,0,1,0,0,0,0,2026-05-13,simonpunk
 Pocophone X3 Pro,vayu,Xiaomi,5,0,5,0,1,1,0,2026-10-09,cyberknight777
 V30+,h930ds,LG,1,0,1,0,0,0,0,2026-09-18,SrDayne
 Redmi Note 4 / 4X,mido,Xiaomi,2,0,2,0,0,0,0,2026-08-21,linlinger
-G4,h815,LG,1,0,1,0,0,0,0,2026-06-24,nepheloid
+LG G4,h815,LG,1,0,1,0,0,0,0,2026-06-24,nepheloid
 device (sunstone/moonstone),sunstone/moonstone,Xiaomi,2,0,2,0,3,2,0,2026-10-16,dare-devil-ex
 Pixel 4,flame,Google,1,0,1,0,0,0,0,2026-01-13,cyberknight777
 Galaxy Note 4,treltexx,Samsung,1,0,1,0,0,0,0,2026-08-17,PhilZ-cwm6
@@ -243,8 +242,6 @@ Galaxy Tab S6 Lite,gta4xl,Samsung,1,0,1,0,0,0,0,2026-06-03,mohammedddd5
 Redmi 4 / 4X,santoni,Xiaomi,1,0,1,0,2,1,0,2026-08-21,MomboteQ
 Nothing Phone (3a) / (3a) Pro,asteroids,Nothing,1,0,1,0,2,1,0,2026-10-05,Tbeard602
 Mi MIX 3,perseus,Xiaomi,1,0,1,0,0,0,0,2026-10-07,kamstartech
-11T Pro,vili,Xiaomi,1,0,1,0,0,0,0,2026-10-16,dinelo
-6 / 6T,oneplus6,OnePlus,1,0,1,0,0,0,0,2026-05-29,nuthan923
 device (cas),cas,Xiaomi,1,0,1,0,11,1,0,2026-06-28,fahmigk
 Galaxy,a10,Samsung,2,0,2,0,0,0,0,2026-01-28,mwafik2002
 Galaxy,a12,Samsung,1,0,1,0,0,0,0,2026-09-30,greenxhatzgreyty
@@ -271,6 +268,7 @@ Redmi 5 Plus,vince,Xiaomi,4,0,4,0,1,1,0,2026-07-04,kotkaaja
 Redmi Note 6 Pro,tulip,Xiaomi,3,0,3,0,0,0,0,2026-02-27,satana666luciferka
 Unknown,lilium/chime,Unknown,1,0,1,0,0,0,0,2026-10-18,agussaepul0-cloud
 vivo iQOO Neo 9,neo9,vivo,1,0,1,0,0,0,0,2026-06-06,meoflii
+Xiaomi 11T Pro,vili,Xiaomi,1,0,1,0,0,0,0,2026-10-16,dinelo
 Xperia,xz2,Sony,1,0,1,0,0,0,0,2026-10-05,salk-cell
 Mi A1,tissot,Xiaomi,1,0,1,0,8,1,0,2025-01-28,prorooter007
 Moto G (2013),falcon,Motorola,1,0,1,0,0,0,0,2025-04-22,theindicator

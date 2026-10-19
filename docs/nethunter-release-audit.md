@@ -5,12 +5,12 @@ Generated 2026-10-19 from `site/data.json`.
 
 | Metric | Count |
 |---|---:|
-| Device cards | 313 |
+| Device cards | 311 |
 | Kernel records | 640 |
 | Kernels with a direct ZIP/IMG/archive | 36 |
 | Kernels with no prebuilt file | 604 |
 | Device cards with at least one prebuilt kernel | 32 |
-| Device cards with no prebuilt kernel | 281 |
+| Device cards with no prebuilt kernel | 279 |
 | Releases reported by sources | 992 |
 | Upstream release groups found in asset URLs | 33 |
 | Mirrored releases in this repository | 70 |
@@ -25,7 +25,7 @@ A release count is what the source publishes. A direct file is an actual ZIP, IM
 |---|---|---:|---:|---:|---:|
 | Galaxy Note 3 | `hlte` | 17 | 0 | 17 | 0 |
 | Galaxy S5 | `klte` | 17 | 0 | 17 | 0 |
-| Unknown | `unknown` | 14 | 0 | 14 | 122 |
+| Generic GKI kernel | `gki` | 14 | 0 | 14 | 122 |
 | Redmi Note 8 Pro | `begonia` | 10 | 0 | 10 | 5 |
 | OnePlus 3 / 3T | `oneplus3` | 9 | 0 | 9 | 0 |
 | Galaxy S20 FE 5G | `r8q` | 8 | 0 | 8 | 10 |
@@ -43,6 +43,7 @@ A release count is what the source publishes. A direct file is an actual ZIP, IM
 | Mi 9 | `cepheus` | 6 | 1 | 5 | 24 |
 | Moto G Stylus 5G (2022) / Edge 30 Fusion | `milanf` | 6 | 0 | 6 | 3 |
 | Nexus 6 | `shamu` | 6 | 0 | 6 | 0 |
+| OnePlus 5 / 5T | `oneplus5` | 6 | 0 | 6 | 27 |
 | OnePlus 8T | `kebab` | 6 | 0 | 6 | 2 |
 | Planet Computers Gemini PDA | `gemini4g` | 6 | 0 | 6 | 0 |
 | Pocophone F1 | `beryllium` | 6 | 0 | 6 | 7 |
@@ -50,30 +51,29 @@ A release count is what the source publishes. A direct file is an actual ZIP, IM
 | Redmi Note 9 Pro | `joyeuse` | 6 | 2 | 4 | 38 |
 | Galaxy S10+ | `beyond2lte` | 5 | 0 | 5 | 13 |
 | Galaxy S9 / S9+ | `starlte` | 5 | 0 | 5 | 3 |
-| OnePlus 5 / 5T | `oneplus5` | 5 | 0 | 5 | 27 |
+| LG V20 | `h990` | 5 | 0 | 5 | 24 |
+| OnePlus 6 / 6T | `oneplus6` | 5 | 0 | 5 | 1 |
 | OnePlus 7 / 7 Pro / 7T / 7T Pro | `oneplus7` | 5 | 0 | 5 | 30 |
 | Pocophone X3 Pro | `vayu` | 5 | 0 | 5 | 1 |
 | Redmi Note 10 Pro | `sweet` | 5 | 1 | 4 | 3 |
-| V20 | `h990` | 5 | 0 | 5 | 24 |
-| 6.1 | `pl2` | 4 | 0 | 4 | 0 |
 | K20 Plus | `lv517` | 4 | 1 | 3 | 2 |
 | Nexus 5X | `bullhead` | 4 | 0 | 4 | 0 |
-| OnePlus 6 / 6T | `oneplus6` | 4 | 0 | 4 | 1 |
+| Nokia 6.1 | `pl2` | 4 | 0 | 4 | 0 |
 | OnePlus 6 / 6T | `enchilada/fajita` | 4 | 0 | 4 | 8 |
 | Pocophone X3 NFC | `surya` | 4 | 0 | 4 | 4 |
 | Redmi 5 Plus | `vince` | 4 | 0 | 4 | 1 |
-| 6.1 Plus | `drg` | 3 | 0 | 3 | 0 |
 | Galaxy S10e | `beyond0lte` | 3 | 0 | 3 | 5 |
 | Galaxy S20 Ultra | `z3s` | 3 | 1 | 2 | 2 |
 | Galaxy S4 | `jflte` | 3 | 0 | 3 | 18 |
 | Galaxy S5 Mini | `kminilte` | 3 | 0 | 3 | 0 |
+| Huawei P9 | `eva` | 3 | 0 | 3 | 1 |
 | MiPad 1 | `mocha` | 3 | 0 | 3 | 3 |
 | Moto G5 Plus | `potter` | 3 | 0 | 3 | 0 |
 | Moto X4 | `payton` | 3 | 0 | 3 | 1 |
 | Nexus 4 | `mako` | 3 | 0 | 3 | 30 |
 | Nexus 9 | `flounder` | 3 | 0 | 3 | 0 |
+| Nokia 6.1 Plus | `drg` | 3 | 0 | 3 | 0 |
 | OnePlus Nord | `oneplus-nord` | 3 | 0 | 3 | 0 |
-| P9 | `eva` | 3 | 0 | 3 | 1 |
 | P9 Plus | `vienna` | 3 | 0 | 3 | 0 |
 | Pixel 4a | `sunfish` | 3 | 0 | 3 | 5 |
 | Redmi 9 / 9 Prime | `lancelot` | 3 | 0 | 3 | 0 |
@@ -83,7 +83,6 @@ A release count is what the source publishes. A direct file is an actual ZIP, IM
 | Redmi Note 9 | `merlinx` | 3 | 1 | 2 | 2 |
 | Redmi Note 9S | `curtana` | 3 | 2 | 1 | 33 |
 | Xperia 10 II | `pdx201` | 3 | 1 | 2 | 1 |
-| 3.1 | `es2` | 2 | 0 | 2 | 0 |
 | Galaxy | `a51` | 2 | 1 | 1 | 7 |
 | Galaxy | `a10` | 2 | 0 | 2 | 0 |
 | Galaxy | `a21s` | 2 | 0 | 2 | 1 |
@@ -109,6 +108,7 @@ A release count is what the source publishes. A direct file is an actual ZIP, IM
 | Moto G5 | `cedric` | 2 | 0 | 2 | 0 |
 | Moto G8 Power | `sofiar` | 2 | 0 | 2 | 9 |
 | Nexus 7 (2012) | `grouper` | 2 | 0 | 2 | 0 |
+| Nokia 3.1 | `es2` | 2 | 0 | 2 | 0 |
 | Nubia Z17 | `nx563j` | 2 | 0 | 2 | 0 |
 | OnePlus 11 5G | `salami` | 2 | 0 | 2 | 0 |
 | OnePlus 6 | `enchilada` | 2 | 0 | 2 | 0 |
@@ -145,25 +145,15 @@ A release count is what the source publishes. A direct file is an actual ZIP, IM
 | Xperia Z1 | `honami` | 2 | 0 | 2 | 0 |
 | device (sunstone/moonstone) | `sunstone/moonstone` | 2 | 0 | 2 | 3 |
 | nVidea Shield Tablet | `shieldtablet` | 2 | 0 | 2 | 0 |
-| 10 | `htc-pmewl` | 1 | 0 | 1 | 0 |
-| 11 Lite 5G NE | `lisa` | 1 | 0 | 1 | 0 |
-| 11T Pro | `vili` | 1 | 0 | 1 | 0 |
-| 5 / 5T | `oneplus5` | 1 | 0 | 1 | 0 |
-| 5x | `kiwi` | 1 | 0 | 1 | 0 |
-| 6 / 6T | `oneplus6` | 1 | 0 | 1 | 0 |
-| 9 Lite | `hi6250` | 1 | 0 | 1 | 1 |
 | Axon 7 | `ailsa-ii` | 1 | 0 | 1 | 0 |
 | Exynos 1380 devices | `s5e8835` | 1 | 0 | 1 | 8 |
 | F(x)tec Pro1 X | `pro1x` | 1 | 0 | 1 | 0 |
-| G2 | `d802` | 1 | 0 | 1 | 0 |
 | G2 (AT&T) | `d800` | 1 | 0 | 1 | 0 |
 | G2 (Canada) | `d803` | 1 | 0 | 1 | 0 |
 | G2 (Korea) | `f320` | 1 | 0 | 1 | 0 |
 | G2 (Sprint) | `ls980` | 1 | 0 | 1 | 0 |
 | G2 (T-Mobile) | `d801` | 1 | 0 | 1 | 0 |
 | G2 (Verizon) | `vs980` | 1 | 0 | 1 | 0 |
-| G4 | `h815` | 1 | 0 | 1 | 0 |
-| G5 | `h850` | 1 | 0 | 1 | 0 |
 | G5 (T-Mobile) | `h830` | 1 | 0 | 1 | 0 |
 | Galaxy | `a71` | 1 | 1 | 0 | 1 |
 | Galaxy | `a15` | 1 | 0 | 1 | 0 |
@@ -214,9 +204,16 @@ A release count is what the source publishes. A direct file is an actual ZIP, IM
 | Galaxy Tab S6 Lite | `gts6lwifi` | 1 | 0 | 1 | 0 |
 | Galaxy Tab S6 Lite | `gta4xl` | 1 | 0 | 1 | 0 |
 | Galaxy XCover 4 | `xcover4lte` | 1 | 0 | 1 | 0 |
+| HTC 10 | `htc-pmewl` | 1 | 0 | 1 | 0 |
+| Honor 9 Lite | `hi6250` | 1 | 0 | 1 | 1 |
+| Huawei 5x | `kiwi` | 1 | 0 | 1 | 0 |
 | Jiayu S3 Advanced | `jiayus3a` | 1 | 0 | 1 | 0 |
-| K10 | `m216` | 1 | 0 | 1 | 0 |
 | K8 Note | `manning` | 1 | 0 | 1 | 3 |
+| LG G2 | `d802` | 1 | 0 | 1 | 0 |
+| LG G4 | `h815` | 1 | 0 | 1 | 0 |
+| LG G5 | `h850` | 1 | 0 | 1 | 0 |
+| LG K10 | `m216` | 1 | 0 | 1 | 0 |
+| LG V20 | `us996` | 1 | 0 | 1 | 0 |
 | LeEco Le Pro3 | `zl1` | 1 | 0 | 1 | 0 |
 | Mi 10 | `umi` | 1 | 0 | 1 | 0 |
 | Mi 10T Lite / Redmi Note 9 Pro 5G | `gauguin` | 1 | 0 | 1 | 0 |
@@ -318,9 +315,10 @@ A release count is what the source publishes. A direct file is an actual ZIP, IM
 | TicWatch Pro / Pro 4G/LTE / Pro 2020 | `ticwatchpro` | 1 | 0 | 1 | 0 |
 | TicWatch Pro 3 GPS/LTE / Pro 3 Ultra GPS/LTE | `ticwatchpro3` | 1 | 0 | 1 | 0 |
 | Unknown | `lilium/chime` | 1 | 0 | 1 | 0 |
-| V20 | `us996` | 1 | 0 | 1 | 0 |
 | V20 (T-Mobile) | `h918` | 1 | 0 | 1 | 0 |
 | V30+ | `h930ds` | 1 | 0 | 1 | 0 |
+| Xiaomi 11 Lite 5G NE | `lisa` | 1 | 0 | 1 | 0 |
+| Xiaomi 11T Pro | `vili` | 1 | 0 | 1 | 0 |
 | Xperia | `xz2` | 1 | 0 | 1 | 0 |
 | Xperia 10 | `kirin` | 1 | 0 | 1 | 0 |
 | Xperia 10 V | `pdx235` | 1 | 0 | 1 | 1 |
@@ -378,13 +376,13 @@ The full machine-readable tables are `data/device_availability.csv` and `data/ke
 
 ## Source-only devices
 
-281 of 313 device cards currently have no prebuilt kernel file. These need a real device build: a matching defconfig, a working toolchain and kernel branch, and a product/vendor setup. They must not be replaced with a generic AnyKernel3 ZIP that contains no kernel.
+279 of 311 device cards currently have no prebuilt kernel file. These need a real device build: a matching defconfig, a working toolchain and kernel branch, and a product/vendor setup. They must not be replaced with a generic AnyKernel3 ZIP that contains no kernel.
 
 Examples:
 
 - Galaxy Note 3 (`hlte`): 17 kernel record(s), 0 prebuilt files
 - Galaxy S5 (`klte`): 17 kernel record(s), 0 prebuilt files
-- Unknown (`unknown`): 14 kernel record(s), 0 prebuilt files
+- Generic GKI kernel (`gki`): 14 kernel record(s), 0 prebuilt files
 - Redmi Note 8 Pro (`begonia`): 10 kernel record(s), 0 prebuilt files
 - OnePlus 3 / 3T (`oneplus3`): 9 kernel record(s), 0 prebuilt files
 - Galaxy S20 FE 5G (`r8q`): 8 kernel record(s), 0 prebuilt files

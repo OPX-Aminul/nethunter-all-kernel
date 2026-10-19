@@ -1,4 +1,4 @@
-> Status: this report covers the first expansion pass (548 rows). A later deep-search pass added 89 device records and corrected several mappings. Current totals: 640 rows, 487 source repositories, 313 canonical device cards. See `docs/nethunter-deep-search-report.md`.
+> Status: this report covers the first expansion pass (548 rows). A later deep-search pass added 89 device records and corrected several mappings. Current totals: 640 rows, 487 source repositories, 311 canonical device cards. See `docs/nethunter-deep-search-report.md`.
 
 # NetHunter Expansion Report
 

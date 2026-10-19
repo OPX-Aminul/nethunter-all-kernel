@@ -10,7 +10,7 @@ The project collects public kernel sources, release binaries, installation notes
 
 | Metric | Count |
 |---|---:|
-| Device cards on the website | 313 |
+| Device cards on the website | 311 |
 | Kernel records in the master dataset | 640 |
 | Unique source repositories | 487 |
 | Device cards with at least one direct file | 32 |

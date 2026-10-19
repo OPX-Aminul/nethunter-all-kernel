@@ -14,7 +14,7 @@ The website keeps those states separate. A source link is not a download, and a 
 - 36 records have a direct developer ZIP/IMG/archive.
 - 604 records are source-only or release-only with no kernel file.
 - 32 device cards have at least one prebuilt file.
-- 281 device cards have no prebuilt file.
+- 279 device cards have no prebuilt file.
 
 The full per-device table is in `data/device_availability.csv` and `docs/nethunter-release-audit.md`. The source-only queue is `data/build_queue.csv`.
 

@@ -9,7 +9,7 @@ Discover and document publicly verifiable Android kernels and kernel ports that 
 
 | Mission deliverable | Result |
 |---|---|
-| 1. Device-by-device catalog | `docs/nethunter-final-catalog.md` and `data/nethunter_device_catalog.csv` (343 device/codename groups; 313 canonical cards on the site) |
+| 1. Device-by-device catalog | `docs/nethunter-final-catalog.md` and `data/nethunter_device_catalog.csv` (343 device/codename groups; 311 canonical cards on the site) |
 | 2. Obscure/independent projects | `docs/nethunter-independent-kernels.md` and `docs/nethunter-hidden-ports.md`; 310 deduplicated community kernel projects plus 55 per-device search discoveries |
 | 3. Feature compatibility matrix | `docs/nethunter-feature-matrix.md` and `data/nethunter_feature_matrix.csv` |
 | 4. Kernels with boot evidence | `docs/nethunter-evidence-lists.md`; 0 independently verified, 19 developer-reported, 4 reported not booting |
@@ -27,7 +27,7 @@ Discover and document publicly verifiable Android kernels and kernel ports that 
 | Community kernel projects in master | 310 |
 | Device-level GitHub search discoveries | 55 |
 | Total kernel rows | 640 |
-| Canonical device cards on the site | 313 |
+| Canonical device cards on the site | 311 |
 | Unique source repositories on the site | 487 |
 | Independent verified boot reports | 0 |
 | Developer-reported boot rows | 19 |
@@ -36,7 +36,7 @@ Discover and document publicly verifiable Android kernels and kernel ports that 
 | Boot status not verified | 598 |
 | Rows with a direct ZIP/IMG/archive file | 36 |
 | Kernels with no prebuilt file (build queue) | 604 |
-| Device cards with no prebuilt kernel | 281 |
+| Device cards with no prebuilt kernel | 279 |
 | Mirrored releases in the repository | 70 |
 | Mirrored developer assets | 170 |
 | Source confirmed (official registry) | 266 |

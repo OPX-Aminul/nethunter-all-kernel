@@ -309,7 +309,11 @@ def clean_device(name, manufacturer, codename):
     n = re.sub(r'\s*\(([^)]*)\)\s*$', _paren, n).strip()
     if codename and codename != 'Unknown':
         n = re.sub(r'\s+' + re.escape(codename) + r'$', '', n, flags=re.I).strip()
-    return re.sub(r'\s+', ' ', n) or 'Unknown'
+    n = re.sub(r'\s+', ' ', n) or 'Unknown'
+    if manufacturer and manufacturer.lower() != 'unknown' and manufacturer.lower() not in n.lower():
+        if re.match(r'^\d', n) or len(n) <= 3:
+            n = f'{manufacturer} {n}'
+    return n
 
 def group_name(n):
     return re.sub(r'\s*\([^)]*\)', '', n or '').strip().lower()
@@ -319,6 +323,9 @@ display = {}
 for r in rows:
     codename = (r.get('codename') or 'Unknown').lower()
     name = clean_device(r.get('device_name'), r.get('manufacturer'), codename)
+    if name.lower() == 'unknown' and codename == 'unknown':
+        name = 'Generic GKI kernel'
+        codename = 'gki'
     key = (group_name(name), codename)
     display.setdefault(key, name)
     groups[key].append(r)
