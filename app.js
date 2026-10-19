@@ -333,7 +333,7 @@
     $('#generated').textContent = DATA.generated;
   }
 
-  fetch('data.json')
+  fetch('data.json?v=20261019d')
     .then((r) => { if (!r.ok) throw new Error('data load failed'); return r.json(); })
     .then((data) => {
       DATA = data;
