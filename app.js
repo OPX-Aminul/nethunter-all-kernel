@@ -211,6 +211,7 @@
           <span><b>Android:</b> ${esc(v.android || 'Unknown')}</span>
         </div>
         ${v.hasFile ? '<div class="buildflag ok">Developer-built file available</div>' : '<div class="buildflag pending">No developer ZIP/IMG - source build required</div>'}
+        ${(v.releaseTags && v.releaseTags.length) ? `<div class="vfeat">${v.releaseTags.map((t) => `<span class="tag">tag: ${esc(t)}</span>`).join('')}</div>` : ''}
         ${fileChips ? `<div class="vfeat">${fileChips}</div>` : ''}
         ${methods ? `<div class="vfeat">${methods}</div>` : ''}
         ${feat}
