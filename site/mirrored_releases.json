@@ -1,7 +1,466 @@
 {
-  "generated": "2026-10-19T20:18:46+00:00",
+  "generated": "2026-10-19T20:31:46+00:00",
   "repo": "OPX-Aminul/nethunter-all-kernel",
   "releases": [
+    {
+      "tag": "nh-a51-vsthunterkernel-v2-0-alpha4",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-a51-vsthunterkernel-v2-0-alpha4",
+      "codename": "a51",
+      "device": "Galaxy",
+      "developer": "ValentinStars",
+      "kernel": "vsthunterkernel",
+      "upstream_tag": "v2.0-Alpha4",
+      "asset_map": {
+        "https://github.com/ValentinStars/VSTHunterKernel/releases/download/v2.0-Alpha4/02_VST_WireGuard_Toolkit.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-a51-vsthunterkernel-v2-0-alpha4/02_VST_WireGuard_Toolkit.zip",
+        "https://github.com/ValentinStars/VSTHunterKernel/releases/download/v2.0-Alpha4/00_VST_NetHunter_SD_AutoFix.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-a51-vsthunterkernel-v2-0-alpha4/00_VST_NetHunter_SD_AutoFix.zip",
+        "https://github.com/ValentinStars/VSTHunterKernel/releases/download/v2.0-Alpha4/01_VST_BadUSB_NetHunter_Arsenal.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-a51-vsthunterkernel-v2-0-alpha4/01_VST_BadUSB_NetHunter_Arsenal.zip",
+        "https://github.com/ValentinStars/VSTHunterKernel/releases/download/v2.0-Alpha4/04_VST_SDR_Radio_Hacker.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-a51-vsthunterkernel-v2-0-alpha4/04_VST_SDR_Radio_Hacker.zip",
+        "https://github.com/ValentinStars/VSTHunterKernel/releases/download/v2.0-Alpha4/05_VST_Hardware_Hacking_CAN.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-a51-vsthunterkernel-v2-0-alpha4/05_VST_Hardware_Hacking_CAN.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/ValentinStars/VSTHunterKernel/releases/download/v2.0-Alpha4/02_VST_WireGuard_Toolkit.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-a51-vsthunterkernel-v2-0-alpha4/02_VST_WireGuard_Toolkit.zip"
+        },
+        {
+          "source_url": "https://github.com/ValentinStars/VSTHunterKernel/releases/download/v2.0-Alpha4/00_VST_NetHunter_SD_AutoFix.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-a51-vsthunterkernel-v2-0-alpha4/00_VST_NetHunter_SD_AutoFix.zip"
+        },
+        {
+          "source_url": "https://github.com/ValentinStars/VSTHunterKernel/releases/download/v2.0-Alpha4/01_VST_BadUSB_NetHunter_Arsenal.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-a51-vsthunterkernel-v2-0-alpha4/01_VST_BadUSB_NetHunter_Arsenal.zip"
+        },
+        {
+          "source_url": "https://github.com/ValentinStars/VSTHunterKernel/releases/download/v2.0-Alpha4/04_VST_SDR_Radio_Hacker.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-a51-vsthunterkernel-v2-0-alpha4/04_VST_SDR_Radio_Hacker.zip"
+        },
+        {
+          "source_url": "https://github.com/ValentinStars/VSTHunterKernel/releases/download/v2.0-Alpha4/05_VST_Hardware_Hacking_CAN.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-a51-vsthunterkernel-v2-0-alpha4/05_VST_Hardware_Hacking_CAN.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-a51-vsthunterkernel-v2-0-alpha5",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-a51-vsthunterkernel-v2-0-alpha5",
+      "codename": "a51",
+      "device": "Galaxy",
+      "developer": "ValentinStars",
+      "kernel": "vsthunterkernel",
+      "upstream_tag": "v2.0-Alpha5",
+      "asset_map": {
+        "https://github.com/ValentinStars/VSTHunterKernel/releases/download/v2.0-Alpha5/VSTHunterKernel-A51-NetHunter-VST-Alpha5.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-a51-vsthunterkernel-v2-0-alpha5/VSTHunterKernel-A51-NetHunter-VST-Alpha5.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/ValentinStars/VSTHunterKernel/releases/download/v2.0-Alpha5/VSTHunterKernel-A51-NetHunter-VST-Alpha5.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-a51-vsthunterkernel-v2-0-alpha5/VSTHunterKernel-A51-NetHunter-VST-Alpha5.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-a51-vsthunterkernel-v2-0-alpha5-1",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-a51-vsthunterkernel-v2-0-alpha5-1",
+      "codename": "a51",
+      "device": "Galaxy",
+      "developer": "ValentinStars",
+      "kernel": "vsthunterkernel",
+      "upstream_tag": "v2.0-Alpha5.1",
+      "asset_map": {
+        "https://github.com/ValentinStars/VSTHunterKernel/releases/download/v2.0-Alpha5.1/VST-NetHunter-Terminal-Fix-Alpha5.1-r2.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-a51-vsthunterkernel-v2-0-alpha5-1/VST-NetHunter-Terminal-Fix-Alpha5.1-r2.zip",
+        "https://github.com/ValentinStars/VSTHunterKernel/releases/download/v2.0-Alpha5.1/VST-NetHunter-Terminal-Fix-Alpha5.1-r3.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-a51-vsthunterkernel-v2-0-alpha5-1/VST-NetHunter-Terminal-Fix-Alpha5.1-r3.zip",
+        "https://github.com/ValentinStars/VSTHunterKernel/releases/download/v2.0-Alpha5.1/VSTHunterKernel-A51-NetHunter-VST-Alpha5.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-a51-vsthunterkernel-v2-0-alpha5-1/VSTHunterKernel-A51-NetHunter-VST-Alpha5.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/ValentinStars/VSTHunterKernel/releases/download/v2.0-Alpha5.1/VST-NetHunter-Terminal-Fix-Alpha5.1-r2.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-a51-vsthunterkernel-v2-0-alpha5-1/VST-NetHunter-Terminal-Fix-Alpha5.1-r2.zip"
+        },
+        {
+          "source_url": "https://github.com/ValentinStars/VSTHunterKernel/releases/download/v2.0-Alpha5.1/VST-NetHunter-Terminal-Fix-Alpha5.1-r3.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-a51-vsthunterkernel-v2-0-alpha5-1/VST-NetHunter-Terminal-Fix-Alpha5.1-r3.zip"
+        },
+        {
+          "source_url": "https://github.com/ValentinStars/VSTHunterKernel/releases/download/v2.0-Alpha5.1/VSTHunterKernel-A51-NetHunter-VST-Alpha5.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-a51-vsthunterkernel-v2-0-alpha5-1/VSTHunterKernel-A51-NetHunter-VST-Alpha5.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-a71-a71-nethunter-release",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-a71-a71-nethunter-release",
+      "codename": "a71",
+      "device": "Galaxy",
+      "developer": "Nougat-User",
+      "kernel": "a71 nethunter",
+      "upstream_tag": "release",
+      "asset_map": {
+        "https://github.com/Nougat-User/a71_nethunter/releases/download/release/gnus-kernel.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-a71-a71-nethunter-release/gnus-kernel.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/Nougat-User/a71_nethunter/releases/download/release/gnus-kernel.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-a71-a71-nethunter-release/gnus-kernel.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-a52q-samsung-kernel-sm7125-1-6-2024-lineage-21",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-a52q-samsung-kernel-sm7125-1-6-2024-lineage-21",
+      "codename": "a52q",
+      "device": "Galaxy A52",
+      "developer": "AzeAstro",
+      "kernel": "samsung kernel sm7125",
+      "upstream_tag": "1-6-2024-Lineage-21",
+      "asset_map": {
+        "https://github.com/AzeAstro/samsung_kernel_sm7125/releases/download/1-6-2024-Lineage-21/Kernel.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-a52q-samsung-kernel-sm7125-1-6-2024-lineage-21/Kernel.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/AzeAstro/samsung_kernel_sm7125/releases/download/1-6-2024-Lineage-21/Kernel.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-a52q-samsung-kernel-sm7125-1-6-2024-lineage-21/Kernel.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-a52q-samsung-kernel-sm7125-5-6-2024-a525fxxu6ewl3",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-a52q-samsung-kernel-sm7125-5-6-2024-a525fxxu6ewl3",
+      "codename": "a52q",
+      "device": "Galaxy A52",
+      "developer": "AzeAstro",
+      "kernel": "samsung kernel sm7125",
+      "upstream_tag": "5-6-2024-A525FXXU6EWL3",
+      "asset_map": {
+        "https://github.com/AzeAstro/samsung_kernel_sm7125/releases/download/5-6-2024-A525FXXU6EWL3/Kernel.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-a52q-samsung-kernel-sm7125-5-6-2024-a525fxxu6ewl3/Kernel.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/AzeAstro/samsung_kernel_sm7125/releases/download/5-6-2024-A525FXXU6EWL3/Kernel.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-a52q-samsung-kernel-sm7125-5-6-2024-a525fxxu6ewl3/Kernel.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-a52q-samsung-kernel-sm7125-9-5-2024-lineage-20",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-a52q-samsung-kernel-sm7125-9-5-2024-lineage-20",
+      "codename": "a52q",
+      "device": "Galaxy A52",
+      "developer": "AzeAstro",
+      "kernel": "samsung kernel sm7125",
+      "upstream_tag": "9-5-2024-Lineage-20",
+      "asset_map": {
+        "https://github.com/AzeAstro/samsung_kernel_sm7125/releases/download/9-5-2024-Lineage-20/Kernel.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-a52q-samsung-kernel-sm7125-9-5-2024-lineage-20/Kernel.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/AzeAstro/samsung_kernel_sm7125/releases/download/9-5-2024-Lineage-20/Kernel.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-a52q-samsung-kernel-sm7125-9-5-2024-lineage-20/Kernel.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-tblte-noteedge-nethunter-kernel-0-1b",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-tblte-noteedge-nethunter-kernel-0-1b",
+      "codename": "tblte",
+      "device": "Galaxy Note Edge",
+      "developer": "xNNism",
+      "kernel": "noteedge nethunter kernel",
+      "upstream_tag": "0.1b",
+      "asset_map": {
+        "https://github.com/xNNism/NoteEdge-Nethunter_Kernel/releases/download/0.1b/Nethunter_Kernel-tblte-0.1b_20170228.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-tblte-noteedge-nethunter-kernel-0-1b/Nethunter_Kernel-tblte-0.1b_20170228.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/xNNism/NoteEdge-Nethunter_Kernel/releases/download/0.1b/Nethunter_Kernel-tblte-0.1b_20170228.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-tblte-noteedge-nethunter-kernel-0-1b/Nethunter_Kernel-tblte-0.1b_20170228.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-z3s-s20-nethunter-port-v1-0-0",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-z3s-s20-nethunter-port-v1-0-0",
+      "codename": "z3s",
+      "device": "Galaxy S20 Ultra",
+      "developer": "stanleysvk87",
+      "kernel": "s20 nethunter port",
+      "upstream_tag": "v1.0.0",
+      "asset_map": {
+        "https://github.com/stanleysvk87/s20-nethunter-port/releases/download/v1.0.0/boot-z3s-dexfix-RUNNING.img": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-z3s-s20-nethunter-port-v1-0-0/boot-z3s-dexfix-RUNNING.img",
+        "https://github.com/stanleysvk87/s20-nethunter-port/releases/download/v1.0.0/boot-z3s-lineage23.2-nethunter-config-only.img": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-z3s-s20-nethunter-port-v1-0-0/boot-z3s-lineage23.2-nethunter-config-only.img",
+        "https://github.com/stanleysvk87/s20-nethunter-port/releases/download/v1.0.0/boot-z3s-lineage23.2-nethunter-magisk-v30.7.img": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-z3s-s20-nethunter-port-v1-0-0/boot-z3s-lineage23.2-nethunter-magisk-v30.7.img"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/stanleysvk87/s20-nethunter-port/releases/download/v1.0.0/boot-z3s-dexfix-RUNNING.img",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-z3s-s20-nethunter-port-v1-0-0/boot-z3s-dexfix-RUNNING.img"
+        },
+        {
+          "source_url": "https://github.com/stanleysvk87/s20-nethunter-port/releases/download/v1.0.0/boot-z3s-lineage23.2-nethunter-config-only.img",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-z3s-s20-nethunter-port-v1-0-0/boot-z3s-lineage23.2-nethunter-config-only.img"
+        },
+        {
+          "source_url": "https://github.com/stanleysvk87/s20-nethunter-port/releases/download/v1.0.0/boot-z3s-lineage23.2-nethunter-magisk-v30.7.img",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-z3s-s20-nethunter-port-v1-0-0/boot-z3s-lineage23.2-nethunter-magisk-v30.7.img"
+        }
+      ]
+    },
+    {
+      "tag": "nh-sm-x115-nethunter-kernel-smx115-v1-0-dtbo",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-sm-x115-nethunter-kernel-smx115-v1-0-dtbo",
+      "codename": "sm-x115",
+      "device": "Galaxy Tab A9 LTE",
+      "developer": "Anmol6002",
+      "kernel": "nethunter kernel smx115",
+      "upstream_tag": "v1.0-dtbo",
+      "asset_map": {
+        "https://github.com/Anmol6002/nethunter-kernel-smx115/releases/download/v1.0-dtbo/dtbo.img": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-sm-x115-nethunter-kernel-smx115-v1-0-dtbo/dtbo.img"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/Anmol6002/nethunter-kernel-smx115/releases/download/v1.0-dtbo/dtbo.img",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-sm-x115-nethunter-kernel-smx115-v1-0-dtbo/dtbo.img"
+        }
+      ]
+    },
+    {
+      "tag": "nh-lv517-nethunter-k20plus-kernel-v1-0",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-lv517-nethunter-k20plus-kernel-v1-0",
+      "codename": "lv517",
+      "device": "K20 Plus",
+      "developer": "robnew",
+      "kernel": "nethunter k20plus kernel",
+      "upstream_tag": "v1.0",
+      "asset_map": {
+        "https://github.com/robnew/NetHunter_K20plus_Kernel/releases/download/v1.0/NetHunter_K20plus_Kernel-master.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-lv517-nethunter-k20plus-kernel-v1-0/NetHunter_K20plus_Kernel-master.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/robnew/NetHunter_K20plus_Kernel/releases/download/v1.0/NetHunter_K20plus_Kernel-master.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-lv517-nethunter-k20plus-kernel-v1-0/NetHunter_K20plus_Kernel-master.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-lv517-nethunter-k20plus-kernel-v2-0-bt",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-lv517-nethunter-k20plus-kernel-v2-0-bt",
+      "codename": "lv517",
+      "device": "K20 Plus",
+      "developer": "robnew",
+      "kernel": "nethunter k20plus kernel",
+      "upstream_tag": "v2.0-BT",
+      "asset_map": {
+        "https://github.com/robnew/NetHunter_K20plus_Kernel/releases/download/v2.0-BT/Nethunter_K20plus_kernel-BT.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-lv517-nethunter-k20plus-kernel-v2-0-bt/Nethunter_K20plus_kernel-BT.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/robnew/NetHunter_K20plus_Kernel/releases/download/v2.0-BT/Nethunter_K20plus_kernel-BT.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-lv517-nethunter-k20plus-kernel-v2-0-bt/Nethunter_K20plus_kernel-BT.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-cepheus-mi-9-cepheus-kali-nethunter-setup-fifteen",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-cepheus-mi-9-cepheus-kali-nethunter-setup-fifteen",
+      "codename": "cepheus",
+      "device": "Mi 9",
+      "developer": "k0d14k",
+      "kernel": "mi 9 cepheus kali nethunter setup",
+      "upstream_tag": "fifteen",
+      "asset_map": {
+        "https://github.com/k0d14k/mi_9_cepheus_kali_nethunter_setup/releases/download/fifteen/anykernel-k0d14k-cepheus-nh.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-cepheus-mi-9-cepheus-kali-nethunter-setup-fifteen/anykernel-k0d14k-cepheus-nh.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/k0d14k/mi_9_cepheus_kali_nethunter_setup/releases/download/fifteen/anykernel-k0d14k-cepheus-nh.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-cepheus-mi-9-cepheus-kali-nethunter-setup-fifteen/anykernel-k0d14k-cepheus-nh.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-doha-android-kernel-motorola-doha-nethunt-v1-0-0-beta-1",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-doha-android-kernel-motorola-doha-nethunt-v1-0-0-beta-1",
+      "codename": "doha",
+      "device": "Moto G8 Plus",
+      "developer": "harshmukhija699-hash",
+      "kernel": "android kernel motorola doha nethunter",
+      "upstream_tag": "v1.0.0-beta.1",
+      "asset_map": {
+        "https://github.com/harshmukhija699-hash/android_kernel_motorola_doha_nethunter/releases/download/v1.0.0-beta.1/doha-nethunter-v1.0.0-beta.1-boot.img": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-doha-android-kernel-motorola-doha-nethunt-v1-0-0-beta-1/doha-nethunter-v1.0.0-beta.1-boot.img",
+        "https://github.com/harshmukhija699-hash/android_kernel_motorola_doha_nethunter/releases/download/v1.0.0-beta.1/doha-nethunter-v1.0.0-beta.1-drivers-magisk.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-doha-android-kernel-motorola-doha-nethunt-v1-0-0-beta-1/doha-nethunter-v1.0.0-beta.1-drivers-magisk.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/harshmukhija699-hash/android_kernel_motorola_doha_nethunter/releases/download/v1.0.0-beta.1/doha-nethunter-v1.0.0-beta.1-boot.img",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-doha-android-kernel-motorola-doha-nethunt-v1-0-0-beta-1/doha-nethunter-v1.0.0-beta.1-boot.img"
+        },
+        {
+          "source_url": "https://github.com/harshmukhija699-hash/android_kernel_motorola_doha_nethunter/releases/download/v1.0.0-beta.1/doha-nethunter-v1.0.0-beta.1-drivers-magisk.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-doha-android-kernel-motorola-doha-nethunt-v1-0-0-beta-1/doha-nethunter-v1.0.0-beta.1-drivers-magisk.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-instantnoodle-android-kernel-oneplus-sm8250-neternels-1-0",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-instantnoodle-android-kernel-oneplus-sm8250-neternels-1-0",
+      "codename": "instantnoodle",
+      "device": "OnePlus 8",
+      "developer": "Neternels",
+      "kernel": "android kernel oneplus sm8250",
+      "upstream_tag": "NetErnels-1.0",
+      "asset_map": {
+        "https://github.com/Neternels/android_kernel_oneplus_sm8250/releases/download/NetErnels-1.0/NetErnels-unified_op8-4.19.202-signed.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-instantnoodle-android-kernel-oneplus-sm8250-neternels-1-0/NetErnels-unified_op8-4.19.202-signed.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/Neternels/android_kernel_oneplus_sm8250/releases/download/NetErnels-1.0/NetErnels-unified_op8-4.19.202-signed.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-instantnoodle-android-kernel-oneplus-sm8250-neternels-1-0/NetErnels-unified_op8-4.19.202-signed.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-instantnoodle-android-kernel-oneplus-sm8250-neternels-1-1-hotfix",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-instantnoodle-android-kernel-oneplus-sm8250-neternels-1-1-hotfix",
+      "codename": "instantnoodle",
+      "device": "OnePlus 8",
+      "developer": "Neternels",
+      "kernel": "android kernel oneplus sm8250",
+      "upstream_tag": "NetErnels-1.1-hotfix",
+      "asset_map": {
+        "https://github.com/Neternels/android_kernel_oneplus_sm8250/releases/download/NetErnels-1.1-hotfix/NetErnels-unified_op8-4.19.202-signed-v1.1-hotfix.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-instantnoodle-android-kernel-oneplus-sm8250-neternels-1-1-hotfix/NetErnels-unified_op8-4.19.202-signed-v1.1-hotfix.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/Neternels/android_kernel_oneplus_sm8250/releases/download/NetErnels-1.1-hotfix/NetErnels-unified_op8-4.19.202-signed-v1.1-hotfix.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-instantnoodle-android-kernel-oneplus-sm8250-neternels-1-1-hotfix/NetErnels-unified_op8-4.19.202-signed-v1.1-hotfix.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-instantnoodlep-android-kernel-oneplus-sm8250-neternels-1-0",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-instantnoodlep-android-kernel-oneplus-sm8250-neternels-1-0",
+      "codename": "instantnoodlep",
+      "device": "OnePlus 8 Pro",
+      "developer": "Neternels",
+      "kernel": "android kernel oneplus sm8250",
+      "upstream_tag": "NetErnels-1.0",
+      "asset_map": {
+        "https://github.com/Neternels/android_kernel_oneplus_sm8250/releases/download/NetErnels-1.0/NetErnels-unified_op8-4.19.202-signed.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-instantnoodlep-android-kernel-oneplus-sm8250-neternels-1-0/NetErnels-unified_op8-4.19.202-signed.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/Neternels/android_kernel_oneplus_sm8250/releases/download/NetErnels-1.0/NetErnels-unified_op8-4.19.202-signed.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-instantnoodlep-android-kernel-oneplus-sm8250-neternels-1-0/NetErnels-unified_op8-4.19.202-signed.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-instantnoodlep-android-kernel-oneplus-sm8250-neternels-1-1-hotfix",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-instantnoodlep-android-kernel-oneplus-sm8250-neternels-1-1-hotfix",
+      "codename": "instantnoodlep",
+      "device": "OnePlus 8 Pro",
+      "developer": "Neternels",
+      "kernel": "android kernel oneplus sm8250",
+      "upstream_tag": "NetErnels-1.1-hotfix",
+      "asset_map": {
+        "https://github.com/Neternels/android_kernel_oneplus_sm8250/releases/download/NetErnels-1.1-hotfix/NetErnels-unified_op8-4.19.202-signed-v1.1-hotfix.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-instantnoodlep-android-kernel-oneplus-sm8250-neternels-1-1-hotfix/NetErnels-unified_op8-4.19.202-signed-v1.1-hotfix.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/Neternels/android_kernel_oneplus_sm8250/releases/download/NetErnels-1.1-hotfix/NetErnels-unified_op8-4.19.202-signed-v1.1-hotfix.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-instantnoodlep-android-kernel-oneplus-sm8250-neternels-1-1-hotfix/NetErnels-unified_op8-4.19.202-signed-v1.1-hotfix.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-billie-oneplus-nord-n10-kali-nethunter-v1-0",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-billie-oneplus-nord-n10-kali-nethunter-v1-0",
+      "codename": "billie",
+      "device": "OnePlus Nord N10 5G",
+      "developer": "jose-dev-tools",
+      "kernel": "OnePlus Nord N10 Kali NetHunter",
+      "upstream_tag": "v1.0",
+      "asset_map": {
+        "https://github.com/jose-dev-tools/OnePlus-Nord-N10-Kali-NetHunter/releases/download/v1.0/magisk_patched-30700_HOwgT.img": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-billie-oneplus-nord-n10-kali-nethunter-v1-0/magisk_patched-30700_HOwgT.img"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/jose-dev-tools/OnePlus-Nord-N10-Kali-NetHunter/releases/download/v1.0/magisk_patched-30700_HOwgT.img",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-billie-oneplus-nord-n10-kali-nethunter-v1-0/magisk_patched-30700_HOwgT.img"
+        }
+      ]
+    },
+    {
+      "tag": "nh-dre-nethunter-kernel-nord-ac2001-nord-hunter",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-dre-nethunter-kernel-nord-ac2001-nord-hunter",
+      "codename": "dre",
+      "device": "OnePlus Nord N200 5G",
+      "developer": "Retardog",
+      "kernel": "nethunter kernel nord ac2001",
+      "upstream_tag": "Nord_Hunter",
+      "asset_map": {
+        "https://github.com/Retardog/Nethunter_Kernel_Nord_AC2001/releases/download/Nord_Hunter/MadDog_Nord_Official.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-dre-nethunter-kernel-nord-ac2001-nord-hunter/MadDog_Nord_Official.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/Retardog/Nethunter_Kernel_Nord_AC2001/releases/download/Nord_Hunter/MadDog_Nord_Official.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-dre-nethunter-kernel-nord-ac2001-nord-hunter/MadDog_Nord_Official.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-ingres-avalon-ingres-v1-0-0",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-ingres-avalon-ingres-v1-0-0",
+      "codename": "ingres",
+      "device": "POCO F4 GT",
+      "developer": "ruik3z",
+      "kernel": "avalon ingres",
+      "upstream_tag": "v1.0.0",
+      "asset_map": {
+        "https://github.com/ruik3z/avalon-ingres/releases/download/v1.0.0/boot.img": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-ingres-avalon-ingres-v1-0-0/boot.img"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/ruik3z/avalon-ingres/releases/download/v1.0.0/boot.img",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-ingres-avalon-ingres-v1-0-0/boot.img"
+        }
+      ]
+    },
+    {
+      "tag": "nh-marble-kernel-xiaomi-sm8450-v1",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-marble-kernel-xiaomi-sm8450-v1",
+      "codename": "marble",
+      "device": "POCO F5",
+      "developer": "PARADOX-X20",
+      "kernel": "kernel xiaomi sm8450",
+      "upstream_tag": "V1",
+      "asset_map": {
+        "https://github.com/PARADOX-X20/kernel_xiaomi_sm8450/releases/download/V1/NetKernel-1.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-marble-kernel-xiaomi-sm8450-v1/NetKernel-1.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/PARADOX-X20/kernel_xiaomi_sm8450/releases/download/V1/NetKernel-1.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-marble-kernel-xiaomi-sm8450-v1/NetKernel-1.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-marble-kernel-xiaomi-sm8450-v2",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-marble-kernel-xiaomi-sm8450-v2",
+      "codename": "marble",
+      "device": "POCO F5",
+      "developer": "PARADOX-X20",
+      "kernel": "kernel xiaomi sm8450",
+      "upstream_tag": "V2",
+      "asset_map": {
+        "https://github.com/PARADOX-X20/kernel_xiaomi_sm8450/releases/download/V2/NetKernel-V2.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-marble-kernel-xiaomi-sm8450-v2/NetKernel-V2.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/PARADOX-X20/kernel_xiaomi_sm8450/releases/download/V2/NetKernel-V2.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-marble-kernel-xiaomi-sm8450-v2/NetKernel-V2.zip"
+        }
+      ]
+    },
     {
       "tag": "nh-gram-kernel-xiaomi-sm6250-openela-v4-14-339",
       "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-gram-kernel-xiaomi-sm6250-openela-v4-14-339",
@@ -11,32 +470,32 @@
       "kernel": "kernel xiaomi sm6250",
       "upstream_tag": "openela-v4.14.339",
       "asset_map": {
-        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-extremev5-Nethunter-KSU-4.14.339%2Bopenela-miatoll-16032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-extremev5-Nethunter-KSU-4.14.339%2Bopenela-miatoll-16032024.zip",
-        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-4.14.339%2Bopenela-miatoll-16032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-4.14.339%2Bopenela-miatoll-16032024.zip",
-        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-HyperOS_MIUI-4.14.339%2Bopenela-miatoll-16032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-HyperOS_MIUI-4.14.339%2Bopenela-miatoll-16032024.zip",
-        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-HyperOS_MIUI-KSU-4.14.339%2Bopenela-miatoll-16032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-HyperOS_MIUI-KSU-4.14.339%2Bopenela-miatoll-16032024.zip",
-        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-KSU-4.14.339%2Bopenela-miatoll-16032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-KSU-4.14.339%2Bopenela-miatoll-16032024.zip"
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-extremev5-Nethunter-KSU-4.14.339%2Bopenela-miatoll-16032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-openela-v4-14-339/gram-kinesis-extremev5-Nethunter-KSU-4.14.339%2Bopenela-miatoll-16032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-4.14.339%2Bopenela-miatoll-16032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-openela-v4-14-339/gram-kinesis-r11.0-4.14.339%2Bopenela-miatoll-16032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-HyperOS_MIUI-4.14.339%2Bopenela-miatoll-16032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-openela-v4-14-339/gram-kinesis-r11.0-HyperOS_MIUI-4.14.339%2Bopenela-miatoll-16032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-HyperOS_MIUI-KSU-4.14.339%2Bopenela-miatoll-16032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-openela-v4-14-339/gram-kinesis-r11.0-HyperOS_MIUI-KSU-4.14.339%2Bopenela-miatoll-16032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-KSU-4.14.339%2Bopenela-miatoll-16032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-openela-v4-14-339/gram-kinesis-r11.0-KSU-4.14.339%2Bopenela-miatoll-16032024.zip"
       },
       "assets": [
         {
           "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-extremev5-Nethunter-KSU-4.14.339%2Bopenela-miatoll-16032024.zip",
-          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-extremev5-Nethunter-KSU-4.14.339%2Bopenela-miatoll-16032024.zip"
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-openela-v4-14-339/gram-kinesis-extremev5-Nethunter-KSU-4.14.339%2Bopenela-miatoll-16032024.zip"
         },
         {
           "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-4.14.339%2Bopenela-miatoll-16032024.zip",
-          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-4.14.339%2Bopenela-miatoll-16032024.zip"
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-openela-v4-14-339/gram-kinesis-r11.0-4.14.339%2Bopenela-miatoll-16032024.zip"
         },
         {
           "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-HyperOS_MIUI-4.14.339%2Bopenela-miatoll-16032024.zip",
-          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-HyperOS_MIUI-4.14.339%2Bopenela-miatoll-16032024.zip"
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-openela-v4-14-339/gram-kinesis-r11.0-HyperOS_MIUI-4.14.339%2Bopenela-miatoll-16032024.zip"
         },
         {
           "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-HyperOS_MIUI-KSU-4.14.339%2Bopenela-miatoll-16032024.zip",
-          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-HyperOS_MIUI-KSU-4.14.339%2Bopenela-miatoll-16032024.zip"
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-openela-v4-14-339/gram-kinesis-r11.0-HyperOS_MIUI-KSU-4.14.339%2Bopenela-miatoll-16032024.zip"
         },
         {
           "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-KSU-4.14.339%2Bopenela-miatoll-16032024.zip",
-          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-KSU-4.14.339%2Bopenela-miatoll-16032024.zip"
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-openela-v4-14-339/gram-kinesis-r11.0-KSU-4.14.339%2Bopenela-miatoll-16032024.zip"
         }
       ]
     },
@@ -49,12 +508,12 @@
       "kernel": "kernel xiaomi sm6250",
       "upstream_tag": "v4.14.336",
       "asset_map": {
-        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336/kinesis-EX-4.14.336-miatoll-12012024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336/kinesis-EX-4.14.336-miatoll-12012024.zip"
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336/kinesis-EX-4.14.336-miatoll-12012024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336/gram-kinesis-EX-4.14.336-miatoll-12012024.zip"
       },
       "assets": [
         {
           "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336/kinesis-EX-4.14.336-miatoll-12012024.zip",
-          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336/kinesis-EX-4.14.336-miatoll-12012024.zip"
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336/gram-kinesis-EX-4.14.336-miatoll-12012024.zip"
         }
       ]
     },
@@ -67,32 +526,32 @@
       "kernel": "kernel xiaomi sm6250",
       "upstream_tag": "v4.14.336+3",
       "asset_map": {
-        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-01032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-01032024.zip",
-        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-01032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-01032024.zip",
-        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-01032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-01032024.zip",
-        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-KSU-4.14.336%2B3-miatoll-01032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-KSU-4.14.336%2B3-miatoll-01032024.zip",
-        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-NONKSU-4.14.336%2B3-miatoll-01032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-NONKSU-4.14.336%2B3-miatoll-01032024.zip"
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-01032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3/gram-kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-01032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-01032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3/gram-kinesis-r9.9-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-01032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-01032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3/gram-kinesis-r9.9-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-01032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-KSU-4.14.336%2B3-miatoll-01032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3/gram-kinesis-r9.9-KSU-4.14.336%2B3-miatoll-01032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-NONKSU-4.14.336%2B3-miatoll-01032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3/gram-kinesis-r9.9-NONKSU-4.14.336%2B3-miatoll-01032024.zip"
       },
       "assets": [
         {
           "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-01032024.zip",
-          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-01032024.zip"
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3/gram-kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-01032024.zip"
         },
         {
           "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-01032024.zip",
-          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-01032024.zip"
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3/gram-kinesis-r9.9-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-01032024.zip"
         },
         {
           "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-01032024.zip",
-          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-01032024.zip"
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3/gram-kinesis-r9.9-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-01032024.zip"
         },
         {
           "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-KSU-4.14.336%2B3-miatoll-01032024.zip",
-          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-KSU-4.14.336%2B3-miatoll-01032024.zip"
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3/gram-kinesis-r9.9-KSU-4.14.336%2B3-miatoll-01032024.zip"
         },
         {
           "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-NONKSU-4.14.336%2B3-miatoll-01032024.zip",
-          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-NONKSU-4.14.336%2B3-miatoll-01032024.zip"
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3/gram-kinesis-r9.9-NONKSU-4.14.336%2B3-miatoll-01032024.zip"
         }
       ]
     },
@@ -105,32 +564,32 @@
       "kernel": "kernel xiaomi sm6250",
       "upstream_tag": "v4.14.336+3v2",
       "asset_map": {
-        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-04032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-04032024.zip",
-        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-04032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-04032024.zip",
-        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-04032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-04032024.zip",
-        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-KSU-4.14.336%2B3-miatoll-04032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-KSU-4.14.336%2B3-miatoll-04032024.zip",
-        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-NONKSU-4.14.336%2B3-miatoll-04032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-NONKSU-4.14.336%2B3-miatoll-04032024.zip"
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-04032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3v2/gram-kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-04032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-04032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3v2/gram-kinesis-r10.0-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-04032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-04032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3v2/gram-kinesis-r10.0-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-04032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-KSU-4.14.336%2B3-miatoll-04032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3v2/gram-kinesis-r10.0-KSU-4.14.336%2B3-miatoll-04032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-NONKSU-4.14.336%2B3-miatoll-04032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3v2/gram-kinesis-r10.0-NONKSU-4.14.336%2B3-miatoll-04032024.zip"
       },
       "assets": [
         {
           "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-04032024.zip",
-          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-04032024.zip"
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3v2/gram-kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-04032024.zip"
         },
         {
           "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-04032024.zip",
-          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-04032024.zip"
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3v2/gram-kinesis-r10.0-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-04032024.zip"
         },
         {
           "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-04032024.zip",
-          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-04032024.zip"
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3v2/gram-kinesis-r10.0-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-04032024.zip"
         },
         {
           "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-KSU-4.14.336%2B3-miatoll-04032024.zip",
-          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-KSU-4.14.336%2B3-miatoll-04032024.zip"
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3v2/gram-kinesis-r10.0-KSU-4.14.336%2B3-miatoll-04032024.zip"
         },
         {
           "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-NONKSU-4.14.336%2B3-miatoll-04032024.zip",
-          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-NONKSU-4.14.336%2B3-miatoll-04032024.zip"
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-3v2/gram-kinesis-r10.0-NONKSU-4.14.336%2B3-miatoll-04032024.zip"
         }
       ]
     },
@@ -143,22 +602,22 @@
       "kernel": "kernel xiaomi sm6250",
       "upstream_tag": "v4.14.336-hotfix-ksu",
       "asset_map": {
-        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336-hotfix-ksu/kinesis-extremev3-Nethunter-KSU-4.14.336-miatoll-11022024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu/kinesis-extremev3-Nethunter-KSU-4.14.336-miatoll-11022024.zip",
-        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336-hotfix-ksu/kinesis-HyperOS_MIUI-KSU-4.14.336-miatoll-11022024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu/kinesis-HyperOS_MIUI-KSU-4.14.336-miatoll-11022024.zip",
-        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336-hotfix-ksu/kinesis-r9.5-4.14.336-miatoll-11022024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu/kinesis-r9.5-4.14.336-miatoll-11022024.zip"
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336-hotfix-ksu/kinesis-extremev3-Nethunter-KSU-4.14.336-miatoll-11022024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu/gram-kinesis-extremev3-Nethunter-KSU-4.14.336-miatoll-11022024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336-hotfix-ksu/kinesis-HyperOS_MIUI-KSU-4.14.336-miatoll-11022024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu/gram-kinesis-HyperOS_MIUI-KSU-4.14.336-miatoll-11022024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336-hotfix-ksu/kinesis-r9.5-4.14.336-miatoll-11022024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu/gram-kinesis-r9.5-4.14.336-miatoll-11022024.zip"
       },
       "assets": [
         {
           "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336-hotfix-ksu/kinesis-extremev3-Nethunter-KSU-4.14.336-miatoll-11022024.zip",
-          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu/kinesis-extremev3-Nethunter-KSU-4.14.336-miatoll-11022024.zip"
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu/gram-kinesis-extremev3-Nethunter-KSU-4.14.336-miatoll-11022024.zip"
         },
         {
           "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336-hotfix-ksu/kinesis-HyperOS_MIUI-KSU-4.14.336-miatoll-11022024.zip",
-          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu/kinesis-HyperOS_MIUI-KSU-4.14.336-miatoll-11022024.zip"
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu/gram-kinesis-HyperOS_MIUI-KSU-4.14.336-miatoll-11022024.zip"
         },
         {
           "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336-hotfix-ksu/kinesis-r9.5-4.14.336-miatoll-11022024.zip",
-          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu/kinesis-r9.5-4.14.336-miatoll-11022024.zip"
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu/gram-kinesis-r9.5-4.14.336-miatoll-11022024.zip"
         }
       ]
     },
@@ -171,32 +630,32 @@
       "kernel": "kernel xiaomi sm6250",
       "upstream_tag": "v4.14.343",
       "asset_map": {
-        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-4.14.343%2Bopenela-miatoll-05052024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-4.14.343%2Bopenela-miatoll-05052024.zip",
-        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-HyperOS_MIUI-4.14.343%2Bopenela-miatoll-05052024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-HyperOS_MIUI-4.14.343%2Bopenela-miatoll-05052024.zip",
-        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-HyperOS_MIUI-KSU-4.14.343%2Bopenela-miatoll-05052024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-HyperOS_MIUI-KSU-4.14.343%2Bopenela-miatoll-05052024.zip",
-        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-KSU-4.14.343%2Bopenela-miatoll-05052024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-KSU-4.14.343%2Bopenela-miatoll-05052024.zip",
-        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-NetHunter-4.14.343%2Bopenela-miatoll-05052024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-NetHunter-4.14.343%2Bopenela-miatoll-05052024.zip"
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-4.14.343%2Bopenela-miatoll-05052024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-343/gram-kinesis-.-r2.1-4.14.343%2Bopenela-miatoll-05052024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-HyperOS_MIUI-4.14.343%2Bopenela-miatoll-05052024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-343/gram-kinesis-.-r2.1-HyperOS_MIUI-4.14.343%2Bopenela-miatoll-05052024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-HyperOS_MIUI-KSU-4.14.343%2Bopenela-miatoll-05052024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-343/gram-kinesis-.-r2.1-HyperOS_MIUI-KSU-4.14.343%2Bopenela-miatoll-05052024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-KSU-4.14.343%2Bopenela-miatoll-05052024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-343/gram-kinesis-.-r2.1-KSU-4.14.343%2Bopenela-miatoll-05052024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-NetHunter-4.14.343%2Bopenela-miatoll-05052024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-343/gram-kinesis-.-r2.1-NetHunter-4.14.343%2Bopenela-miatoll-05052024.zip"
       },
       "assets": [
         {
           "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-4.14.343%2Bopenela-miatoll-05052024.zip",
-          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-4.14.343%2Bopenela-miatoll-05052024.zip"
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-343/gram-kinesis-.-r2.1-4.14.343%2Bopenela-miatoll-05052024.zip"
         },
         {
           "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-HyperOS_MIUI-4.14.343%2Bopenela-miatoll-05052024.zip",
-          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-HyperOS_MIUI-4.14.343%2Bopenela-miatoll-05052024.zip"
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-343/gram-kinesis-.-r2.1-HyperOS_MIUI-4.14.343%2Bopenela-miatoll-05052024.zip"
         },
         {
           "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-HyperOS_MIUI-KSU-4.14.343%2Bopenela-miatoll-05052024.zip",
-          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-HyperOS_MIUI-KSU-4.14.343%2Bopenela-miatoll-05052024.zip"
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-343/gram-kinesis-.-r2.1-HyperOS_MIUI-KSU-4.14.343%2Bopenela-miatoll-05052024.zip"
         },
         {
           "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-KSU-4.14.343%2Bopenela-miatoll-05052024.zip",
-          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-KSU-4.14.343%2Bopenela-miatoll-05052024.zip"
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-343/gram-kinesis-.-r2.1-KSU-4.14.343%2Bopenela-miatoll-05052024.zip"
         },
         {
           "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-NetHunter-4.14.343%2Bopenela-miatoll-05052024.zip",
-          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-NetHunter-4.14.343%2Bopenela-miatoll-05052024.zip"
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-kernel-xiaomi-sm6250-v4-14-343/gram-kinesis-.-r2.1-NetHunter-4.14.343%2Bopenela-miatoll-05052024.zip"
         }
       ]
     },
@@ -209,16 +668,1105 @@
       "kernel": "miatoll nethunter boot",
       "upstream_tag": "v1.0.0",
       "asset_map": {
-        "https://github.com/0x1k4rt1k/miatoll-nethunter-boot/releases/download/v1.0.0/new-boot.img": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-miatoll-nethunter-boot-v1-0-0/new-boot.img"
+        "https://github.com/0x1k4rt1k/miatoll-nethunter-boot/releases/download/v1.0.0/new-boot.img": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-miatoll-nethunter-boot-v1-0-0/gram-new-boot.img"
       },
       "assets": [
         {
           "source_url": "https://github.com/0x1k4rt1k/miatoll-nethunter-boot/releases/download/v1.0.0/new-boot.img",
-          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-miatoll-nethunter-boot-v1-0-0/new-boot.img"
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-gram-miatoll-nethunter-boot-v1-0-0/gram-new-boot.img"
+        }
+      ]
+    },
+    {
+      "tag": "nh-moonstone-kernel-stone-darkhuntermoon-reborn-v1-0-inject-2026-05-04",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-moonstone-kernel-stone-darkhuntermoon-reborn-v1-0-inject-2026-05-04",
+      "codename": "moonstone",
+      "device": "POCO X5 5G",
+      "developer": "edbastida",
+      "kernel": "Kernel Stone DarkHuntermoon Reborn",
+      "upstream_tag": "v1.0-inject-2026-05-04",
+      "asset_map": {
+        "https://github.com/edbastida/Kernel_Stone_DarkHuntermoon-Reborn/releases/download/v1.0-inject-2026-05-04/DarkHunterMoon_reborn-By_Edbastida.NH_Aosp16.KsuNext.Inject.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-moonstone-kernel-stone-darkhuntermoon-reborn-v1-0-inject-2026-05-04/DarkHunterMoon_reborn-By_Edbastida.NH_Aosp16.KsuNext.Inject.zip",
+        "https://github.com/edbastida/Kernel_Stone_DarkHuntermoon-Reborn/releases/download/v1.0-inject-2026-05-04/DarkHunterMoon_reborn-By_Edbastida.NH_Aosp16.NonKsu.Inject.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-moonstone-kernel-stone-darkhuntermoon-reborn-v1-0-inject-2026-05-04/DarkHunterMoon_reborn-By_Edbastida.NH_Aosp16.NonKsu.Inject.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/edbastida/Kernel_Stone_DarkHuntermoon-Reborn/releases/download/v1.0-inject-2026-05-04/DarkHunterMoon_reborn-By_Edbastida.NH_Aosp16.KsuNext.Inject.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-moonstone-kernel-stone-darkhuntermoon-reborn-v1-0-inject-2026-05-04/DarkHunterMoon_reborn-By_Edbastida.NH_Aosp16.KsuNext.Inject.zip"
+        },
+        {
+          "source_url": "https://github.com/edbastida/Kernel_Stone_DarkHuntermoon-Reborn/releases/download/v1.0-inject-2026-05-04/DarkHunterMoon_reborn-By_Edbastida.NH_Aosp16.NonKsu.Inject.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-moonstone-kernel-stone-darkhuntermoon-reborn-v1-0-inject-2026-05-04/DarkHunterMoon_reborn-By_Edbastida.NH_Aosp16.NonKsu.Inject.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-moonstone-kernel-stone-darkhuntermoon-reborn-v2-1",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-moonstone-kernel-stone-darkhuntermoon-reborn-v2-1",
+      "codename": "moonstone",
+      "device": "POCO X5 5G",
+      "developer": "edbastida",
+      "kernel": "Kernel Stone DarkHuntermoon Reborn",
+      "upstream_tag": "v2.1",
+      "asset_map": {
+        "https://github.com/edbastida/Kernel_Stone_DarkHuntermoon-Reborn/releases/download/v2.1/DarkHunterMoon_reborn-By_Edbastida.NH_Aosp16.KsuNext.20260502.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-moonstone-kernel-stone-darkhuntermoon-reborn-v2-1/DarkHunterMoon_reborn-By_Edbastida.NH_Aosp16.KsuNext.20260502.zip",
+        "https://github.com/edbastida/Kernel_Stone_DarkHuntermoon-Reborn/releases/download/v2.1/DarkHunterMoon_reborn-By_Edbastida.NH_Aosp16.NonKsu.20260502.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-moonstone-kernel-stone-darkhuntermoon-reborn-v2-1/DarkHunterMoon_reborn-By_Edbastida.NH_Aosp16.NonKsu.20260502.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/edbastida/Kernel_Stone_DarkHuntermoon-Reborn/releases/download/v2.1/DarkHunterMoon_reborn-By_Edbastida.NH_Aosp16.KsuNext.20260502.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-moonstone-kernel-stone-darkhuntermoon-reborn-v2-1/DarkHunterMoon_reborn-By_Edbastida.NH_Aosp16.KsuNext.20260502.zip"
+        },
+        {
+          "source_url": "https://github.com/edbastida/Kernel_Stone_DarkHuntermoon-Reborn/releases/download/v2.1/DarkHunterMoon_reborn-By_Edbastida.NH_Aosp16.NonKsu.20260502.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-moonstone-kernel-stone-darkhuntermoon-reborn-v2-1/DarkHunterMoon_reborn-By_Edbastida.NH_Aosp16.NonKsu.20260502.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-sargo-sargo-nethunter-final",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-sargo-sargo-nethunter-final",
+      "codename": "sargo",
+      "device": "Pixel 3a",
+      "developer": "Nougat-User",
+      "kernel": "sargo nethunter",
+      "upstream_tag": "Final",
+      "asset_map": {
+        "https://github.com/Nougat-User/sargo_nethunter/releases/download/Final/semi-kernel.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-sargo-sargo-nethunter-final/semi-kernel.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/Nougat-User/sargo_nethunter/releases/download/Final/semi-kernel.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-sargo-sargo-nethunter-final/semi-kernel.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-bonito-sargo-nethunter-final",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-bonito-sargo-nethunter-final",
+      "codename": "bonito",
+      "device": "Pixel 3a XL",
+      "developer": "Nougat-User",
+      "kernel": "sargo nethunter",
+      "upstream_tag": "Final",
+      "asset_map": {
+        "https://github.com/Nougat-User/sargo_nethunter/releases/download/Final/semi-kernel.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-bonito-sargo-nethunter-final/semi-kernel.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/Nougat-User/sargo_nethunter/releases/download/Final/semi-kernel.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-bonito-sargo-nethunter-final/semi-kernel.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-fog-redmi-10c-fog-kernel-4-19-325-2025",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-fog-redmi-10c-fog-kernel-4-19-325-2025",
+      "codename": "fog",
+      "device": "Redmi 10C",
+      "developer": "Dante-1993",
+      "kernel": "redmi 10c fog kernel 4.19.325",
+      "upstream_tag": "2025",
+      "asset_map": {
+        "https://github.com/Dante-1993/Redmi-10C-fog-Kernel-4.19.325/releases/download/2025/freedom-20251229-0907-fog-KSU-NH.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-fog-redmi-10c-fog-kernel-4-19-325-2025/freedom-20251229-0907-fog-KSU-NH.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/Dante-1993/Redmi-10C-fog-Kernel-4.19.325/releases/download/2025/freedom-20251229-0907-fog-KSU-NH.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-fog-redmi-10c-fog-kernel-4-19-325-2025/freedom-20251229-0907-fog-KSU-NH.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-fog-redmi-10c-fog-kernel-4-19-325-fog",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-fog-redmi-10c-fog-kernel-4-19-325-fog",
+      "codename": "fog",
+      "device": "Redmi 10C",
+      "developer": "Dante-1993",
+      "kernel": "redmi 10c fog kernel 4.19.325",
+      "upstream_tag": "fog",
+      "asset_map": {
+        "https://github.com/Dante-1993/Redmi-10C-fog-Kernel-4.19.325/releases/download/fog/freedom-20251004-1231-fog-KSU-NH.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-fog-redmi-10c-fog-kernel-4-19-325-fog/freedom-20251004-1231-fog-KSU-NH.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/Dante-1993/Redmi-10C-fog-Kernel-4.19.325/releases/download/fog/freedom-20251004-1231-fog-KSU-NH.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-fog-redmi-10c-fog-kernel-4-19-325-fog/freedom-20251004-1231-fog-KSU-NH.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-riva-kali-nethunter-redmi5a-kernel-release",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-riva-kali-nethunter-redmi5a-kernel-release",
+      "codename": "riva",
+      "device": "Redmi 5A",
+      "developer": "ShorterKing",
+      "kernel": "kali nethunter redmi5a kernel",
+      "upstream_tag": "Release",
+      "asset_map": {
+        "https://github.com/ShorterKing/Kali-Nethunter-Redmi5A-Kernel/releases/download/Release/Nethunter-Kernel-1.0.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-riva-kali-nethunter-redmi5a-kernel-release/Nethunter-Kernel-1.0.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/ShorterKing/Kali-Nethunter-Redmi5A-Kernel/releases/download/Release/Nethunter-Kernel-1.0.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-riva-kali-nethunter-redmi5a-kernel-release/Nethunter-Kernel-1.0.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-miatoll-kernel-xiaomi-sm6250-openela-v4-14-339",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-miatoll-kernel-xiaomi-sm6250-openela-v4-14-339",
+      "codename": "miatoll",
+      "device": "Redmi Note 10 Lite",
+      "developer": "clarencelol",
+      "kernel": "kernel xiaomi sm6250",
+      "upstream_tag": "openela-v4.14.339",
+      "asset_map": {
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-extremev5-Nethunter-KSU-4.14.339%2Bopenela-miatoll-16032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-extremev5-Nethunter-KSU-4.14.339%2Bopenela-miatoll-16032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-4.14.339%2Bopenela-miatoll-16032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-4.14.339%2Bopenela-miatoll-16032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-HyperOS_MIUI-4.14.339%2Bopenela-miatoll-16032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-HyperOS_MIUI-4.14.339%2Bopenela-miatoll-16032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-HyperOS_MIUI-KSU-4.14.339%2Bopenela-miatoll-16032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-HyperOS_MIUI-KSU-4.14.339%2Bopenela-miatoll-16032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-KSU-4.14.339%2Bopenela-miatoll-16032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-KSU-4.14.339%2Bopenela-miatoll-16032024.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-extremev5-Nethunter-KSU-4.14.339%2Bopenela-miatoll-16032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-extremev5-Nethunter-KSU-4.14.339%2Bopenela-miatoll-16032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-4.14.339%2Bopenela-miatoll-16032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-4.14.339%2Bopenela-miatoll-16032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-HyperOS_MIUI-4.14.339%2Bopenela-miatoll-16032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-HyperOS_MIUI-4.14.339%2Bopenela-miatoll-16032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-HyperOS_MIUI-KSU-4.14.339%2Bopenela-miatoll-16032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-HyperOS_MIUI-KSU-4.14.339%2Bopenela-miatoll-16032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-KSU-4.14.339%2Bopenela-miatoll-16032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-KSU-4.14.339%2Bopenela-miatoll-16032024.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-miatoll-kernel-xiaomi-sm6250-v4-14-336",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-miatoll-kernel-xiaomi-sm6250-v4-14-336",
+      "codename": "miatoll",
+      "device": "Redmi Note 10 Lite",
+      "developer": "clarencelol",
+      "kernel": "kernel xiaomi sm6250",
+      "upstream_tag": "v4.14.336",
+      "asset_map": {
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336/kinesis-EX-4.14.336-miatoll-12012024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-v4-14-336/kinesis-EX-4.14.336-miatoll-12012024.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336/kinesis-EX-4.14.336-miatoll-12012024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-v4-14-336/kinesis-EX-4.14.336-miatoll-12012024.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-miatoll-kernel-xiaomi-sm6250-v4-14-336-3",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-miatoll-kernel-xiaomi-sm6250-v4-14-336-3",
+      "codename": "miatoll",
+      "device": "Redmi Note 10 Lite",
+      "developer": "clarencelol",
+      "kernel": "kernel xiaomi sm6250",
+      "upstream_tag": "v4.14.336+3",
+      "asset_map": {
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-01032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-01032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-01032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-01032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-01032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-01032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-KSU-4.14.336%2B3-miatoll-01032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-KSU-4.14.336%2B3-miatoll-01032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-NONKSU-4.14.336%2B3-miatoll-01032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-NONKSU-4.14.336%2B3-miatoll-01032024.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-01032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-01032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-01032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-01032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-01032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-01032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-KSU-4.14.336%2B3-miatoll-01032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-KSU-4.14.336%2B3-miatoll-01032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-NONKSU-4.14.336%2B3-miatoll-01032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-NONKSU-4.14.336%2B3-miatoll-01032024.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-miatoll-kernel-xiaomi-sm6250-v4-14-336-3v2",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-miatoll-kernel-xiaomi-sm6250-v4-14-336-3v2",
+      "codename": "miatoll",
+      "device": "Redmi Note 10 Lite",
+      "developer": "clarencelol",
+      "kernel": "kernel xiaomi sm6250",
+      "upstream_tag": "v4.14.336+3v2",
+      "asset_map": {
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-04032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-04032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-04032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-04032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-04032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-04032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-KSU-4.14.336%2B3-miatoll-04032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-KSU-4.14.336%2B3-miatoll-04032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-NONKSU-4.14.336%2B3-miatoll-04032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-NONKSU-4.14.336%2B3-miatoll-04032024.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-04032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-04032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-04032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-04032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-04032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-04032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-KSU-4.14.336%2B3-miatoll-04032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-KSU-4.14.336%2B3-miatoll-04032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-NONKSU-4.14.336%2B3-miatoll-04032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-NONKSU-4.14.336%2B3-miatoll-04032024.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-miatoll-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-miatoll-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu",
+      "codename": "miatoll",
+      "device": "Redmi Note 10 Lite",
+      "developer": "clarencelol",
+      "kernel": "kernel xiaomi sm6250",
+      "upstream_tag": "v4.14.336-hotfix-ksu",
+      "asset_map": {
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336-hotfix-ksu/kinesis-extremev3-Nethunter-KSU-4.14.336-miatoll-11022024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu/kinesis-extremev3-Nethunter-KSU-4.14.336-miatoll-11022024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336-hotfix-ksu/kinesis-HyperOS_MIUI-KSU-4.14.336-miatoll-11022024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu/kinesis-HyperOS_MIUI-KSU-4.14.336-miatoll-11022024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336-hotfix-ksu/kinesis-r9.5-4.14.336-miatoll-11022024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu/kinesis-r9.5-4.14.336-miatoll-11022024.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336-hotfix-ksu/kinesis-extremev3-Nethunter-KSU-4.14.336-miatoll-11022024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu/kinesis-extremev3-Nethunter-KSU-4.14.336-miatoll-11022024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336-hotfix-ksu/kinesis-HyperOS_MIUI-KSU-4.14.336-miatoll-11022024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu/kinesis-HyperOS_MIUI-KSU-4.14.336-miatoll-11022024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336-hotfix-ksu/kinesis-r9.5-4.14.336-miatoll-11022024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu/kinesis-r9.5-4.14.336-miatoll-11022024.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-miatoll-kernel-xiaomi-sm6250-v4-14-343",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-miatoll-kernel-xiaomi-sm6250-v4-14-343",
+      "codename": "miatoll",
+      "device": "Redmi Note 10 Lite",
+      "developer": "clarencelol",
+      "kernel": "kernel xiaomi sm6250",
+      "upstream_tag": "v4.14.343",
+      "asset_map": {
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-4.14.343%2Bopenela-miatoll-05052024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-4.14.343%2Bopenela-miatoll-05052024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-HyperOS_MIUI-4.14.343%2Bopenela-miatoll-05052024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-HyperOS_MIUI-4.14.343%2Bopenela-miatoll-05052024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-HyperOS_MIUI-KSU-4.14.343%2Bopenela-miatoll-05052024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-HyperOS_MIUI-KSU-4.14.343%2Bopenela-miatoll-05052024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-KSU-4.14.343%2Bopenela-miatoll-05052024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-KSU-4.14.343%2Bopenela-miatoll-05052024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-NetHunter-4.14.343%2Bopenela-miatoll-05052024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-NetHunter-4.14.343%2Bopenela-miatoll-05052024.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-4.14.343%2Bopenela-miatoll-05052024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-4.14.343%2Bopenela-miatoll-05052024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-HyperOS_MIUI-4.14.343%2Bopenela-miatoll-05052024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-HyperOS_MIUI-4.14.343%2Bopenela-miatoll-05052024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-HyperOS_MIUI-KSU-4.14.343%2Bopenela-miatoll-05052024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-HyperOS_MIUI-KSU-4.14.343%2Bopenela-miatoll-05052024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-KSU-4.14.343%2Bopenela-miatoll-05052024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-KSU-4.14.343%2Bopenela-miatoll-05052024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-NetHunter-4.14.343%2Bopenela-miatoll-05052024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-miatoll-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-NetHunter-4.14.343%2Bopenela-miatoll-05052024.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-sweet-kernel-xiaomi-sm6150-v1-0-0",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-sweet-kernel-xiaomi-sm6150-v1-0-0",
+      "codename": "sweet",
+      "device": "Redmi Note 10 Pro",
+      "developer": "KirillTank",
+      "kernel": "kernel xiaomi sm6150",
+      "upstream_tag": "v1.0.0",
+      "asset_map": {
+        "https://github.com/KirillTank/Kernel-xiaomi_sm6150/releases/download/v1.0.0/NS_KERNEL_20260802_1705.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-sweet-kernel-xiaomi-sm6150-v1-0-0/NS_KERNEL_20260802_1705.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/KirillTank/Kernel-xiaomi_sm6150/releases/download/v1.0.0/NS_KERNEL_20260802_1705.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-sweet-kernel-xiaomi-sm6150-v1-0-0/NS_KERNEL_20260802_1705.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-sweetin-kernel-xiaomi-sm6150-v1-0-0",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-sweetin-kernel-xiaomi-sm6150-v1-0-0",
+      "codename": "sweetin",
+      "device": "Redmi Note 10 Pro Max",
+      "developer": "KirillTank",
+      "kernel": "kernel xiaomi sm6150",
+      "upstream_tag": "v1.0.0",
+      "asset_map": {
+        "https://github.com/KirillTank/Kernel-xiaomi_sm6150/releases/download/v1.0.0/NS_KERNEL_20260802_1705.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-sweetin-kernel-xiaomi-sm6150-v1-0-0/NS_KERNEL_20260802_1705.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/KirillTank/Kernel-xiaomi_sm6150/releases/download/v1.0.0/NS_KERNEL_20260802_1705.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-sweetin-kernel-xiaomi-sm6150-v1-0-0/NS_KERNEL_20260802_1705.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-merlinx-merlin-net-hunter-kernel-mt7601u-wif-nethunter-kernel-merlin",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-merlinx-merlin-net-hunter-kernel-mt7601u-wif-nethunter-kernel-merlin",
+      "codename": "merlinx",
+      "device": "Redmi Note 9",
+      "developer": "killindodo",
+      "kernel": "merlin net hunter kernel MT7601U WiFi Adapter Support ",
+      "upstream_tag": "nethunter_kernel_merlin",
+      "asset_map": {
+        "https://github.com/killindodo/merlin-net-hunter-kernel-MT7601U-WiFi-Adapter-Support-/releases/download/nethunter_kernel_merlin/kali-nethunter-kernel-redminote9-20260813-0658.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-merlinx-merlin-net-hunter-kernel-mt7601u-wif-nethunter-kernel-merlin/kali-nethunter-kernel-redminote9-20260813-0658.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/killindodo/merlin-net-hunter-kernel-MT7601U-WiFi-Adapter-Support-/releases/download/nethunter_kernel_merlin/kali-nethunter-kernel-redminote9-20260813-0658.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-merlinx-merlin-net-hunter-kernel-mt7601u-wif-nethunter-kernel-merlin/kali-nethunter-kernel-redminote9-20260813-0658.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-joyeuse-kernel-xiaomi-sm6250-openela-v4-14-339",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-joyeuse-kernel-xiaomi-sm6250-openela-v4-14-339",
+      "codename": "joyeuse",
+      "device": "Redmi Note 9 Pro",
+      "developer": "clarencelol",
+      "kernel": "kernel xiaomi sm6250",
+      "upstream_tag": "openela-v4.14.339",
+      "asset_map": {
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-extremev5-Nethunter-KSU-4.14.339%2Bopenela-miatoll-16032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-extremev5-Nethunter-KSU-4.14.339%2Bopenela-miatoll-16032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-4.14.339%2Bopenela-miatoll-16032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-4.14.339%2Bopenela-miatoll-16032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-HyperOS_MIUI-4.14.339%2Bopenela-miatoll-16032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-HyperOS_MIUI-4.14.339%2Bopenela-miatoll-16032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-HyperOS_MIUI-KSU-4.14.339%2Bopenela-miatoll-16032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-HyperOS_MIUI-KSU-4.14.339%2Bopenela-miatoll-16032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-KSU-4.14.339%2Bopenela-miatoll-16032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-KSU-4.14.339%2Bopenela-miatoll-16032024.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-extremev5-Nethunter-KSU-4.14.339%2Bopenela-miatoll-16032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-extremev5-Nethunter-KSU-4.14.339%2Bopenela-miatoll-16032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-4.14.339%2Bopenela-miatoll-16032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-4.14.339%2Bopenela-miatoll-16032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-HyperOS_MIUI-4.14.339%2Bopenela-miatoll-16032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-HyperOS_MIUI-4.14.339%2Bopenela-miatoll-16032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-HyperOS_MIUI-KSU-4.14.339%2Bopenela-miatoll-16032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-HyperOS_MIUI-KSU-4.14.339%2Bopenela-miatoll-16032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-KSU-4.14.339%2Bopenela-miatoll-16032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-KSU-4.14.339%2Bopenela-miatoll-16032024.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-joyeuse-kernel-xiaomi-sm6250-v4-14-336",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-336",
+      "codename": "joyeuse",
+      "device": "Redmi Note 9 Pro",
+      "developer": "clarencelol",
+      "kernel": "kernel xiaomi sm6250",
+      "upstream_tag": "v4.14.336",
+      "asset_map": {
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336/kinesis-EX-4.14.336-miatoll-12012024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-336/kinesis-EX-4.14.336-miatoll-12012024.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336/kinesis-EX-4.14.336-miatoll-12012024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-336/kinesis-EX-4.14.336-miatoll-12012024.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-joyeuse-kernel-xiaomi-sm6250-v4-14-336-3",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-336-3",
+      "codename": "joyeuse",
+      "device": "Redmi Note 9 Pro",
+      "developer": "clarencelol",
+      "kernel": "kernel xiaomi sm6250",
+      "upstream_tag": "v4.14.336+3",
+      "asset_map": {
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-01032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-01032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-01032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-01032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-01032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-01032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-KSU-4.14.336%2B3-miatoll-01032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-KSU-4.14.336%2B3-miatoll-01032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-NONKSU-4.14.336%2B3-miatoll-01032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-NONKSU-4.14.336%2B3-miatoll-01032024.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-01032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-01032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-01032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-01032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-01032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-01032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-KSU-4.14.336%2B3-miatoll-01032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-KSU-4.14.336%2B3-miatoll-01032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-NONKSU-4.14.336%2B3-miatoll-01032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-NONKSU-4.14.336%2B3-miatoll-01032024.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-joyeuse-kernel-xiaomi-sm6250-v4-14-336-3v2",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-336-3v2",
+      "codename": "joyeuse",
+      "device": "Redmi Note 9 Pro",
+      "developer": "clarencelol",
+      "kernel": "kernel xiaomi sm6250",
+      "upstream_tag": "v4.14.336+3v2",
+      "asset_map": {
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-04032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-04032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-04032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-04032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-04032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-04032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-KSU-4.14.336%2B3-miatoll-04032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-KSU-4.14.336%2B3-miatoll-04032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-NONKSU-4.14.336%2B3-miatoll-04032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-NONKSU-4.14.336%2B3-miatoll-04032024.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-04032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-04032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-04032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-04032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-04032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-04032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-KSU-4.14.336%2B3-miatoll-04032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-KSU-4.14.336%2B3-miatoll-04032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-NONKSU-4.14.336%2B3-miatoll-04032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-NONKSU-4.14.336%2B3-miatoll-04032024.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-joyeuse-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu",
+      "codename": "joyeuse",
+      "device": "Redmi Note 9 Pro",
+      "developer": "clarencelol",
+      "kernel": "kernel xiaomi sm6250",
+      "upstream_tag": "v4.14.336-hotfix-ksu",
+      "asset_map": {
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336-hotfix-ksu/kinesis-extremev3-Nethunter-KSU-4.14.336-miatoll-11022024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu/kinesis-extremev3-Nethunter-KSU-4.14.336-miatoll-11022024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336-hotfix-ksu/kinesis-HyperOS_MIUI-KSU-4.14.336-miatoll-11022024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu/kinesis-HyperOS_MIUI-KSU-4.14.336-miatoll-11022024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336-hotfix-ksu/kinesis-r9.5-4.14.336-miatoll-11022024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu/kinesis-r9.5-4.14.336-miatoll-11022024.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336-hotfix-ksu/kinesis-extremev3-Nethunter-KSU-4.14.336-miatoll-11022024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu/kinesis-extremev3-Nethunter-KSU-4.14.336-miatoll-11022024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336-hotfix-ksu/kinesis-HyperOS_MIUI-KSU-4.14.336-miatoll-11022024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu/kinesis-HyperOS_MIUI-KSU-4.14.336-miatoll-11022024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336-hotfix-ksu/kinesis-r9.5-4.14.336-miatoll-11022024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu/kinesis-r9.5-4.14.336-miatoll-11022024.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-joyeuse-kernel-xiaomi-sm6250-v4-14-343",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-343",
+      "codename": "joyeuse",
+      "device": "Redmi Note 9 Pro",
+      "developer": "clarencelol",
+      "kernel": "kernel xiaomi sm6250",
+      "upstream_tag": "v4.14.343",
+      "asset_map": {
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-4.14.343%2Bopenela-miatoll-05052024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-4.14.343%2Bopenela-miatoll-05052024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-HyperOS_MIUI-4.14.343%2Bopenela-miatoll-05052024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-HyperOS_MIUI-4.14.343%2Bopenela-miatoll-05052024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-HyperOS_MIUI-KSU-4.14.343%2Bopenela-miatoll-05052024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-HyperOS_MIUI-KSU-4.14.343%2Bopenela-miatoll-05052024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-KSU-4.14.343%2Bopenela-miatoll-05052024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-KSU-4.14.343%2Bopenela-miatoll-05052024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-NetHunter-4.14.343%2Bopenela-miatoll-05052024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-NetHunter-4.14.343%2Bopenela-miatoll-05052024.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-4.14.343%2Bopenela-miatoll-05052024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-4.14.343%2Bopenela-miatoll-05052024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-HyperOS_MIUI-4.14.343%2Bopenela-miatoll-05052024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-HyperOS_MIUI-4.14.343%2Bopenela-miatoll-05052024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-HyperOS_MIUI-KSU-4.14.343%2Bopenela-miatoll-05052024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-HyperOS_MIUI-KSU-4.14.343%2Bopenela-miatoll-05052024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-KSU-4.14.343%2Bopenela-miatoll-05052024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-KSU-4.14.343%2Bopenela-miatoll-05052024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-NetHunter-4.14.343%2Bopenela-miatoll-05052024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-NetHunter-4.14.343%2Bopenela-miatoll-05052024.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-joyeuse-miatoll-nethunter-boot-v1-0-0",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-joyeuse-miatoll-nethunter-boot-v1-0-0",
+      "codename": "joyeuse",
+      "device": "Redmi Note 9 Pro",
+      "developer": "0x1k4rt1k",
+      "kernel": "miatoll nethunter boot",
+      "upstream_tag": "v1.0.0",
+      "asset_map": {
+        "https://github.com/0x1k4rt1k/miatoll-nethunter-boot/releases/download/v1.0.0/new-boot.img": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-miatoll-nethunter-boot-v1-0-0/new-boot.img"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/0x1k4rt1k/miatoll-nethunter-boot/releases/download/v1.0.0/new-boot.img",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-joyeuse-miatoll-nethunter-boot-v1-0-0/new-boot.img"
+        }
+      ]
+    },
+    {
+      "tag": "nh-excalibur-kernel-xiaomi-sm6250-openela-v4-14-339",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-excalibur-kernel-xiaomi-sm6250-openela-v4-14-339",
+      "codename": "excalibur",
+      "device": "Redmi Note 9 Pro Max",
+      "developer": "clarencelol",
+      "kernel": "kernel xiaomi sm6250",
+      "upstream_tag": "openela-v4.14.339",
+      "asset_map": {
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-extremev5-Nethunter-KSU-4.14.339%2Bopenela-miatoll-16032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-extremev5-Nethunter-KSU-4.14.339%2Bopenela-miatoll-16032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-4.14.339%2Bopenela-miatoll-16032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-4.14.339%2Bopenela-miatoll-16032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-HyperOS_MIUI-4.14.339%2Bopenela-miatoll-16032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-HyperOS_MIUI-4.14.339%2Bopenela-miatoll-16032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-HyperOS_MIUI-KSU-4.14.339%2Bopenela-miatoll-16032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-HyperOS_MIUI-KSU-4.14.339%2Bopenela-miatoll-16032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-KSU-4.14.339%2Bopenela-miatoll-16032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-KSU-4.14.339%2Bopenela-miatoll-16032024.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-extremev5-Nethunter-KSU-4.14.339%2Bopenela-miatoll-16032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-extremev5-Nethunter-KSU-4.14.339%2Bopenela-miatoll-16032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-4.14.339%2Bopenela-miatoll-16032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-4.14.339%2Bopenela-miatoll-16032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-HyperOS_MIUI-4.14.339%2Bopenela-miatoll-16032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-HyperOS_MIUI-4.14.339%2Bopenela-miatoll-16032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-HyperOS_MIUI-KSU-4.14.339%2Bopenela-miatoll-16032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-HyperOS_MIUI-KSU-4.14.339%2Bopenela-miatoll-16032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-KSU-4.14.339%2Bopenela-miatoll-16032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-KSU-4.14.339%2Bopenela-miatoll-16032024.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-excalibur-kernel-xiaomi-sm6250-v4-14-336",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-excalibur-kernel-xiaomi-sm6250-v4-14-336",
+      "codename": "excalibur",
+      "device": "Redmi Note 9 Pro Max",
+      "developer": "clarencelol",
+      "kernel": "kernel xiaomi sm6250",
+      "upstream_tag": "v4.14.336",
+      "asset_map": {
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336/kinesis-EX-4.14.336-miatoll-12012024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-v4-14-336/kinesis-EX-4.14.336-miatoll-12012024.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336/kinesis-EX-4.14.336-miatoll-12012024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-v4-14-336/kinesis-EX-4.14.336-miatoll-12012024.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-excalibur-kernel-xiaomi-sm6250-v4-14-336-3",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-excalibur-kernel-xiaomi-sm6250-v4-14-336-3",
+      "codename": "excalibur",
+      "device": "Redmi Note 9 Pro Max",
+      "developer": "clarencelol",
+      "kernel": "kernel xiaomi sm6250",
+      "upstream_tag": "v4.14.336+3",
+      "asset_map": {
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-01032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-01032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-01032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-01032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-01032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-01032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-KSU-4.14.336%2B3-miatoll-01032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-KSU-4.14.336%2B3-miatoll-01032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-NONKSU-4.14.336%2B3-miatoll-01032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-NONKSU-4.14.336%2B3-miatoll-01032024.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-01032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-01032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-01032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-01032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-01032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-01032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-KSU-4.14.336%2B3-miatoll-01032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-KSU-4.14.336%2B3-miatoll-01032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-NONKSU-4.14.336%2B3-miatoll-01032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-NONKSU-4.14.336%2B3-miatoll-01032024.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-excalibur-kernel-xiaomi-sm6250-v4-14-336-3v2",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-excalibur-kernel-xiaomi-sm6250-v4-14-336-3v2",
+      "codename": "excalibur",
+      "device": "Redmi Note 9 Pro Max",
+      "developer": "clarencelol",
+      "kernel": "kernel xiaomi sm6250",
+      "upstream_tag": "v4.14.336+3v2",
+      "asset_map": {
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-04032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-04032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-04032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-04032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-04032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-04032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-KSU-4.14.336%2B3-miatoll-04032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-KSU-4.14.336%2B3-miatoll-04032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-NONKSU-4.14.336%2B3-miatoll-04032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-NONKSU-4.14.336%2B3-miatoll-04032024.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-04032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-04032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-04032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-04032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-04032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-04032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-KSU-4.14.336%2B3-miatoll-04032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-KSU-4.14.336%2B3-miatoll-04032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-NONKSU-4.14.336%2B3-miatoll-04032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-NONKSU-4.14.336%2B3-miatoll-04032024.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-excalibur-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-excalibur-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu",
+      "codename": "excalibur",
+      "device": "Redmi Note 9 Pro Max",
+      "developer": "clarencelol",
+      "kernel": "kernel xiaomi sm6250",
+      "upstream_tag": "v4.14.336-hotfix-ksu",
+      "asset_map": {
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336-hotfix-ksu/kinesis-extremev3-Nethunter-KSU-4.14.336-miatoll-11022024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu/kinesis-extremev3-Nethunter-KSU-4.14.336-miatoll-11022024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336-hotfix-ksu/kinesis-HyperOS_MIUI-KSU-4.14.336-miatoll-11022024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu/kinesis-HyperOS_MIUI-KSU-4.14.336-miatoll-11022024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336-hotfix-ksu/kinesis-r9.5-4.14.336-miatoll-11022024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu/kinesis-r9.5-4.14.336-miatoll-11022024.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336-hotfix-ksu/kinesis-extremev3-Nethunter-KSU-4.14.336-miatoll-11022024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu/kinesis-extremev3-Nethunter-KSU-4.14.336-miatoll-11022024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336-hotfix-ksu/kinesis-HyperOS_MIUI-KSU-4.14.336-miatoll-11022024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu/kinesis-HyperOS_MIUI-KSU-4.14.336-miatoll-11022024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336-hotfix-ksu/kinesis-r9.5-4.14.336-miatoll-11022024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu/kinesis-r9.5-4.14.336-miatoll-11022024.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-excalibur-kernel-xiaomi-sm6250-v4-14-343",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-excalibur-kernel-xiaomi-sm6250-v4-14-343",
+      "codename": "excalibur",
+      "device": "Redmi Note 9 Pro Max",
+      "developer": "clarencelol",
+      "kernel": "kernel xiaomi sm6250",
+      "upstream_tag": "v4.14.343",
+      "asset_map": {
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-4.14.343%2Bopenela-miatoll-05052024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-4.14.343%2Bopenela-miatoll-05052024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-HyperOS_MIUI-4.14.343%2Bopenela-miatoll-05052024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-HyperOS_MIUI-4.14.343%2Bopenela-miatoll-05052024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-HyperOS_MIUI-KSU-4.14.343%2Bopenela-miatoll-05052024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-HyperOS_MIUI-KSU-4.14.343%2Bopenela-miatoll-05052024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-KSU-4.14.343%2Bopenela-miatoll-05052024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-KSU-4.14.343%2Bopenela-miatoll-05052024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-NetHunter-4.14.343%2Bopenela-miatoll-05052024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-NetHunter-4.14.343%2Bopenela-miatoll-05052024.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-4.14.343%2Bopenela-miatoll-05052024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-4.14.343%2Bopenela-miatoll-05052024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-HyperOS_MIUI-4.14.343%2Bopenela-miatoll-05052024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-HyperOS_MIUI-4.14.343%2Bopenela-miatoll-05052024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-HyperOS_MIUI-KSU-4.14.343%2Bopenela-miatoll-05052024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-HyperOS_MIUI-KSU-4.14.343%2Bopenela-miatoll-05052024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-KSU-4.14.343%2Bopenela-miatoll-05052024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-KSU-4.14.343%2Bopenela-miatoll-05052024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-NetHunter-4.14.343%2Bopenela-miatoll-05052024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-NetHunter-4.14.343%2Bopenela-miatoll-05052024.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-excalibur-miatoll-nethunter-boot-v1-0-0",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-excalibur-miatoll-nethunter-boot-v1-0-0",
+      "codename": "excalibur",
+      "device": "Redmi Note 9 Pro Max",
+      "developer": "0x1k4rt1k",
+      "kernel": "miatoll nethunter boot",
+      "upstream_tag": "v1.0.0",
+      "asset_map": {
+        "https://github.com/0x1k4rt1k/miatoll-nethunter-boot/releases/download/v1.0.0/new-boot.img": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-miatoll-nethunter-boot-v1-0-0/new-boot.img"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/0x1k4rt1k/miatoll-nethunter-boot/releases/download/v1.0.0/new-boot.img",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-excalibur-miatoll-nethunter-boot-v1-0-0/new-boot.img"
+        }
+      ]
+    },
+    {
+      "tag": "nh-curtana-kernel-xiaomi-sm6250-openela-v4-14-339",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-curtana-kernel-xiaomi-sm6250-openela-v4-14-339",
+      "codename": "curtana",
+      "device": "Redmi Note 9S",
+      "developer": "clarencelol",
+      "kernel": "kernel xiaomi sm6250",
+      "upstream_tag": "openela-v4.14.339",
+      "asset_map": {
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-extremev5-Nethunter-KSU-4.14.339%2Bopenela-miatoll-16032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-extremev5-Nethunter-KSU-4.14.339%2Bopenela-miatoll-16032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-4.14.339%2Bopenela-miatoll-16032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-4.14.339%2Bopenela-miatoll-16032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-HyperOS_MIUI-4.14.339%2Bopenela-miatoll-16032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-HyperOS_MIUI-4.14.339%2Bopenela-miatoll-16032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-HyperOS_MIUI-KSU-4.14.339%2Bopenela-miatoll-16032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-HyperOS_MIUI-KSU-4.14.339%2Bopenela-miatoll-16032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-KSU-4.14.339%2Bopenela-miatoll-16032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-KSU-4.14.339%2Bopenela-miatoll-16032024.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-extremev5-Nethunter-KSU-4.14.339%2Bopenela-miatoll-16032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-extremev5-Nethunter-KSU-4.14.339%2Bopenela-miatoll-16032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-4.14.339%2Bopenela-miatoll-16032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-4.14.339%2Bopenela-miatoll-16032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-HyperOS_MIUI-4.14.339%2Bopenela-miatoll-16032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-HyperOS_MIUI-4.14.339%2Bopenela-miatoll-16032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-HyperOS_MIUI-KSU-4.14.339%2Bopenela-miatoll-16032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-HyperOS_MIUI-KSU-4.14.339%2Bopenela-miatoll-16032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/openela-v4.14.339/kinesis-r11.0-KSU-4.14.339%2Bopenela-miatoll-16032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-openela-v4-14-339/kinesis-r11.0-KSU-4.14.339%2Bopenela-miatoll-16032024.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-curtana-kernel-xiaomi-sm6250-v4-14-336",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-curtana-kernel-xiaomi-sm6250-v4-14-336",
+      "codename": "curtana",
+      "device": "Redmi Note 9S",
+      "developer": "clarencelol",
+      "kernel": "kernel xiaomi sm6250",
+      "upstream_tag": "v4.14.336",
+      "asset_map": {
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336/kinesis-EX-4.14.336-miatoll-12012024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-v4-14-336/kinesis-EX-4.14.336-miatoll-12012024.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336/kinesis-EX-4.14.336-miatoll-12012024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-v4-14-336/kinesis-EX-4.14.336-miatoll-12012024.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-curtana-kernel-xiaomi-sm6250-v4-14-336-3",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-curtana-kernel-xiaomi-sm6250-v4-14-336-3",
+      "codename": "curtana",
+      "device": "Redmi Note 9S",
+      "developer": "clarencelol",
+      "kernel": "kernel xiaomi sm6250",
+      "upstream_tag": "v4.14.336+3",
+      "asset_map": {
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-01032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-01032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-01032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-01032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-01032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-01032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-KSU-4.14.336%2B3-miatoll-01032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-KSU-4.14.336%2B3-miatoll-01032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-NONKSU-4.14.336%2B3-miatoll-01032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-NONKSU-4.14.336%2B3-miatoll-01032024.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-01032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-01032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-01032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-01032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-01032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-01032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-KSU-4.14.336%2B3-miatoll-01032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-KSU-4.14.336%2B3-miatoll-01032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3/kinesis-r9.9-NONKSU-4.14.336%2B3-miatoll-01032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-v4-14-336-3/kinesis-r9.9-NONKSU-4.14.336%2B3-miatoll-01032024.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-curtana-kernel-xiaomi-sm6250-v4-14-336-3v2",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-curtana-kernel-xiaomi-sm6250-v4-14-336-3v2",
+      "codename": "curtana",
+      "device": "Redmi Note 9S",
+      "developer": "clarencelol",
+      "kernel": "kernel xiaomi sm6250",
+      "upstream_tag": "v4.14.336+3v2",
+      "asset_map": {
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-04032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-04032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-04032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-04032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-04032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-04032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-KSU-4.14.336%2B3-miatoll-04032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-KSU-4.14.336%2B3-miatoll-04032024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-NONKSU-4.14.336%2B3-miatoll-04032024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-NONKSU-4.14.336%2B3-miatoll-04032024.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-04032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-extremev4-NetHunter-4.14.336%2B3-miatoll-04032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-04032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-HyperOS_MIUI-KSU-4.14.336%2B3-miatoll-04032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-04032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-HyperOS_MIUI-NONKSU-4.14.336%2B3-miatoll-04032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-KSU-4.14.336%2B3-miatoll-04032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-KSU-4.14.336%2B3-miatoll-04032024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336%2B3v2/kinesis-r10.0-NONKSU-4.14.336%2B3-miatoll-04032024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-v4-14-336-3v2/kinesis-r10.0-NONKSU-4.14.336%2B3-miatoll-04032024.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-curtana-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-curtana-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu",
+      "codename": "curtana",
+      "device": "Redmi Note 9S",
+      "developer": "clarencelol",
+      "kernel": "kernel xiaomi sm6250",
+      "upstream_tag": "v4.14.336-hotfix-ksu",
+      "asset_map": {
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336-hotfix-ksu/kinesis-extremev3-Nethunter-KSU-4.14.336-miatoll-11022024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu/kinesis-extremev3-Nethunter-KSU-4.14.336-miatoll-11022024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336-hotfix-ksu/kinesis-HyperOS_MIUI-KSU-4.14.336-miatoll-11022024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu/kinesis-HyperOS_MIUI-KSU-4.14.336-miatoll-11022024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336-hotfix-ksu/kinesis-r9.5-4.14.336-miatoll-11022024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu/kinesis-r9.5-4.14.336-miatoll-11022024.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336-hotfix-ksu/kinesis-extremev3-Nethunter-KSU-4.14.336-miatoll-11022024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu/kinesis-extremev3-Nethunter-KSU-4.14.336-miatoll-11022024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336-hotfix-ksu/kinesis-HyperOS_MIUI-KSU-4.14.336-miatoll-11022024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu/kinesis-HyperOS_MIUI-KSU-4.14.336-miatoll-11022024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.336-hotfix-ksu/kinesis-r9.5-4.14.336-miatoll-11022024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-v4-14-336-hotfix-ksu/kinesis-r9.5-4.14.336-miatoll-11022024.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-curtana-kernel-xiaomi-sm6250-v4-14-343",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-curtana-kernel-xiaomi-sm6250-v4-14-343",
+      "codename": "curtana",
+      "device": "Redmi Note 9S",
+      "developer": "clarencelol",
+      "kernel": "kernel xiaomi sm6250",
+      "upstream_tag": "v4.14.343",
+      "asset_map": {
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-4.14.343%2Bopenela-miatoll-05052024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-4.14.343%2Bopenela-miatoll-05052024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-HyperOS_MIUI-4.14.343%2Bopenela-miatoll-05052024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-HyperOS_MIUI-4.14.343%2Bopenela-miatoll-05052024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-HyperOS_MIUI-KSU-4.14.343%2Bopenela-miatoll-05052024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-HyperOS_MIUI-KSU-4.14.343%2Bopenela-miatoll-05052024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-KSU-4.14.343%2Bopenela-miatoll-05052024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-KSU-4.14.343%2Bopenela-miatoll-05052024.zip",
+        "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-NetHunter-4.14.343%2Bopenela-miatoll-05052024.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-NetHunter-4.14.343%2Bopenela-miatoll-05052024.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-4.14.343%2Bopenela-miatoll-05052024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-4.14.343%2Bopenela-miatoll-05052024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-HyperOS_MIUI-4.14.343%2Bopenela-miatoll-05052024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-HyperOS_MIUI-4.14.343%2Bopenela-miatoll-05052024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-HyperOS_MIUI-KSU-4.14.343%2Bopenela-miatoll-05052024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-HyperOS_MIUI-KSU-4.14.343%2Bopenela-miatoll-05052024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-KSU-4.14.343%2Bopenela-miatoll-05052024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-KSU-4.14.343%2Bopenela-miatoll-05052024.zip"
+        },
+        {
+          "source_url": "https://github.com/clarencelol/kernel_xiaomi_sm6250/releases/download/v4.14.343/kinesis-.-r2.1-NetHunter-4.14.343%2Bopenela-miatoll-05052024.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-kernel-xiaomi-sm6250-v4-14-343/kinesis-.-r2.1-NetHunter-4.14.343%2Bopenela-miatoll-05052024.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-curtana-miatoll-nethunter-boot-v1-0-0",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-curtana-miatoll-nethunter-boot-v1-0-0",
+      "codename": "curtana",
+      "device": "Redmi Note 9S",
+      "developer": "0x1k4rt1k",
+      "kernel": "miatoll nethunter boot",
+      "upstream_tag": "v1.0.0",
+      "asset_map": {
+        "https://github.com/0x1k4rt1k/miatoll-nethunter-boot/releases/download/v1.0.0/new-boot.img": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-miatoll-nethunter-boot-v1-0-0/new-boot.img"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/0x1k4rt1k/miatoll-nethunter-boot/releases/download/v1.0.0/new-boot.img",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-curtana-miatoll-nethunter-boot-v1-0-0/new-boot.img"
+        }
+      ]
+    },
+    {
+      "tag": "nh-tbx304-android-kernel-lenovo-tbx304-neterne-v1-0",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-tbx304-android-kernel-lenovo-tbx304-neterne-v1-0",
+      "codename": "tbx304",
+      "device": "Tab4 10",
+      "developer": "Neternels",
+      "kernel": "android kernel lenovo tbx304 neternels",
+      "upstream_tag": "v1.0",
+      "asset_map": {
+        "https://github.com/Neternels/android_kernel_lenovo_tbx304-NetErnels/releases/download/v1.0/NetErnels-tbx304-v1.0.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-tbx304-android-kernel-lenovo-tbx304-neterne-v1-0/NetErnels-tbx304-v1.0.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/Neternels/android_kernel_lenovo_tbx304-NetErnels/releases/download/v1.0/NetErnels-tbx304-v1.0.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-tbx304-android-kernel-lenovo-tbx304-neterne-v1-0/NetErnels-tbx304-v1.0.zip"
+        }
+      ]
+    },
+    {
+      "tag": "nh-pdx201-kali-nethunter-2026-2-pdx201-los-thi-v1-0",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-pdx201-kali-nethunter-2026-2-pdx201-los-thi-v1-0",
+      "codename": "pdx201",
+      "device": "Xperia 10 II",
+      "developer": "howfan31",
+      "kernel": "kali nethunter 2026.2 pdx201 los thirteen full repaired",
+      "upstream_tag": "v1.0",
+      "asset_map": {},
+      "assets": []
+    },
+    {
+      "tag": "nh-juice-android-nethunter-kernel-xiaomi-juic-0-1",
+      "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/nh-juice-android-nethunter-kernel-xiaomi-juic-0-1",
+      "codename": "juice",
+      "device": "juice",
+      "developer": "Jemacivan",
+      "kernel": "android nethunter kernel xiaomi juice",
+      "upstream_tag": "0.1",
+      "asset_map": {
+        "https://github.com/Jemacivan/android_nethunter_kernel_xiaomi_juice/releases/download/0.1/nethunter_kernel_juice.zip": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-juice-android-nethunter-kernel-xiaomi-juic-0-1/nethunter_kernel_juice.zip"
+      },
+      "assets": [
+        {
+          "source_url": "https://github.com/Jemacivan/android_nethunter_kernel_xiaomi_juice/releases/download/0.1/nethunter_kernel_juice.zip",
+          "url": "https://github.com/OPX-Aminul/nethunter-all-kernel/releases/download/nh-juice-android-nethunter-kernel-xiaomi-juic-0-1/nethunter_kernel_juice.zip"
         }
       ]
     }
   ],
-  "failures": [],
-  "uploaded_assets": 25
+  "failures": [
+    {
+      "tag": "nh-pdx201-kali-nethunter-2026-2-pdx201-los-thi-v1-0",
+      "asset": "kali-nethunter-2026.2-pdx201-los-thirteen-full-repaired.zip",
+      "error": "above GitHub 2GB asset limit"
+    }
+  ],
+  "uploaded_assets": 170
 }
