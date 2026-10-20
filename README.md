@@ -34,7 +34,8 @@ Counts are generated from `data/nethunter_master.csv` and `site/data.json`. The 
 - If no prebuilt file exists, the kernel is marked `source build required`. It is not replaced with a generic ZIP and it is not published as if it were tested.
 - Source-only kernels are listed in `data/build_queue.csv`. A real build needs the exact codename, defconfig, kernel branch, toolchain, AnyKernel3 block path, and ROM target.
 - The `Build source kernel` workflow is deliberately gated: it only runs a recipe from `data/build_recipes.csv` and can publish a draft release after a successful build.
-- The build-candidate audit is in `docs/nethunter-build-candidates.md`. Of 450 unique GitHub sources in the build queue, 60 contain a NetHunter defconfig and only 6 also contain an AnyKernel script.
+- The build-candidate audit is in `docs/nethunter-build-candidates.md`. Of 450 unique GitHub sources in the build queue, 60 contain a NetHunter defconfig (83 of 604 rows) and only 6 also contain an AnyKernel script (7 rows). The other 521 rows have no NetHunter defconfig at all.
+- The first project-built kernel is a Redmi Note 8 (`ginkgo`) pre-release, built from `ikteach/ginkgo_nethunter_kernel`. It is ZIP-validated but not boot-tested: https://github.com/OPX-Aminul/nethunter-all-kernel/releases/tag/project-build-ginkgo-20261020
 
 See `docs/nethunter-release-audit.md` for the per-device kernel/release counts and `docs/nethunter-kernel-build-guide.md` for the build policy.
 

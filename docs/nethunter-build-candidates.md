@@ -12,7 +12,9 @@ boots.
 | Unique source URLs in the queue | 468 |
 | Unique GitHub source repositories scanned | 450 |
 | Repositories containing `arch/arm64/configs/nethunter_defconfig` or `arch/arm/configs/nethunter_defconfig` | 60 |
-| Repositories also containing an AnyKernel3 script | 6 |
+| Build-queue rows inside those 60 repositories | 83 |
+| Build-queue rows still without any NetHunter defconfig | 521 |
+| Repositories also containing an AnyKernel3 script | 6 (7 rows) |
 | Repositories with a defconfig but no AnyKernel3 script | 54 |
 | GitHub repositories with no NetHunter defconfig | 390 |
 
