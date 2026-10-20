@@ -60,3 +60,14 @@ python3 scripts/discover_build_candidates.py
 
 The output is `data/build_candidates.csv`. Add validated rows to
 `data/build_recipes.csv` and run the `Build source kernel` workflow.
+
+
+## Completed project builds
+
+| Device | Codename | Source commit | ZIP | Status |
+|---|---|---|---|---|
+| Redmi Note 8 / 8T | `ginkgo` / `willow` | `6b899fb` | `nethunter-ginkgo-20261020.zip` | Built and ZIP-validated; not boot-tested |
+
+The build record, SHA-256, workflow run, defconfig, and block path are in
+`data/project_builds.csv`. The first artifact is a draft release until a matching device
+confirms boot.
