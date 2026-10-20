@@ -31,7 +31,7 @@ jobs:
       - name: Install build tools
         run: |
           sudo apt-get update -qq
-          sudo apt-get install -y -qq build-essential bc bison flex libssl-dev libelf-dev zip unzip git clang lld zstd dtc swig cpio rsync xz-utils
+          sudo apt-get install -y -qq build-essential bc bison flex libssl-dev libelf-dev zip unzip git clang lld zstd device-tree-compiler swig cpio rsync xz-utils
 
       - name: Load build recipe
         shell: bash
