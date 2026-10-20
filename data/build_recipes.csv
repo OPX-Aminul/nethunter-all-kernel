@@ -1,3 +1,4 @@
 recipe_id,device,codename,repository_url,ref,defconfig,arch,block_device,toolchain,notes,build_script
 ginkgo-ikteach,Redmi Note 8,ginkgo,https://github.com/ikteach/ginkgo_nethunter_kernel,main,nethunter_defconfig,arm64,/dev/block/bootdevice/by-name/boot,clang,,build.sh
 ginkgo-medlam,Redmi Note 8,ginkgo,https://github.com/medlam1981/ginkgo_ai_kernel,main,nethunter_defconfig,arm64,/dev/block/bootdevice/by-name/boot,clang,,build.sh
+a51-lancer,Galaxy A51,a51,https://github.com/leonidas20145/lancer-kernel-galaxy-a51-kernel,master,nethunter_defconfig,arm64,/dev/block/platform/13520000.ufs/by-name/boot,clang,,build.sh

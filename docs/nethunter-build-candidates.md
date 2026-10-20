@@ -35,6 +35,19 @@ does not consume GitHub API search quota. A repository outside GitHub was not sc
 The Mi 9 repository uses `block=auto`; it is not a fixed block path, so packaging it needs a
 manual review before it can be treated as a candidate.
 
+## Verified-only build status
+
+| Device | Repository | Status |
+|---|---|---|
+| Redmi Note 8 / 8T (`ginkgo`) | `ikteach/ginkgo_nethunter_kernel` | **Built**, ZIP validated, not boot-tested |
+| Redmi Note 8 / 8T (`ginkgo`) | `medlam1981/ginkgo_ai_kernel` | Queued, repo script downloads its own toolchain |
+| Galaxy A51 (`a51`) | `leonidas20145/lancer-kernel-galaxy-a51-kernel` | Queued, repo script downloads its own toolchain |
+| Redmi Note 8T (`willow`) | `vaginessa/Cuh-Nethunter-Kernel-willow` | Blocked: script expects a local `tc/prelude-clang` that the repo does not contain |
+| Mi A3 (`laurel-sprout`) | `yesimxev/android_kernel_laurel_sprout` | Blocked: script hardcodes `/mnt/QuickBoi/LineageOS/22` |
+| Mi 9 (`cepheus`) | `asna80/android_kernel_xiaomi_cepheus_MI9` | Blocked: `block=auto` and hardcoded `/mnt/data` toolchain |
+
+A blocked repository is not published with a guessed block path or a guessed toolchain.
+
 ## Why 604 ZIPs cannot be published as "perfect"
 
 - 54 of the 60 NetHunter-defconfig repositories have no AnyKernel3 script. Their block
