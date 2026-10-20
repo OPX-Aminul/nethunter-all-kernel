@@ -12,4 +12,5 @@ row = next((r for r in rows if r.get('recipe_id') == want), None)
 if not row:
     raise SystemExit(f'recipe not found: {want}. Add it to data/build_recipes.csv first.')
 for key in ('recipe_id', 'device', 'codename', 'repository_url', 'ref', 'defconfig', 'arch', 'block_device', 'toolchain', 'build_script', 'build_patch'):
-    print(f"{key.upper()}={shlex.quote(row.get(key, ''))}")
+    value = row.get(key, '') or ''
+    print(f"{key.upper()}=" + (shlex.quote(value) if value else ''))
