@@ -9,6 +9,8 @@ ARCH="${ARCH:-arm64}"
 REF="${REF:-}"
 TOOLCHAIN="${TOOLCHAIN:-clang}"
 BUILD_SCRIPT="${BUILD_SCRIPT:-}"
+BUILD_PATCH="${BUILD_PATCH:-}"
+ROOT="$(pwd)"
 OUT_ZIP="${OUT_ZIP:-nethunter-${CODENAME}-$(date -u +%Y%m%d).zip}"
 
 work="$(mktemp -d)"
@@ -23,6 +25,11 @@ else
 fi
 
 mkdir -p dist
+
+if [ -n "$BUILD_PATCH" ]; then
+  echo "Applying recipe patch $BUILD_PATCH"
+  ( cd "$src" && bash "$ROOT/$BUILD_PATCH" )
+fi
 
 if [ -n "$BUILD_SCRIPT" ]; then
   echo "Running repository build script $BUILD_SCRIPT"
