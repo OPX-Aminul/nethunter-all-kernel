@@ -8,6 +8,7 @@ set -euo pipefail
 ARCH="${ARCH:-arm64}"
 REF="${REF:-}"
 TOOLCHAIN="${TOOLCHAIN:-clang}"
+BUILD_SCRIPT="${BUILD_SCRIPT:-}"
 OUT_ZIP="${OUT_ZIP:-nethunter-${CODENAME}-$(date -u +%Y%m%d).zip}"
 
 work="$(mktemp -d)"
@@ -19,6 +20,25 @@ if [ -n "$REF" ]; then
   git clone --depth 1 --branch "$REF" "$REPOSITORY_URL" "$src"
 else
   git clone --depth 1 "$REPOSITORY_URL" "$src"
+fi
+
+mkdir -p dist
+
+if [ -n "$BUILD_SCRIPT" ]; then
+  echo "Running repository build script $BUILD_SCRIPT"
+  ( cd "$src" && chmod +x "$BUILD_SCRIPT" && bash "$BUILD_SCRIPT" )
+  zipfile="$(find "$src" -maxdepth 3 -type f -name '*.zip' -print0 | xargs -0 ls -t 2>/dev/null | head -n 1)"
+  if [ -z "$zipfile" ] || [ ! -s "$zipfile" ]; then
+    echo "Repository build finished without a ZIP. Refusing to publish." >&2
+    exit 3
+  fi
+  echo "Using repository ZIP $zipfile"
+  cp "$zipfile" "dist/$OUT_ZIP"
+  unzip -t "dist/$OUT_ZIP" >/dev/null
+  unzip -l "dist/$OUT_ZIP" | grep -qE "Image|zImage" || { echo "ZIP has no kernel image" >&2; exit 6; }
+  sha256sum "dist/$OUT_ZIP" > "dist/$OUT_ZIP.sha256"
+  echo "Wrote dist/$OUT_ZIP"
+  exit 0
 fi
 
 confdir="$src/arch/$ARCH/configs"

@@ -1,1 +1,2 @@
-recipe_id,device,codename,repository_url,ref,defconfig,arch,block_device,toolchain,notes
+recipe_id,device,codename,repository_url,ref,defconfig,arch,block_device,toolchain,notes,build_script
+ginkgo-ikteach,Redmi Note 8,ginkgo,https://github.com/ikteach/ginkgo_nethunter_kernel,main,nethunter_defconfig,arm64,/dev/block/bootdevice/by-name/boot,clang,,build.sh

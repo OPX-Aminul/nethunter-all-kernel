@@ -11,5 +11,5 @@ rows = list(csv.DictReader(open(path, encoding='utf-8')))
 row = next((r for r in rows if r.get('recipe_id') == want), None)
 if not row:
     raise SystemExit(f'recipe not found: {want}. Add it to data/build_recipes.csv first.')
-for key in ('recipe_id', 'device', 'codename', 'repository_url', 'ref', 'defconfig', 'arch', 'block_device', 'toolchain'):
+for key in ('recipe_id', 'device', 'codename', 'repository_url', 'ref', 'defconfig', 'arch', 'block_device', 'toolchain', 'build_script'):
     print(f"{key.upper()}={shlex.quote(row.get(key, ''))}")

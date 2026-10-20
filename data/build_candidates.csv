@@ -1,0 +1,61 @@
+owner,repo,repository_url,defconfig,anykernel,block_device,device_names,source_rows,codename,device,status
+asna80,android_kernel_xiaomi_cepheus_MI9,https://github.com/asna80/android_kernel_xiaomi_cepheus_MI9,arch/arm64/configs/nethunter_defconfig,anykernel.sh,,cepheus;Cepheus;cepheus-user;Mi;Mi9,1,cepheus,Mi 9,has_defconfig_and_anykernel
+ikteach,ginkgo_nethunter_kernel,https://github.com/ikteach/ginkgo_nethunter_kernel,arch/arm64/configs/nethunter_defconfig,AnyKernel3/anykernel.sh,/dev/block/bootdevice/by-name/boot,ginkgo;willow,1,ginkgo,Redmi Note 8,has_defconfig_and_anykernel
+leonidas20145,lancer-kernel-galaxy-a51-kernel,https://github.com/leonidas20145/lancer-kernel-galaxy-a51-kernel,arch/arm64/configs/nethunter_defconfig,AnyKernel3/anykernel.sh,/dev/block/platform/13520000.ufs/by-name/boot,a51;f41;m31s;m31;m21;gta4xl;gta4xlwifi;m21s,1,a51,Galaxy,has_defconfig_and_anykernel
+medlam1981,ginkgo_ai_kernel,https://github.com/medlam1981/ginkgo_ai_kernel,arch/arm64/configs/nethunter_defconfig,AnyKernel3/anykernel.sh,/dev/block/bootdevice/by-name/boot,ginkgo;willow,1,ginkgo,Redmi Note 8,has_defconfig_and_anykernel
+vaginessa,Cuh-Nethunter-Kernel-willow,https://github.com/vaginessa/Cuh-Nethunter-Kernel-willow,arch/arm64/configs/nethunter_defconfig,AnyKernel3/anykernel.sh,/dev/block/bootdevice/by-name/boot,ginkgo;willow,1,willow,Redmi Note 8T,has_defconfig_and_anykernel
+yesimxev,android_kernel_laurel_sprout,https://github.com/yesimxev/android_kernel_laurel_sprout,arch/arm64/configs/nethunter_defconfig,AnyKernel3/anykernel.sh,/dev/block/bootdevice/by-name/boot,laurel_sprout;MI,2,laurel-sprout,Mi A3,has_defconfig_and_anykernel
+DX4GREY,kernel_xiaomi_sdm845,https://github.com/DX4GREY/kernel_xiaomi_sdm845,arch/arm64/configs/nethunter_defconfig,,,,1,beryllium,Pocophone F1,needs_anykernel_and_block
+Flofy-Dev,Pixel_9a_nethunter_kernel,https://github.com/Flofy-Dev/Pixel_9a_nethunter_kernel,arch/arm64/configs/nethunter_defconfig,,,,1,tegu,Pixel 9a,needs_anykernel_and_block
+Frostleaft07,android_kernel_realme_mt6765,https://github.com/Frostleaft07/android_kernel_realme_mt6765,arch/arm64/configs/nethunter_defconfig,,,,1,rmx2180,Realme C15 Mediatek,needs_anykernel_and_block
+KoraiLabs,davinci-nethunter-21,https://github.com/KoraiLabs/davinci-nethunter-21,arch/arm64/configs/nethunter_defconfig,,,,1,davinci,Mi 9T,needs_anykernel_and_block
+Loukious,nethunter_kernel_oneplus_sdm845,https://github.com/Loukious/nethunter_kernel_oneplus_sdm845,arch/arm64/configs/nethunter_defconfig,,,,1,oneplus6,OnePlus 6 / 6T,needs_anykernel_and_block
+MomboteQ,hackphone_kernel_xiaomi_msm8937,https://github.com/MomboteQ/hackphone_kernel_xiaomi_msm8937,arch/arm64/configs/nethunter_defconfig,,,,2,santoni,Redmi 4 / 4X;Redmi 4/4X,needs_anykernel_and_block
+Re4son,android_kernel_huawei_angler,https://github.com/Re4son/android_kernel_huawei_angler,arch/arm64/configs/nethunter_defconfig,,,,1,angler,Google/Huawei Nexus 6P,needs_anykernel_and_block
+Re4son,android_kernel_huawei_angler_pixel,https://github.com/Re4son/android_kernel_huawei_angler_pixel,arch/arm64/configs/nethunter_defconfig,,,,1,angler,Google/Huawei Nexus 6P,needs_anykernel_and_block
+Re4son,android_kernel_lge_bullhead,https://github.com/Re4son/android_kernel_lge_bullhead,arch/arm64/configs/nethunter_defconfig,,,,1,bullhead,Nexus 5X,needs_anykernel_and_block
+Re4son,android_kernel_oneplus_sm8150,https://github.com/Re4son/android_kernel_oneplus_sm8150,arch/arm64/configs/nethunter_defconfig,,,,1,oneplus7,OnePlus 7 / 7 Pro / 7T / 7T Pro,needs_anykernel_and_block
+Re4son,android_kernel_oneplus_sm8150_draco,https://github.com/Re4son/android_kernel_oneplus_sm8150_draco,arch/arm64/configs/nethunter_defconfig,,,,1,oneplus7,OnePlus 7 / 7 Pro / 7T / 7T Pro,needs_anykernel_and_block
+ShorterKing,ShorterKing-Nethunter-Kernel-Realme-RMX2020-27,https://github.com/ShorterKing/ShorterKing-Nethunter-Kernel-Realme-RMX2020-27,arch/arm64/configs/nethunter_defconfig,,,,1,rmx2020,Realme C3 / Narzo 10A,needs_anykernel_and_block
+Svirusx,NetHunter-s7-kernel-LineageOS14.1,https://github.com/Svirusx/NetHunter-s7-kernel-LineageOS14.1,arch/arm64/configs/nethunter_defconfig,,,,2,hero2lte;herolte,Galaxy S7;Galaxy S7 Edge,needs_anykernel_and_block
+Svirusx,NetHunter-s7-kernel-StockOreo,https://github.com/Svirusx/NetHunter-s7-kernel-StockOreo,arch/arm64/configs/nethunter_defconfig,,,,2,hero2lte;herolte,Galaxy S7;Galaxy S7 Edge,needs_anykernel_and_block
+Svirusx,Nethunter-s7-kernel-LineageOS16.0,https://github.com/Svirusx/Nethunter-s7-kernel-LineageOS16.0,arch/arm64/configs/nethunter_defconfig,,,,2,hero2lte;herolte,Galaxy S7;Galaxy S7 Edge,needs_anykernel_and_block
+Thiviyan,KRAKEN_7870_Nethunter,https://github.com/Thiviyan/KRAKEN_7870_Nethunter,arch/arm64/configs/nethunter_defconfig,,,,2,j7y17lte;on7xlte,Galaxy J7 Prime;Galaxy J7 Pro,needs_anykernel_and_block
+V3rB0se,Alynx-nethunter-sunfish,https://github.com/V3rB0se/Alynx-nethunter-sunfish,arch/arm64/configs/nethunter_defconfig,,,,2,sunfish,Pixel 4a,needs_anykernel_and_block
+ahmadkhan-git,android_kernel_samsung_on7xelte,https://github.com/ahmadkhan-git/android_kernel_samsung_on7xelte,arch/arm64/configs/nethunter_defconfig,,,,1,on7xelte,Galaxy J7 Prime,needs_anykernel_and_block
+apk0mix5900,android_kernel_huawei_hi3650,https://github.com/apk0mix5900/android_kernel_huawei_hi3650,arch/arm64/configs/nethunter_defconfig,,,,1,eva,Huawei P9,needs_anykernel_and_block
+bollustrado,nethunter_kernel_xiaomi_garnet,https://github.com/bollustrado/nethunter_kernel_xiaomi_garnet,arch/arm64/configs/nethunter_defconfig,,,,1,garnet,Redmi Note 13 Pro 5G,needs_anykernel_and_block
+chkndrp,device_xiaomi_mido-nethunter-kernel,https://github.com/chkndrp/device_xiaomi_mido-nethunter-kernel,arch/arm64/configs/nethunter_defconfig,,,,1,mido,Redmi Note 4 / 4X,needs_anykernel_and_block
+d4rks1d33,moto-g82-kali-nethunter-custom-kernel,https://github.com/d4rks1d33/moto-g82-kali-nethunter-custom-kernel,arch/arm64/configs/nethunter_defconfig,,,,1,rhodep,Moto G82 5G,needs_anykernel_and_block
+dek0der,kernel_realme_RMX3031,https://github.com/dek0der/kernel_realme_RMX3031,arch/arm64/configs/nethunter_defconfig,,,,1,rmx3031,Realme X7 Max 5G,needs_anykernel_and_block
+dek0der,nethunter_kernel_redmi_6_pro_sakura,https://github.com/dek0der/nethunter_kernel_redmi_6_pro_sakura,arch/arm64/configs/nethunter_defconfig,,,,2,sakura,Redmi 6 Pro,needs_anykernel_and_block
+dr1408,kernel_xiaomi_surya_16,https://github.com/dr1408/kernel_xiaomi_surya_16,arch/arm64/configs/nethunter_defconfig,,,,1,surya-16,Poco X3 NFC,needs_anykernel_and_block
+dr1408,kernel_xiaomi_surya_nethunter,https://github.com/dr1408/kernel_xiaomi_surya_nethunter,arch/arm64/configs/nethunter_defconfig,,,,1,surya,Pocophone X3 NFC,needs_anykernel_and_block
+flypatriot,crdroid_12_kernel,https://github.com/flypatriot/crdroid_12_kernel,arch/arm64/configs/nethunter_defconfig,,,,1,oneplus8,OnePlus 8 / 8T / 8 Pro,needs_anykernel_and_block
+halfclub58,rmx1971_kernel,https://github.com/halfclub58/rmx1971_kernel,arch/arm64/configs/nethunter_defconfig,,,,1,rmx1971-rui2,Realme 5 Pro,needs_anykernel_and_block
+ikteach,ginkgo_kernel,https://github.com/ikteach/ginkgo_kernel,arch/arm64/configs/nethunter_defconfig,,,,1,ginkgo,Redmi Note 8,needs_anykernel_and_block
+jakkunight,gts6lwifi-custom-kernel,https://github.com/jakkunight/gts6lwifi-custom-kernel,arch/arm64/configs/nethunter_defconfig,,,,1,gts6lwifi,Galaxy Tab S6 Lite,needs_anykernel_and_block
+jcadduono,android_kernel_huawei_angler,https://github.com/jcadduono/android_kernel_huawei_angler,arch/arm64/configs/nethunter_defconfig,,,,1,angler,Google/Huawei Nexus 6P,needs_anykernel_and_block
+kimocoder,DJY-Nethunter-Andrax-Kernel-Source,https://github.com/kimocoder/DJY-Nethunter-Andrax-Kernel-Source,arch/arm64/configs/nethunter_defconfig,,,,1,oneplus6,OnePlus 6 / 6T,needs_anykernel_and_block
+kimocoder,android_kernel_oneplus6,https://github.com/kimocoder/android_kernel_oneplus6,arch/arm64/configs/nethunter_defconfig,,,,2,oneplus6,OnePlus 6 / 6T,needs_anykernel_and_block
+lordwanggolf,android_kernel_nethunter_billie,https://github.com/lordwanggolf/android_kernel_nethunter_billie,arch/arm64/configs/nethunter_defconfig,,,,1,billie,OnePlus Nord N10 5G,needs_anykernel_and_block
+medlam1981,ginkgo_nethunter_kernel,https://github.com/medlam1981/ginkgo_nethunter_kernel,arch/arm64/configs/nethunter_defconfig,,,,1,ginkgo,Redmi Note 8,needs_anykernel_and_block
+mikhailsimon,nethunter-r5x,https://github.com/mikhailsimon/nethunter-r5x,arch/arm64/configs/nethunter_defconfig,,,,1,rmx1911,Realme 5 / 5i / 5s,needs_anykernel_and_block
+mr00k3,jasmine_sprout_nethunter,https://github.com/mr00k3/jasmine_sprout_nethunter,arch/arm64/configs/nethunter_defconfig,,,,1,jasmine-sprout,Mi A2,needs_anykernel_and_block
+prodject,OP5_Nethunter_kernel,https://github.com/prodject/OP5_Nethunter_kernel,arch/arm64/configs/nethunter_defconfig,,,,1,cheeseburger/dumpling,OnePlus 5 / 5T,needs_anykernel_and_block
+ruik3z,kernel-pipa,https://github.com/ruik3z/kernel-pipa,arch/arm64/configs/nethunter_defconfig,,,,1,pipa,Pad 6,needs_anykernel_and_block
+sauravsinha239,Nethunter_kernel_lavender,https://github.com/sauravsinha239/Nethunter_kernel_lavender,arch/arm64/configs/nethunter_defconfig,,,,1,lavender,Redmi Note 7,needs_anykernel_and_block
+v0lk3n,nethunter_kernel_samsung_exynos9810,https://github.com/v0lk3n/nethunter_kernel_samsung_exynos9810,arch/arm64/configs/nethunter_defconfig,,,,1,starlte,Galaxy S9 / S9+,needs_anykernel_and_block
+vip3r-kernels,kernel_source_n_dior,https://github.com/vip3r-kernels/kernel_source_n_dior,arch/arm/configs/nethunter_defconfig,,,,1,dior,Redmi Note 4G,needs_anykernel_and_block
+xNNism,aosp_nethunter-kernel_oneplus_msm8994,https://github.com/xNNism/aosp_nethunter-kernel_oneplus_msm8994,arch/arm64/configs/nethunter_defconfig,,,,1,oneplus2,OnePlus 2,needs_anykernel_and_block
+yesimxev,android_kernel_lge_msm8996,https://github.com/yesimxev/android_kernel_lge_msm8996,arch/arm64/configs/nethunter_defconfig,,,,3,h990,LG V20,needs_anykernel_and_block
+yesimxev,android_kernel_motorola_msm8998,https://github.com/yesimxev/android_kernel_motorola_msm8998,arch/arm64/configs/nethunter_defconfig,,,,2,payton,Moto X4,needs_anykernel_and_block
+yesimxev,android_kernel_nokia_es2,https://github.com/yesimxev/android_kernel_nokia_es2,arch/arm64/configs/nethunter_defconfig,,,,1,es2,Nokia 3.1,needs_anykernel_and_block
+yesimxev,android_kernel_nokia_sdm660,https://github.com/yesimxev/android_kernel_nokia_sdm660,arch/arm64/configs/nethunter_defconfig,,,,6,drg;pl2,Nokia 6.1;Nokia 6.1 Plus,needs_anykernel_and_block
+yesimxev,android_kernel_oppo_msm8974,https://github.com/yesimxev/android_kernel_oppo_msm8974,arch/arm/configs/nethunter_defconfig,,,,4,oneplus1,OnePlus One,needs_anykernel_and_block
+yesimxev,android_kernel_samsung_universal7580,https://github.com/yesimxev/android_kernel_samsung_universal7580,arch/arm64/configs/nethunter_defconfig,,,,1,a7xelte,Galaxy A7 (2016),needs_anykernel_and_block
+yesimxev,android_kernel_xiaomi_laurel_sprout,https://github.com/yesimxev/android_kernel_xiaomi_laurel_sprout,arch/arm64/configs/nethunter_defconfig,,,,3,laurel-sprout,Mi A3,needs_anykernel_and_block
+yesimxev,android_kernel_xiaomi_sdm710,https://github.com/yesimxev/android_kernel_xiaomi_sdm710,arch/arm64/configs/nethunter_defconfig,,,,2,pyxis,Mi 9 Lite / CC9,needs_anykernel_and_block
+yesimxev,mobvoi-ticwatch-kernel,https://github.com/yesimxev/mobvoi-ticwatch-kernel,arch/arm/configs/nethunter_defconfig,,,,1,ticwatchpro3,TicWatch Pro 3 GPS/LTE / Pro 3 Ultra GPS/LTE,needs_anykernel_and_block
+yesimxev,msm-catfish-9.0-wear-os,https://github.com/yesimxev/msm-catfish-9.0-wear-os,arch/arm/configs/nethunter_defconfig,,,,1,ticwatchpro,TicWatch Pro / Pro 4G/LTE / Pro 2020,needs_anykernel_and_block
+zulfi0,surya_kernel_nethunter_docker,https://github.com/zulfi0/surya_kernel_nethunter_docker,arch/arm64/configs/nethunter_defconfig,,,,1,surya,Pocophone X3 NFC,needs_anykernel_and_block
