@@ -1,0 +1,4 @@
+device,codename,recipe_id,repository_url,workflow_run,status,reason
+Redmi Note 8,ginkgo,ginkgo-ikteach,https://github.com/ikteach/ginkgo_nethunter_kernel,https://github.com/OPX-Aminul/nethunter-all-kernel/actions/runs/39379039634,success,ZIP built and validated; not boot-tested
+Redmi Note 8,ginkgo,ginkgo-medlam,https://github.com/medlam1981/ginkgo_ai_kernel,https://github.com/OPX-Aminul/nethunter-all-kernel/actions/runs/39584913910,failed,qcacld-3.0 build hit /bin/sh Argument list too long (Error 127)
+Galaxy A51,a51,a51-lancer,https://github.com/leonidas20145/lancer-kernel-galaxy-a51-kernel,https://github.com/OPX-Aminul/nethunter-all-kernel/actions/runs/39583285154,failed,Upstream Kconfig references missing drivers/net/wireless/realtek/rtl8188eus/Kconfig
